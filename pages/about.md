@@ -1,24 +1,20 @@
 ---
 layout: page
 title: about
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
 
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) (for [R](https://www.r-project.org)).
+Sou professor adjunto do
+[Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/)
+no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/);
+onde atuo na formação de professores de Ciências e Matemática.
 
-Karl received a BS in [mathematics](http://uwm.edu/math)
-in 1991, from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](http://stat.berkeley.edu) in 1997, from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](http://www.wehi.edu.au/people/terry-speed).
-He was a postdoctoral fellow with James Weber at the
-[Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
-1997&ndash;1999. He
+Obtive minha Licenciatura em Física [mathematics](http://uwm.edu/math)
+em 2009, no [Instituto de Física](http://portal.if.usp.br/ifusp/) da [Universidade de São Paulo](https://www5.usp.br/).
+Em 2013 defendi o mestrado em Ensino de Ciências no [Programa de Pós-Graduação Interunidades em Ensino de Ciências](http://portal.if.usp.br/cpgi/)
+e em 2017 me tornei Doutor em Educação pela [Faculdade de Educação da USP](http://www4.fe.usp.br/). 
+
+Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Humanidades da USP (EACH)] He
 was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
 Hopkins University, 1999&ndash;2007. In 2007, he moved to the
 [University of Wisconsin&ndash;Madison](https://www.wisc.edu).
