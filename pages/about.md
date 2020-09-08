@@ -32,7 +32,7 @@ he/him
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
+            Prof. Dr. Francisco Nascimento<br/>
             <a href="https://www.biostat.wisc.edu">Instituto de Humanidades, Artes e Ciências - IHAC</a><br/>
             <a href="https://www.wisc.edu">Universidade Federal do Sul da Bahia - UFSB</a><br/>
             <a href="https://map.wisc.edu/s/2tie3nen">Campus Sosígenes Costa</a><br/>
