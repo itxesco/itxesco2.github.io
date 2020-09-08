@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
-keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
+title: Francisco de Assis Nascimento Junior
+description: Francisco Nascimento é professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia em Porto Seguro (BA), onde atua na formação de professores; pesquisa as relações de identidade de gênero/étnico-raciais com a Ciência através de Histórias em Quadrinhos de Super-Heróis.
+keywords: Ensino de Física, Ensino de Ciências, histórias em quadrinhos, super-heróis, relações étnico-raciais,  comunidade de aprendizagem, 
 ---
 
 <div class="navbar">
@@ -11,7 +11,7 @@ keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical g
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/kbroman">github</a></li>
           <li><a href="https://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
+          <li><a href="https://twitter.com/itxesco">@itxesco</a></li>
       </ul>
   </div>
 </div>
