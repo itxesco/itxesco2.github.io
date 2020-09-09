@@ -11,6 +11,7 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em ensino de ciências e 
             <li><a href="https://rqtl.org">Histórias em Quadrinhos</a></li>
             <li><a href="https://kbroman.org/qtl2">RPG</a></li>
             <li><a href="https://kbroman.org/qtlcharts">identidades</a></li>
+            <li><a href="https://kbroman.org/orientacao">orientação</a></li>
         </ul>
     </div>
 </div>
@@ -59,18 +60,16 @@ a set of graphics panels of different types (e.g., scatterplot,
 dotchart, and heatmap).
 
 ---
+#### <a name="orientacao"></a>[Orientações](https://kbroman.org/qtlcharts2)
 
-#### <a name="f2"></a>f2
+**Mestrado**: 
+[Fabrício](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)    | [projeto](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
+[Míriam](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)      | [projeto](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
+[Sheila](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)      | [projeto](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
+[Valtiangeli](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) | [projeto](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
 
-Version 0.50 (7 Feb 2000)
-
-Software for QTL analysis of an F2 intercross experiment,
-including forward selection for multiple QTLs, all pairs of loci, and
-pairwise interactions.
-
-**Note**: This is very preliminary, the input and output
-are not well documented, and I'm no longer actively developing this software.  Look at [R/qtl](https://rqtl.org), instead.
-
-Download: [source](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) | [windows](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
-
-Sample data \[[tar.gz](https://www.biostat.wisc.edu/software/f2/example.tar.gz) | [zip](https://www.biostat.wisc.edu/software/f2/example.zip)\]
+**Iniciação Científica**: 
+[Vitor](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)    | [projeto](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
+[Vitoria](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)  | [projeto](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
+[Carleane](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) | [projeto](https://www.biostat.wisc.edu/software/f2/f2_0.50.zip)
+[Bruna](https://www.biostat.wisc.edu/software/f2/example.tar.gz)    | [projeto](https://www.biostat.wisc.edu/software/f2/example.zip)
