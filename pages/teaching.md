@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Componentes Curriculares ministrados
+title: Componentes Curriculares ministrados na UFSB
 description: aulas de Francisco Nascimento
 ---
 
@@ -9,36 +9,23 @@ description: aulas de Francisco Nascimento
         <ul class="nav">
             <li><a href="#current">para graduação</a></li>
             <li><a href="#shortcourses">para pós-graduação</a></li>
-            <li><a href="#misc">outras universidades</a></li>
-            <li><a href="#old">ministrados anteriormente</a></li>
+            <li><a href="#misc">outras instituições</a></li>
+            <li><a href="#old">anteriores</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="current"></a>Quadrimestre Atual
+### <a name="current"></a>2020.2
 
-#### [Dinâmica Clássica e Tecnologia](https://kbroman.org/BMI881)
+#### [Estágio Supervisionado I](https://kbroman.org/BMI882)
 
-- [programa](https://kbroman.org/BMI881/schedule.html)
-- [syllabus](https://kbroman.org/BMI881/syllabus.html)
-- [roteiros](https://kbroman.org/BMI881/assignments.html)
-- [recursos](https://kbroman.org/BMI881/resources.html)
+- [schedule](https://kbroman.org/BMI882/schedule.html)
+- [syllabus](https://kbroman.org/BMI882/syllabus.html)
+- [assignments](https://kbroman.org/BMI882/assignments.html)
+- [resources](https://kbroman.org/BMI882/resources.html)
 
-
-#### [Estágio Supervisionado III](https://kbroman.org/BMI883)
-
-- [schedule](https://kbroman.org/BMI883/schedule.html)
-- [syllabus](https://kbroman.org/BMI883/syllabus.html)
-- [assignments](https://kbroman.org/BMI883/assignments.html)
-- [resources](https://kbroman.org/BMI883/resources.html)
-
-
----
-
-### <a name="shortcourses"></a>Quadrimestres Anteriores
-
-#### [Estágio Supervisionado I)](https://kbroman.org/BMI882)
+#### [Estágio Supervisionado IV](https://kbroman.org/BMI882)
 
 - [schedule](https://kbroman.org/BMI882/schedule.html)
 - [syllabus](https://kbroman.org/BMI882/syllabus.html)
@@ -60,6 +47,25 @@ description: aulas de Francisco Nascimento
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
 - [assignments](https://kbroman.org/BMI884/assignments.html)
 - [resources](https://kbroman.org/BMI884/resources.html)
+
+---
+
+### <a name="shortcourses"></a>Quadrimestres Anteriores
+
+#### [Dinâmica Clássica e Tecnologia](https://kbroman.org/BMI881)
+
+- [programa](https://kbroman.org/BMI881/schedule.html)
+- [syllabus](https://kbroman.org/BMI881/syllabus.html)
+- [roteiros](https://kbroman.org/BMI881/assignments.html)
+- [recursos](https://kbroman.org/BMI881/resources.html)
+
+
+#### [Estágio Supervisionado III](https://kbroman.org/BMI883)
+
+- [schedule](https://kbroman.org/BMI883/schedule.html)
+- [syllabus](https://kbroman.org/BMI883/syllabus.html)
+- [assignments](https://kbroman.org/BMI883/assignments.html)
+- [resources](https://kbroman.org/BMI883/resources.html)
 
 
 #### [Movimento e Geometria](https://kbroman.org/BMI884)
