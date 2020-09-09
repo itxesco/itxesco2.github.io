@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Componentes Curriculares ministrados na UFSB
+title: Componentes ministrados na UFSB
 description: aulas de Francisco Nascimento
 ---
 
