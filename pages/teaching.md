@@ -7,10 +7,10 @@ description: aulas de Francisco Nascimento
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#current">para graduação</a></li>
-            <li><a href="#shortcourses">para pós-graduação</a></li>
+            <li><a href="#current">atuais</a></li>
+            <li><a href="#shortcourses">pós-graduação</a></li>
             <li><a href="#misc">outras instituições</a></li>
-            <li><a href="#old">anteriores</a></li>
+            <li><a href="#old">já oferecidos</a></li>
         </ul>
     </div>
 </div>
@@ -116,7 +116,7 @@ description: aulas de Francisco Nascimento
 ---
 ### <a name="shortcourses"></a>Cursos ministrados em outras Universidades
 
-#### [Instituto Federal de São Paulo (IFSP)](https://www.biostat.wisc.edu/~kbroman/teaching/statgen) (140.668)
+#### [Instituto Federal de São Paulo (IFSP)](https://www.biostat.wisc.edu/~kbroman/teaching/statgen)
 
 - Introdução ao Ensino e Divulgação Científica:
   \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
@@ -146,7 +146,7 @@ description: aulas de Francisco Nascimento
   \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
   [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_refs.html)\]
   
-  #### [Universidade Anhembi-Morumbi](https://www.biostat.wisc.edu/~kbroman/teaching/labstat) (140.615-616)
+#### [Universidade Anhembi-Morumbi](https://www.biostat.wisc.edu/~kbroman/teaching/labstat)
   
 - Física Geral:
   \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
@@ -183,7 +183,7 @@ description: aulas de Francisco Nascimento
   \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
   [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
   
- #### [Faculdade de Ciências da FITO (FAC-FITO)](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776)
+  #### [Faculdade de Ciências da FITO (FAC-FITO)](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
  
 - Laboratório de Física Experimental 1:
   \[[pdf (14k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf) |
@@ -215,7 +215,7 @@ description: aulas de Francisco Nascimento
   \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
   [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
   
-  #### [Ensino Médio](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776)
+#### [Ensino Médio](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
   
 - Laboratório de Física Experimental:
   \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
@@ -225,7 +225,7 @@ description: aulas de Francisco Nascimento
   \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
   [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\] 
   
-  #### [Ensino Fundamental](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776)
+#### [Ensino Fundamental](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
   
   - Laboratório de Ciências:
   \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
