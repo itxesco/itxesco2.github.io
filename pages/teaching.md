@@ -43,7 +43,7 @@ description: aulas de Francisco Nascimento
 
 #### [Sociedade Tecnológica e Matrizes Energéticas- ISC0462](https://kbroman.org/BMI884)
 
-- [agenda](https://github.com/itxesco/itxesco.github.io/blob/master/aulas/ISC0462_agenda.md)
+- [agenda](https://itxesco.github.io/aulas/ISC0462/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
 - [assignments](https://kbroman.org/BMI884/assignments.html)
 - [resources](https://kbroman.org/BMI884/resources.html)
