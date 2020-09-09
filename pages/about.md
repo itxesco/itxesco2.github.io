@@ -41,10 +41,10 @@ he/him
             BR<br/><br/>
 
             <div id="hide_email">
-            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: <code>francisco</code><b>eu</b><code>.assis</code><b>não</b><code>@</code><b>quero</b><code></code><b>spam!
+            </b><code></code><b>então</b><code></code><b>por favor</b><code>gfe</code><b>me
+            </b><code>.ufsb</code><b>deixe</b><code>.</code><b>em</b><code>.edu</code><b>paz!</b><code>.br</code><br/>
+            Phone: (73) 3288-8400 (Secretaria Executiva)
             </div>
         </div>
 
