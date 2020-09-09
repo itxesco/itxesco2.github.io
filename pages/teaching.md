@@ -18,9 +18,9 @@ description: aulas de Francisco Nascimento
 
 ### <a name="current"></a>2020.2
 
-#### [Estágio Supervisionado I](https://kbroman.org/BMI882)
+#### [Estágio Supervisionado I - ISC0180](https://kbroman.org/BMI882)
 
-- [schedule](https://kbroman.org/BMI882/schedule.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0180/index.html)
 - [syllabus](https://kbroman.org/BMI882/syllabus.html)
 - [assignments](https://kbroman.org/BMI882/assignments.html)
 - [resources](https://kbroman.org/BMI882/resources.html)
@@ -52,9 +52,9 @@ description: aulas de Francisco Nascimento
 
 ### <a name="shortcourses"></a>Quadrimestres Anteriores
 
-#### [Dinâmica Clássica e Tecnologia](https://kbroman.org/BMI881)
+#### [Dinâmica Clássica e Tecnologia - ISC0222](https://kbroman.org/BMI881)
 
-- [programa](https://kbroman.org/BMI881/schedule.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0222/index.html)
 - [syllabus](https://kbroman.org/BMI881/syllabus.html)
 - [roteiros](https://kbroman.org/BMI881/assignments.html)
 - [recursos](https://kbroman.org/BMI881/resources.html)
@@ -68,33 +68,33 @@ description: aulas de Francisco Nascimento
 - [resources](https://kbroman.org/BMI883/resources.html)
 
 
-#### [Movimento e Geometria](https://kbroman.org/BMI884)
+#### [Movimento e Geometria - ISC0302](https://kbroman.org/BMI884)
 
-- [schedule](https://kbroman.org/BMI884/schedule.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0302/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
 - [assignments](https://kbroman.org/BMI884/assignments.html)
 - [resources](https://kbroman.org/BMI884/resources.html)
 
 
-#### [Cálculo Univariado - Funções e Variações](https://kbroman.org/BMI884)
+#### [Cálculo Univariado - Funções e Variações - ISC0213](https://kbroman.org/BMI884)
 
-- [schedule](https://kbroman.org/BMI884/schedule.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0213/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
 - [assignments](https://kbroman.org/BMI884/assignments.html)
 - [resources](https://kbroman.org/BMI884/resources.html)
 
 
-#### [Pesquisa em Ensino de Ciências](https://kbroman.org/BMI884)
+#### [Pesquisa em Ensino de Ciências - ISC0528](https://kbroman.org/BMI884)
 
-- [schedule](https://kbroman.org/BMI884/schedule.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0528/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
 - [assignments](https://kbroman.org/BMI884/assignments.html)
 - [resources](https://kbroman.org/BMI884/resources.html)
 
 
-#### [Educação e Relações Étnico-Raciais](https://kbroman.org/BMI884)
+#### [Educação e Relações Étnico-Raciais - ISC0312](https://kbroman.org/BMI884)
 
-- [schedule](https://kbroman.org/BMI884/schedule.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0312/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
 - [assignments](https://kbroman.org/BMI884/assignments.html)
 - [resources](https://kbroman.org/BMI884/resources.html)
@@ -103,9 +103,9 @@ description: aulas de Francisco Nascimento
 
 ### <a name="shortcourses"></a>Componentes da Pós-Graduação
 
-#### [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://kbroman.org/BMI884)
+#### [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades - PPGER0034](https://kbroman.org/BMI884)
 
-- [schedule](https://kbroman.org/BMI884/schedule.html)
+- [agenda](https://itxesco.github.io/aulas/PPGER0034/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
 - [assignments](https://kbroman.org/BMI884/assignments.html)
 - [resources](https://kbroman.org/BMI884/resources.html)
