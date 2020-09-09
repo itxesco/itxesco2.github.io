@@ -110,11 +110,7 @@ description: aulas de Francisco Nascimento
 ---
 ### <a name="shortcourses"></a>Cursos ministrados em outras Universidades
 
-#### [Special topics in genetics and genomics](https://www.biostat.wisc.edu/~kbroman/teaching/statgen) (140.668)
-
-#### [Statistics for laboratory scientists](https://www.biostat.wisc.edu/~kbroman/teaching/labstat) (140.615-616)
-
-#### [Statistical computing](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776)
+#### [Instituto Federal de São Paulo (IFSP)](https://www.biostat.wisc.edu/~kbroman/teaching/statgen) (140.668)
 
 - Introdução ao Ensino e Divulgação Científica:
   \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
@@ -143,6 +139,9 @@ description: aulas de Francisco Nascimento
   - Fundamentos da Física para Estruturas:
   \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
   [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_refs.html)\]
+  
+  #### [Universidade Anhembi-Morumbi](https://www.biostat.wisc.edu/~kbroman/teaching/labstat) (140.615-616)
+  
 - Física Geral:
   \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
   [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
@@ -164,7 +163,7 @@ description: aulas de Francisco Nascimento
   \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
   [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
   
-  - Algebra Linear e Vetores:
+- Algebra Linear e Vetores:
   \[[pdf (14k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf) |
   [Example code (c_code_3.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_3.tgz)\]
 -  Cálculo Diferencial:
@@ -178,6 +177,7 @@ description: aulas de Francisco Nascimento
   \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
   [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
   
+ #### [Faculdade de Ciências da FITO (FAC-FITO)](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776)
  
 - Laboratório de Física Experimental 1:
   \[[pdf (14k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf) |
@@ -209,6 +209,8 @@ description: aulas de Francisco Nascimento
   \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
   [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
   
+  #### [Ensino Médio](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776)
+  
 - Laboratório de Física Experimental:
   \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
   [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
@@ -216,6 +218,8 @@ description: aulas de Francisco Nascimento
 - Física Teórica:
   \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
   [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\] 
+  
+  #### [Ensino Fundamental](http://www.biostat.jhsph.edu/~bcaffo/statcomp) (140.776)
   
   - Laboratório de Ciências:
   \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
