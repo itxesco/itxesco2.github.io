@@ -20,25 +20,24 @@ keywords: Ensino de Física, Ensino de Ciências, histórias em quadrinhos, supe
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/publpics/iplotCorr.jpg" alt="Histórias em Quadrinhos" title="Histórias em Quadrinhos"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/mppdiag_fig4.html">
-        <img src="assets/publpics/mppdiag_fig4.png" alt="Broman et
-        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
+        <img src="assets/publpics/mppdiag_fig4.jpg" alt="Oca da Ciência na Escola" title="Oca da Ciência na Escola"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
+        <img src="assets/publpics/samplemixups_fig7.jpg" alt="Jogos de RPG" title="RPG e Educação"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/rqtl2_fig1.html">
-        <img src="assets/publpics/rqtl2_fig1c.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
+        <img src="assets/publpics/rqtl2_fig1c.jpg" alt="Aulas" title="Aulas"/>
     </a>
   </td>
 </tr>
