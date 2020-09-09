@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: sobre
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
 
@@ -33,9 +33,9 @@ he/him
     <div class="row-fluid">
         <div class="span5">
             Prof. Dr. Francisco Nascimento<br/>
-            <a href="https://www.biostat.wisc.edu">Instituto de Humanidades, Artes e Ciências - IHAC</a><br/>
-            <a href="https://www.wisc.edu">Universidade Federal do Sul da Bahia - UFSB</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">Campus Sosígenes Costa</a><br/>
+            <a href="https://www.ufsb.edu.br/ihac/">Instituto de Humanidades, Artes e Ciências - IHAC</a><br/>
+            <a href="https://ufsb.edu.br/">Universidade Federal do Sul da Bahia - UFSB</a><br/>
+            <a href="https://www.ufsb.edu.br/ihac/ihac-csc">Campus Sosígenes Costa</a><br/>
             S/n Rodovia BR-367 Km 10 Zona Rural<br/>
             Porto Seguro - BA, 45810-000<br/>
             BR<br/><br/>
@@ -43,7 +43,7 @@ he/him
             <div id="hide_email">
             Email: <code>francisco</code><b>eu</b><code>.assis</code><b>não</b><code>@</code><b>quero</b><code></code><b>spam!
             </b><code></code><b>então</b><code></code><b>por favor</b><code>gfe</code><b>me
-            </b><code>.ufsb</code><b>deixe</b><code>.</code><b>em</b><code>.edu</code><b>paz!</b><code>.br</code><br/>
+            </b><code>.ufsb</code><b>deixe</b><code>.</code><b>em</b><code>edu</code><b>paz!</b><code>.br</code><br/>
             Phone: (73) 3288-8400 (Secretaria Executiva)
             </div>
         </div>
