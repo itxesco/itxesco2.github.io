@@ -17,9 +17,11 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em ensino de ciências e 
 
 ---
 Atuo nas seguintes linhas de pesquisa:
-1.Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem
 
-2.Histórias em Quadrinhos de Super-Heróis e Impacto Cultural no Ensino de Ciências
+####1.Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem
+
+####2.Histórias em Quadrinhos de Super-Heróis e Impacto Cultural no Ensino de Ciências
+
 ---
 
 #### <a name="quadrinhos"></a>[Histórias em Quadrinhos](https://itxesco.github.io/pesq/hq)
