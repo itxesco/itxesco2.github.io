@@ -5,16 +5,7 @@ description: Francisco Nascimento é professor Adjunto no Campus Sosígenes Cost
 keywords: Ensino de Física, Ensino de Ciências, histórias em quadrinhos, super-heróis, relações étnico-raciais,  comunidade de aprendizagem, 
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/itxesco">github</a></li>
-          <li><a href="https://itxesco.github.io/blog">blog</a></li>
-          <li><a href="https://twitter.com/itxesco">@itxesco</a></li>
-      </ul>
-  </div>
-</div>
+
 
 <table class="wide">
 <tr>
@@ -46,7 +37,10 @@ keywords: Ensino de Física, Ensino de Ciências, histórias em quadrinhos, supe
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="morefigs.html">more figures</a></li>
+         <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+          <li><a href="https://github.com/itxesco">github</a></li>
+          <li><a href="https://itxesco.github.io/blog">blog</a></li>
+          <li><a href="https://twitter.com/itxesco">@itxesco</a></li>
       </ul>
   </div>
 </div>
