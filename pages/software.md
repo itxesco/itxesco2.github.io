@@ -55,20 +55,20 @@ interactive graphics for QTL experiments.
 
 **Mestrado**: 
 
- Fabrício da Silva Santos [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) 
+ Fabrício da Silva Santos [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") 
 
- Miriam Conceição da Silva [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)
+ Miriam Conceição da Silva [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
 
- Sheila Katrini Ferrari Visconde [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)
+ Sheila Katrini Ferrari Visconde [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
 
- Valtiângeli Rodrigues da Silva Moitinho [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)
+ Valtiângeli Rodrigues da Silva Moitinho [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
 
 **Iniciação Científica**:
 
- Vitor Correa Bomfim [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) lattes-icon.png
+ Vitor Correa Bomfim [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") 
 
-Vitória Guimarães Dantas [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)  
+Vitória Guimarães Dantas [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") 
 
-Carleane Nunes Borges [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) 
+Carleane Nunes Borges [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
 
-Bruna Bonfim Caldas[lattes](https://www.biostat.wisc.edu/software/f2/example.tar.gz)    
+Bruna Bonfim Caldas [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")  
