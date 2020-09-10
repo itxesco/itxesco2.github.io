@@ -51,7 +51,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-### <a name="shortcourses"></a>Já Oferecidos
+### <a name="shortcourses"></a>Quadrimestres anteriores
 ---
 
 #### [Dinâmica Clássica e Tecnologia - ISC0222](https://kbroman.org/BMI881)
@@ -113,9 +113,6 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [assignments](https://kbroman.org/BMI884/assignments.html)
 - [resources](https://kbroman.org/BMI884/resources.html)
 
-  - [Course materials](https://github.com/UW-Madison-ACI/boot-camps/blob/2014-08-25/README.md#day-1)
-  - [GitHub repository](https://github.com/UW-Madison-ACI/boot-camps/tree/2014-08-25)
-
 ---
 ### <a name="shortcourses"></a>Cursos ministrados em outras Instituições
 ---
@@ -144,7 +141,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - Cálculo Integral
 - Fundamentos de Ciências Exatas
   
-  #### [Faculdade de Ciências da FITO (FAC-FITO)](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
+  ####[Faculdade de Ciências da FITO (FAC-FITO)](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
  
 - Laboratório de Física Experimental 1
 - Laboratório de Física Experimental 2
