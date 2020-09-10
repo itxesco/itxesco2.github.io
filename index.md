@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Francisco de Assis Nascimento Junior
-description: Francisco Nascimento é professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia em Porto Seguro (BA), onde atua na formação de professores; pesquisa as relações de identidade de gênero/étnico-raciais com a Ciência através de Histórias em Quadrinhos de Super-Heróis.
-keywords: Ensino de Física, Ensino de Ciências, histórias em quadrinhos, super-heróis, relações étnico-raciais,  comunidade de aprendizagem, 
+title: Prof. Dr. Francisco Nascimento 
+description: Francisco de Assis Nascimento Junior,  professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia em Porto Seguro (BA), atuo na formação de professores; pesquisa as relações de identidade de gênero/étnico-raciais com a Ciência através de Histórias em Quadrinhos de Super-Heróis.
+keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ciências, histórias em quadrinhos, super-heróis, relações étnico-raciais,  comunidade de aprendizagem, 
 ---
 
 
@@ -37,9 +37,9 @@ keywords: Ensino de Física, Ensino de Ciências, histórias em quadrinhos, supe
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-         <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
+         <li><a href="https://itxesco.github.io/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/itxesco">github</a></li>
-          <li><a href="https://itxesco.github.io/blog">blog</a></li>
+          <li><a href="https://itxesco.github.io-blog">blog</a></li>
           <li><a href="https://twitter.com/itxesco">@itxesco</a></li>
       </ul>
   </div>
