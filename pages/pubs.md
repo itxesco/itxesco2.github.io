@@ -24,28 +24,28 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 
 ### <a name="articles"></a>artigos
 
-## 2019
+#### 2019
 **NASCIMENTO, Francisco**. Stan Lee, o Quarteto Fantástico e a evolução da divulgação científica nas histórias em quadrinhos de super-heróis: possibilidades para uma aula de ciências. Diálogo (UNILASALLE), v. 1, p. 55-65, 2019. [![doi](icons16/doi-icon.png)](http://dx.doi.org/10.18316/dialogo.v0i42.5872)
-[![pdf](icons16/pdf-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
+[![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/5872-19839-2-PB_1.pdf")
 
 
 #### 2017
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis?. CULTURAS MIDIÁTICAS, v. 10, p. 239-255, 2017. [![doi](icons16/doi-icon.png)](http://dx.doi.org/10.22478/ufpb.1983-5930.2017v10n2.37669)
-[![pdf](icons16/pdf-icon.png)]("{{ BASE_PATH }}/assets/articles/37669-Texto do artigo-88393-1-10-20171226.pdf")
+[![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/37669-Texto do artigo-88393-1-10-20171226.pdf")
 
 
-BARROS, N. R. ; **NASCIMENTO JUNIOR, F. A.** ; PIASSI, L. P. C. . O Funk e o Rock nas estrelas: uma oficina para o ensino de astronomia. REVISTA INTERFACES, v. 5, p. 247-256, 2017. [![pdf](icons16/pdf-icon.png)]("{{ BASE_PATH }}/assets/articles/20170705174923.pdf")
+BARROS, N. R. ; **NASCIMENTO JUNIOR, F. A.** ; PIASSI, L. P. C. . O Funk e o Rock nas estrelas: uma oficina para o ensino de astronomia. REVISTA INTERFACES, v. 5, p. 247-256, 2017. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/20170705174923.pdf")
 
-### 2015
+#### 2015
 
-**NASCIMENTO, F.**; PIASSI, L. P. C. . Role-Playing Games nas Aulas de Física. Revista de Enseñanza de la Física, v. 27, p. 675-681, 2015. [![pdf](icons16/pdf-icon.png)]("{{ BASE_PATH }}/assets/articles/Role-Playing_Games_nas_Aulas_de_Fsica.pdf")
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Role-Playing Games nas Aulas de Física. Revista de Enseñanza de la Física, v. 27, p. 675-681, 2015. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/Role-Playing_Games_nas_Aulas_de_Fsica.pdf")
 
-Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores: uma interface cultural entre o cinema e a física. Revista de Enseñanza de la Física, v. 27, p. 365-370, 2015.  [![pdf](icons16/pdf-icon.png)]("{{ BASE_PATH }}/assets/articles/Batman_e_semicondutores_uma_interface_cultural_entre_o_cinema_e_a_fsica.pdf")
+Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores: uma interface cultural entre o cinema e a física. Revista de Enseñanza de la Física, v. 27, p. 365-370, 2015.  [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/Batman_e_semicondutores_uma_interface_cultural_entre_o_cinema_e_a_fsica.pdf")
 
-### 2014
+#### 2014
 
-**NASCIMENTO, F.**; PIASSI, L. P. . Fantastic Four: Scientific Fiction Comic Books and Cultural Satisfaction as a tool in Physics Teaching. REVISTA DE EDUCACION DE LAS CIENCIAS, v. 15, p. 160-160, 2014. [![pdf](icons16/pdf-icon.png)]("{{ BASE_PATH }}/assets/articles/NASCIMENTOF.A.2014FantasticFour-ScientificFictionComicBooksandCulturalSatisfactionasatoolinPhysicsTeaching.pdf")
+**NASCIMENTO, F.**; PIASSI, L. P. . Fantastic Four: Scientific Fiction Comic Books and Cultural Satisfaction as a tool in Physics Teaching. REVISTA DE EDUCACION DE LAS CIENCIAS, v. 15, p. 160-160, 2014. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/NASCIMENTOF.A.2014FantasticFour-ScientificFictionComicBooksandCulturalSatisfactionasatoolinPhysicsTeaching.pdf")
 
 ### <a name="letters"></a>material didático
 
