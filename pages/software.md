@@ -65,7 +65,7 @@ interactive graphics for QTL experiments.
 
 **Iniciação Científica**:
 
- Vitor Correa Bomfim [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)
+ Vitor Correa Bomfim [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz) lattes-icon.png
 
 Vitória Guimarães Dantas [lattes](https://www.biostat.wisc.edu/software/f2/f2_0.50.tar.gz)  
 
