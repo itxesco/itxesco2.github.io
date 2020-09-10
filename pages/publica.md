@@ -20,6 +20,7 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 
 
 ### <a name="book"></a>livros
+**NASCIMENTO, F.**. Quarteto Fantástico: Ensino de Física e Satisfação Cultural. 1. ed. Balti: Novas Edições Acadêmicas, 2017. v. 1. 116p .
 
 ---
 
@@ -58,6 +59,45 @@ Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores:
 
 ### <a name="anais"></a>trabalhos publicados em anais de eventos
 
+ **NASCIMENTO, F.**; PIASSI, L. P. C. . Questões de Gênero: dos Quadrinhos de Super-Heróis para as aulas de Física. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.
+
+Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Física e Cinema: uma Oficina sobre Supercondutores com o uso do filme Batman, o Cavaleiro das Trevas. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.
+
+BARROS, N. R. ;**NASCIMENTO, F.**; PIASSI, L. P. C. . O funk e o rock nas estrelas: uma oficina para o ensino de astronomia. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . A Gênese da cultura dos quadrinhos no Brasil. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. Anais CONINTER 3 -Volume 5 - Educação, Memória e História, 2014. v. 5. p. 207-221.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Crise de Identidade: a Representação de Gênero nos Quadrinhos de Super-Heróis. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter)o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. CONINTER 3 - Volume 7 - Estudos de Gênero, Feminismo e Sexualidades, 2014. v. 7. p. 1.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Uma análise da cultura dos quadrinhos no brasil. In: I Encontro Brasileiro de Pesquisa em Cultura, 2013, São Paulo. anais do I Encontro Brasileiro de Pesquisa em Cultura, 2013. v. 1. p. 1.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Capitão Átomo: Aventuras Quânticas na Guerra Fria. In: 2 Jornadas Internacionais de Histórias em Quadrinhos, 2013, São Paulo. anais das 2 Jornadas Internacionais de Histórias em Quadrinhos, 2013.
+
+RAMOS, J. E. F. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . A Ciência e o humor nas tiras humorísticas. In: Viñetas Serias: Segundo Congresso Internacional Sobre Historieta y Humor Gráfico, 2012, Buenos Aires. Resúmenes, 2012. v. 1. p. 9-167.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . A leitura de Histórias em Quadrinhos no Ensino de Física. In: Viñetas Serias: Segundo Congresso Internacional Sobre Historieta y Humor Gráfico, 2012, Buenos Aires. Resúmenes, 2012. v. 1. p. 6-167.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . A ciência está nos Quadrinhos?. In: Viñetas Serias: Segundo Congresso Internacional Sobre Historieta y Humor Gráfico, 2012, Buenos Aires. Resúmenes, 2012. v. 1. p. 6-167.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Um lugar para as Histórias em Quadrinhos de Ficção Científica nas aulas de Astronomia. In: II Simpósio Nacional de Educação em Astronomia, 2012, São Paulo. Atas do II SNEA. São Paulo: SAB, 2012. v. único. p. 1.
+
+**NASCIMENTO, F.**; RAMOS, J. E. F. ; PIASSI, L. P. C. . Os 4 fantásticos: Ciência, cultura e quadrinhos no ensino de física. In: 1 Jornadas Internacionais de Histórias em Quadrinhos, 2011, São Paulo. Anais das 1 Jornadas Internacionais de Histórias em Quadrinhos. SP: ECA-USP, 2011. v. 1.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Os desbravadores do fantástico: a divulgação científica em quadrinhos na segunda metade do século xx. In: 1 Jornadas Internacionais de Histórias em Quadrinhos, 2011, São Paulo. Anais das 1 Jornadas Internacionais de Histórias em Quadrinhos. SP: ECA-USP, 2011. v. 1.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Da conquista do espaço aos buracos de minhoca: a astronomia nas histórias em quadrinhos de ficção científica. In: 1 Simpósio Nacional de Ensino de Astronomia, 2011, Rio de Janeiro. Anais do 1 Simpósio Nacional de Ensino de Astronomia. São Paulo: SAB, 2011. v. único.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Uma análise sobre o potencial pedagógico do uso de historias em quadrinhos de ficção científica no ensino de física. In: XIX Simpósio Nacional de Ensino de Física, 2011, Manaus. atas do XIX SNEF, 2011.
+
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Um Estudo do Potencial Didático das Histórias em Quadrinhos de Ficção Científica para o Ensino de Física. In: VIII Encontro Nacional de Pesquisa em Educação em Ciências - ENPEC, 2011, Campinas. Atas do VIII Encontro Nacional de Pesquisa em Educação em Ciências - ENPEC, 2011.
+
+**NASCIMENTO, F.**; RAMOS, J. E. F. ; PIASSI, L. P. C. . O potencial de aplicação de aventuras de RPG no Ensino de Física. In: II SINECT - Simposio Nacional de Ensino de Ciencia e Tecnologia, 2010, Ponta Grossa - PR. ATAS do II SINECT, 2010.
+
+**NASCIMENTO, F.**; PIETROCOLA, M. . Tópicos de Física para RPGistas. In: XVI Simpósio Nacional de Ensino de Física, 2005, Rio de Janeiro. Atas do XVI Simpósio Nacional de Ensino de Física, 2005.
+
+**NASCIMENTO, F.**; PIETROCOLA, M. . O Papel do RPG no Ensino de Física. In: O PAPEL DO RPG NO ENSINO DE FÍSICA, 2005, Bauru. Anais do V ENCONTRO NACIONAL DE PESQUISA EM EDUCAÇÃO EM CIÊNCIAS, 2005.
+
+**NASCIMENTO, F.**; Mantovani, M. S. M. ; Shukowsky, W. . Correções de Terreno para o Trecho Meridional da Serra do Mar. In: 8º International Congress of the Brazilian Geophysical Society, 2003, Rio de Janeiro. Anais do 8º Congresso Internacional da Sociedade Brasileira de Geofísica. Rio de Janeiro: SBGf, 2003. v. 1. p. 0471-0475.
 ---
 
 ### <a name="techreports"></a>tese
