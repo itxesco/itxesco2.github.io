@@ -18,18 +18,18 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
     </div>
 </div>
 
-
+---
 ### <a name="book"></a>livros
-**NASCIMENTO, F.**. Quarteto Fantástico: Ensino de Física e Satisfação Cultural. 1. ed. Balti: Novas Edições Acadêmicas, 2017. v. 1. 116p .
 
+**NASCIMENTO, F.**. Quarteto Fantástico: Ensino de Física e Satisfação Cultural. 1. ed. Balti: Novas Edições Acadêmicas, 2017. v. 1. 116p .
+---
+### <a name="articles"></a>artigos
 ---
 
-### <a name="articles"></a>artigos
-
 #### 2019
+
 **NASCIMENTO, Francisco**. Stan Lee, o Quarteto Fantástico e a evolução da divulgação científica nas histórias em quadrinhos de super-heróis: possibilidades para uma aula de ciências. Diálogo (UNILASALLE), v. 1, p. 55-65, 2019. [![doi](icons16/doi-icon.png)](http://dx.doi.org/10.18316/dialogo.v0i42.5872)
 [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/5872-19839-2-PB_1.pdf")
-
 
 #### 2017
 
@@ -52,12 +52,14 @@ Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores:
 ---
 
 ### <a name="letters"></a>material didático
+---
 
 **NASCIMENTO, F.**; LIMA, M. M. . Superguia Enem : matemática e física. 1. ed. Bauru: Editora Alto Astral, 2014. v. 1. 90p.
 
 ---
 
 ### <a name="anais"></a>trabalhos publicados em anais de eventos
+---
 
  **NASCIMENTO, F.**; PIASSI, L. P. C. . Questões de Gênero: dos Quadrinhos de Super-Heróis para as aulas de Física. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.
 
@@ -97,17 +99,20 @@ RAMOS, J. E. F. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . A Ciência e o humor n
 
 **NASCIMENTO, F.**; PIETROCOLA, M. . O Papel do RPG no Ensino de Física. In: O PAPEL DO RPG NO ENSINO DE FÍSICA, 2005, Bauru. Anais do V ENCONTRO NACIONAL DE PESQUISA EM EDUCAÇÃO EM CIÊNCIAS, 2005.
 
-**NASCIMENTO, F.**; Mantovani, M. S. M. ; Shukowsky, W. . Correções de Terreno para o Trecho Meridional da Serra do Mar. In: 8º International Congress of the Brazilian Geophysical Society, 2003, Rio de Janeiro. Anais do 8º Congresso Internacional da Sociedade Brasileira de Geofísica. Rio de Janeiro: SBGf, 2003. v. 1. p. 0471-0475.
+**NASCIMENTO**, F.; Mantovani, M. S. M. ; Shukowsky, W. . Correções de Terreno para o Trecho Meridional da Serra do Mar. In: 8º International Congress of the Brazilian Geophysical Society, 2003, Rio de Janeiro. Anais do 8º Congresso Internacional da Sociedade Brasileira de Geofísica. Rio de Janeiro: SBGf, 2003. v. 1. p. 0471-0475.
 ---
 
 ### <a name="techreports"></a>tese
+---
 
 **NASCIMENTO, F.** e PIASSI, L.P. **Crise de identidade: gênero e ciência nos quadrinhos de super-heróis**. Tese (Doutorado) – Faculdade de Educação da Universidade
 de São Paulo. São Paulo: Universidade de São Paulo, 2017.
 [disponível no repositório de teses e dissertações da USP](https://teses.usp.br/teses/disponiveis/48/48134/tde-07082017-155126/pt-br.php)
 
+---
 
 ### <a name="thesis"></a>dissertação
+---
 
 **Nascimento, F.A.** e Piassi,L.P **QuartetoFantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências**. Dissertação (Mestrado em Ensino de Ciências). Instituto de Física da Universidade de São Paulo.
 [disponível no repositório de teses e dissertações da USP](https://teses.usp.br/teses/disponiveis/81/81131/tde-23042013-113427/pt-br.php)
