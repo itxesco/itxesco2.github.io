@@ -21,6 +21,7 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 
 ### <a name="book"></a>livros
 
+---
 
 ### <a name="articles"></a>artigos
 
@@ -47,12 +48,17 @@ Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores:
 
 **NASCIMENTO, F.**; PIASSI, L. P. . Fantastic Four: Scientific Fiction Comic Books and Cultural Satisfaction as a tool in Physics Teaching. REVISTA DE EDUCACION DE LAS CIENCIAS, v. 15, p. 160-160, 2014. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/NASCIMENTOF.A.2014FantasticFour-ScientificFictionComicBooksandCulturalSatisfactionasatoolinPhysicsTeaching.pdf")
 
+---
+
 ### <a name="letters"></a>material didático
 
 **NASCIMENTO, F.**; LIMA, M. M. . Superguia Enem : matemática e física. 1. ed. Bauru: Editora Alto Astral, 2014. v. 1. 90p.
 
+---
+
 ### <a name="anais"></a>trabalhos publicados em anais de eventos
 
+---
 
 ### <a name="techreports"></a>tese
 
