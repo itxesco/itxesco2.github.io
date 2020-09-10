@@ -4,7 +4,7 @@ title: sobre
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
 
-Sou professor adjunto do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/)(UFSB); onde atuo na formação de professores e ensino de ciências. Pesquiso em estudos culturais na educação em ciências, com foco no diálogo gênero/relações étnico-raciais/ciência nas Histórias em Quadrinhos, Jogos de RPG e outros elementos da cultura de massa. 
+Sou professor adjunto do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB); onde atuo na formação de professores e ensino de ciências. Pesquiso em estudos culturais na educação em ciências, com foco no diálogo entre as relações de gênero/étnico-raciais e a ciência nas Histórias em Quadrinhos, Jogos de RPG e outros elementos da cultura dos super-heróis. 
 
 Formação Acadêmica
 
