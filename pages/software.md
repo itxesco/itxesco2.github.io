@@ -57,18 +57,18 @@ interactive graphics for QTL experiments.
 
  Fabrício da Silva Santos [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") 
 
- Miriam Conceição da Silva [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
+ [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/4026848433366326) Miriam Conceição da Silva 
 
- Sheila Katrini Ferrari Visconde [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
+ [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde 
 
- Valtiângeli Rodrigues da Silva Moitinho [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
+ [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho 
 
 **Iniciação Científica**:
 
- Vitor Correa Bomfim [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") 
+[![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") Vitor Correa Bomfim 
 
-Vitória Guimarães Dantas [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") 
+[![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/0441717524768073) Vitória Guimarães Dantas  
 
-Carleane Nunes Borges [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
+[![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/5977115182619808) Carleane Nunes Borges 
 
-Bruna Bonfim Caldas [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")  
+[![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") Bruna Bonfim Caldas   
