@@ -21,7 +21,9 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 ---
 ### <a name="book"></a>livros
 
-**NASCIMENTO, F.**. Quarteto Fantástico: Ensino de Física e Satisfação Cultural. 1. ed. Balti: Novas Edições Acadêmicas, 2017. v. 1. 116p .
+
+**NASCIMENTO, F**. Quarteto Fantástico: Ensino de Física e Satisfação Cultural. 1. ed. Balti: Novas Edições Acadêmicas, 2017. v. 1. 116p .
+
 ---
 ### <a name="articles"></a>artigos
 ---
@@ -100,6 +102,7 @@ RAMOS, J. E. F. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . A Ciência e o humor n
 **NASCIMENTO, F.**; PIETROCOLA, M. . O Papel do RPG no Ensino de Física. In: O PAPEL DO RPG NO ENSINO DE FÍSICA, 2005, Bauru. Anais do V ENCONTRO NACIONAL DE PESQUISA EM EDUCAÇÃO EM CIÊNCIAS, 2005.
 
 **NASCIMENTO**, F.; Mantovani, M. S. M. ; Shukowsky, W. . Correções de Terreno para o Trecho Meridional da Serra do Mar. In: 8º International Congress of the Brazilian Geophysical Society, 2003, Rio de Janeiro. Anais do 8º Congresso Internacional da Sociedade Brasileira de Geofísica. Rio de Janeiro: SBGf, 2003. v. 1. p. 0471-0475.
+
 ---
 
 ### <a name="techreports"></a>tese
