@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Componentes ministrados na UFSB
-description: aulas de Francisco Nascimento
+description: aulas de Francisco de Assis Nascimento Junior
 ---
 
 <div class="navbar">
@@ -16,7 +16,8 @@ description: aulas de Francisco Nascimento
 </div>
 
 
-### <a name="current"></a>2020.2
+### <a name="current"></a>Quadrimestre 2020.2
+---
 
 #### [Estágio Supervisionado I - ISC0180](https://kbroman.org/BMI882)
 
@@ -50,7 +51,8 @@ description: aulas de Francisco Nascimento
 
 ---
 
-### <a name="shortcourses"></a>Quadrimestres Anteriores
+### <a name="shortcourses"></a>Já Oferecidos
+---
 
 #### [Dinâmica Clássica e Tecnologia - ISC0222](https://kbroman.org/BMI881)
 
@@ -102,6 +104,7 @@ description: aulas de Francisco Nascimento
 ---
 
 ### <a name="shortcourses"></a>Componentes da Pós-Graduação
+---
 
 #### [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades - PPGER0034](https://kbroman.org/BMI884)
 
@@ -114,126 +117,54 @@ description: aulas de Francisco Nascimento
   - [GitHub repository](https://github.com/UW-Madison-ACI/boot-camps/tree/2014-08-25)
 
 ---
-### <a name="shortcourses"></a>Cursos ministrados em outras Universidades
+### <a name="shortcourses"></a>Cursos ministrados em outras Instituições
+---
 
 #### [Instituto Federal de São Paulo (IFSP)](https://www.biostat.wisc.edu/~kbroman/teaching/statgen)
 
-- Introdução ao Ensino e Divulgação Científica:
-  \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_refs.html)\]
-- Escola e Sociedade:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Física Nuclear e de Partículas:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
-- Gravitação e Leis de Conservação:
-  \[[pdf (14k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf) |
-  [Example code (c_code_3.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_3.tgz)\]
-  
-  - Mecânica dos Sólidos e Fluídos:
-  \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_refs.html)\]
-- Oficinas de Projeto de Ensino I:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Política e Estrutura de Ensino no Brasil:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
-  - Fundamentos da Física para Estruturas:
-  \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_refs.html)\]
+- Introdução ao Ensino e Divulgação Científica
+- Escola e Sociedade
+- Física Nuclear e de Partículas
+- Gravitação e Leis de Conservação
+- Mecânica dos Sólidos e Fluídos
+- Oficinas de Projeto de Ensino I
+- Política e Estrutura de Ensino no Brasil
+- Fundamentos da Física para Estruturas
   
 #### [Universidade Anhembi-Morumbi](https://www.biostat.wisc.edu/~kbroman/teaching/labstat)
   
-- Física Geral:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Mecânica Geral:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
-- Estatística Aplicada:
-  \[[pdf (14k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf) |
-  [Example code (c_code_3.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_3.tgz)\]
--  Métodos Numéricos:
-  \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_refs.html)\]
-- Matemática Básica:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Equações Diferenciais:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
-  
-- Algebra Linear e Vetores:
-  \[[pdf (14k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf) |
-  [Example code (c_code_3.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_3.tgz)\]
--  Cálculo Diferencial:
-  \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_refs.html)\]
-- Cálculo Integral:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Fundamentos de Ciências Exatas:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
+- Física Geral
+- Mecânica Geral
+- Estatística Aplicada
+-  Métodos Numéricos
+- Matemática Básica
+- Equações Diferenciais
+- Algebra Linear e Vetores
+-  Cálculo Diferencial
+- Cálculo Integral
+- Fundamentos de Ciências Exatas
   
   #### [Faculdade de Ciências da FITO (FAC-FITO)](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
  
-- Laboratório de Física Experimental 1:
-  \[[pdf (14k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog3_ho.pdf) |
-  [Example code (c_code_3.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_3.tgz)\]
-- Laboratório de Física Experimental 2:
-  \[[pdf (35k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/coding_refs.html)\]
-- Laboratório de Física Experimental 3:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Laboratório de Física Experimental 4:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
+- Laboratório de Física Experimental 1
+- Laboratório de Física Experimental 2
+- Laboratório de Física Experimental 3
+- Laboratório de Física Experimental 4
   
-- Conteúdos e Práticas de Ciências I:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Conteúdos e Práticas de Ciências II:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
-  
-  - Educação, Saúde e Meio Ambiente I:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Educação, Saúde e Meio Ambiente II:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\]
-  
+- Conteúdos e Práticas de Ciências I
+- Conteúdos e Práticas de Ciências II  
+- Educação, Saúde e Meio Ambiente I
+- Educação, Saúde e Meio Ambiente II
+
+---  
 #### [Ensino Médio](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
   
-- Laboratório de Física Experimental:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Física Teórica:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\] 
+- Laboratório de Física Experimental
+- Física Teórica
   
 #### [Ensino Fundamental](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
   
-  - Laboratório de Ciências:
-  \[[pdf (56k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog1_ho.pdf) |
-  [books](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog_refs.html) |
-  [Example code (c_code_1.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_1.tgz)\]
-- Ciências:
-  \[[pdf (57k)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/cprog2_ho.pdf) |
-  [Example code (c_code_2.tgz)](https://www.biostat.wisc.edu/~kbroman/teaching/statprog/c_code_2.tgz)\] 
-  
+- Laboratório de Ciências
+- Ciências  
   
 
