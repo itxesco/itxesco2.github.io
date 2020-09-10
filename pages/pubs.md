@@ -32,7 +32,7 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 #### 2017
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis?. CULTURAS MIDIÁTICAS, v. 10, p. 239-255, 2017. [![doi](icons16/doi-icon.png)](http://dx.doi.org/10.22478/ufpb.1983-5930.2017v10n2.37669)
-[![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/37669-Texto do artigo-88393-1-10-20171226.pdf")
+[![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/37669-Textodoartigo-88393-1-10-20171226.pdf")
 
 
 BARROS, N. R. ; **NASCIMENTO JUNIOR, F. A.** ; PIASSI, L. P. C. . O Funk e o Rock nas estrelas: uma oficina para o ensino de astronomia. REVISTA INTERFACES, v. 5, p. 247-256, 2017. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/20170705174923.pdf")
