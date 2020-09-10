@@ -7,18 +7,17 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em ensino de ciências e 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="https://itxesco.github.io/pesq/hq">HQ</a></li>
-            <li><a href="https://itxesco.github.io/pesq/hq">Histórias em Quadrinhos</a></li>
-            <li><a href="https://itxesco.github.io/pesq/rpg">RPG</a></li>
-            <li><a href="https://itxesco.github.io/pesq/ident">identidades</a></li>
-            <li><a href="https://itxesco.github.io/pesq/orienta">orientação</a></li>
+            <li><a href="quadrinhos">Histórias em Quadrinhos</a></li>
+            <li><a href="rpg">RPG</a></li>
+            <li><a href="identidades">identidades</a></li>
+            <li><a href="alunos">orientação</a></li>
         </ul>
     </div>
 </div>
 
 ---
 
-#### <a name="qtl"></a>[Histórias em Quadrinhos](https://itxesco.github.io/pesq/hq)
+#### <a name="quadrinhos"></a>[Histórias em Quadrinhos](https://itxesco.github.io/pesq/hq)
 
 An [R](https://www.r-project.org/) package with tools for analyzing QTL experiments.
 
@@ -27,7 +26,7 @@ Google group, [R/qtl discussion](https://groups.google.com/group/rqtl-disc)
 
 ---
 
-#### <a name="qtl2"></a>[RPG e Educação](https://itxesco.github.io/pesq/rpg)
+#### <a name="rpg"></a>[RPG e Educação](https://itxesco.github.io/pesq/rpg)
 
 A reimplementation of [R/qtl](https://rqtl.org), to better handle
 high-dimensional data and complex cross designs (such as the
@@ -43,7 +42,7 @@ Google group, [R/qtl2 discussion](https://groups.google.com/group/rqtl2-disc)
 
 ---
 
-#### <a name="qtlcharts"></a>[Relações de Gênero](itxesco.github.io/pesq/ident) e [étnico-raciais](itxesco.github.io/pesq/ident)
+#### <a name="identidades"></a>[Relações de Gênero](itxesco.github.io/pesq/ident) e [étnico-raciais](itxesco.github.io/pesq/ident)
 
 [R/qtlcharts](https://kbroman.org/qtlcharts) is an
 [R](https://www.r-project.org) package providing [D3](https://d3js.org)-based
@@ -51,7 +50,7 @@ interactive graphics for QTL experiments.
 
 
 ---
-#### <a name="orientacao"></a>[Orientações](https://itxesco.github.io/pesq/orienta)
+#### <a name="alunos"></a>[Orientações](https://itxesco.github.io/pesq/orienta)
 
 **Mestrado**: 
 
