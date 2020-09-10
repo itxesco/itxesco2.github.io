@@ -10,10 +10,10 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
             <li><a href="#book">livros</a></li>
             <li><a href="#articles">artigos</a></li>
             <li><a href="#letters">material didático</a></li>
-            <li><a href="#chapters">capítulos de livros</a></li>
-            <li><a href="#anais">trabalhos apresentados em eventos</a></li>
-            <li><a href="#techreports">tese de doutorado</a></li>
-            <li><a href="#thesis">dissertação de mestrado</a></li>
+            <li><a href="#chapters">capítulos</a></li>
+            <li><a href="#anais">trabalhos</a></li>
+            <li><a href="#techreports">tese</a></li>
+            <li><a href="#thesis">dissertação</a></li>
         </ul>
     </div>
 </div>
@@ -24,12 +24,12 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 
 ### <a name="articles"></a>artigos
 
-### 2019
+## 2019
 **NASCIMENTO, Francisco**. Stan Lee, o Quarteto Fantástico e a evolução da divulgação científica nas histórias em quadrinhos de super-heróis: possibilidades para uma aula de ciências. Diálogo (UNILASALLE), v. 1, p. 55-65, 2019. [![doi](icons16/doi-icon.png)](http://dx.doi.org/10.18316/dialogo.v0i42.5872)
 [![pdf](icons16/pdf-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf")
 
 
-### 2017
+#### 2017
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis?. CULTURAS MIDIÁTICAS, v. 10, p. 239-255, 2017. [![doi](icons16/doi-icon.png)](http://dx.doi.org/10.22478/ufpb.1983-5930.2017v10n2.37669)
 [![pdf](icons16/pdf-icon.png)]("{{ BASE_PATH }}/assets/articles/37669-Texto do artigo-88393-1-10-20171226.pdf")
