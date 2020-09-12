@@ -9,7 +9,7 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
 - [OOCA - Observações na Órbita Ciência e Arte](https://itxesco.github.io/pages/ooca.html)
 - [Encontro com Educadores](https://itxesco.github.io/pages/encontro.html)
 - [Jornadas Pedagógicas](https://itxesco.github.io/pages/jornada.html)
-- [Pint of Science - Porto Seguro)(https://itxesco.github.io/pages/pint.html)
+- [Pint of Science - Porto Seguro](https://itxesco.github.io/pages/pint.html)
 
 ---
 
