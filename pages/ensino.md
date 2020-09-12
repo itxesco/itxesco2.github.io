@@ -10,7 +10,7 @@ description: aulas de Francisco de Assis Nascimento Junior
             <li><a href="#current">atuais</a></li>
             <li><a href="#shortcourses">pós-graduação</a></li>
             <li><a href="#misc">outras instituições</a></li>
-            <li><a href="#old">já oferecidos</a></li>
+            <li><a href="#old">anteriores</a></li>
         </ul>
     </div>
 </div>
@@ -51,7 +51,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-### <a name="shortcourses"></a>Quadrimestres anteriores
+### <a name="shortcourses"></a>Quadrimestres anteriores (2018 +)
 ---
 
 #### [Dinâmica Clássica e Tecnologia - ISC0222](https://kbroman.org/BMI881)
@@ -114,10 +114,10 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [resources](https://kbroman.org/BMI884/resources.html)
 
 ---
-### <a name="shortcourses"></a>Cursos ministrados em outras Instituições
+### <a name="shortcourses"></a>Cursos já ministrados em outras Instituições
 ---
 
-#### [Instituto Federal de São Paulo (IFSP)](https://www.biostat.wisc.edu/~kbroman/teaching/statgen)
+#### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
 
 - Introdução ao Ensino e Divulgação Científica
 - Escola e Sociedade
@@ -128,7 +128,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - Política e Estrutura de Ensino no Brasil
 - Fundamentos da Física para Estruturas
   
-#### [Universidade Anhembi-Morumbi](https://www.biostat.wisc.edu/~kbroman/teaching/labstat)
+#### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
   
 - Física Geral
 - Mecânica Geral
@@ -141,7 +141,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - Cálculo Integral
 - Fundamentos de Ciências Exatas
   
-  ####[Faculdade de Ciências da FITO (FAC-FITO)](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
+#### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
  
 - Laboratório de Física Experimental 1
 - Laboratório de Física Experimental 2
@@ -154,13 +154,18 @@ description: aulas de Francisco de Assis Nascimento Junior
 - Educação, Saúde e Meio Ambiente II
 
 ---  
-#### [Ensino Médio](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
-  
+#### Ensino Médio (2006 - 2016)
+
+Para turmas de ensino médio regular, técnico e EJA das redes pública e particular de São Paulo (SP):
+
 - Laboratório de Física Experimental
 - Física Teórica
+
   
-#### [Ensino Fundamental](http://www.biostat.jhsph.edu/~bcaffo/statcomp)
-  
+#### Ensino Fundamental (2004 - 2016)
+
+Para escolas das redes pública e particular de São Paulo (SP):
+
 - Laboratório de Ciências
 - Ciências  
   
