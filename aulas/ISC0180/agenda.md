@@ -76,7 +76,7 @@
       <td style="text-align: left">Open access publishing: <a href="https://doi.org/10.1038/495426a">Van (2013)</a>, <a href="https://doi.org/10.7717/peerj.4375"> et al (2018)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">03 Nov</td>
+      <td style="text-align: left">3 Nov</td>
       <td> </td>
       <td style="text-align: left"><a href="http://www.ph.ucla.edu/epi/snow/snowbook.html">Snow on Cholera</a>
     </tr>
@@ -96,12 +96,12 @@
       <td style="text-align: left">Skin cancer: <a href="https://doi.org/10.1001/jamadermatol.2019.2335">Wang et al. (2019)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">01 Dez</td>
+      <td style="text-align: left">1 Dez</td>
       <td> </td>
       <td style="text-align: left"><strong>No class meeting</strong></td>
     </tr>
     <tr>
-      <td style="text-align: left">08 Dez</td>
+      <td style="text-align: left">8 Dez</td>
       <td> </td>
       <td style="text-align: left">Hormone replacement therapy: <a href="https://doi.org/10.1097/EDE.0b013e3181875e61">Hernán et al. (2008)</a></td>
     </tr>
@@ -121,12 +121,12 @@
       <td style="text-align: left">Mammography: <a href="https://doi.org/10.1093/jnci/90.19.1431">Berry (1998)</a>, <a href="https://doi.org/10.1093/jnci/91.4.382">Kopans and Halpern (1999)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">02 Fev</td>
+      <td style="text-align: left">2 Fev</td>
       <td> </td>
       <td style="text-align: left">Causal inference: <a href="http://doi.org/10.1214/09-SS057">Pearl (2009)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">06 Fev</td>
+      <td style="text-align: left">6 Fev</td>
       <td> </td>
       <td style="text-align: left"><strong>Fim do Quadrimestre 2020.2</strong></td>
     </tr>
