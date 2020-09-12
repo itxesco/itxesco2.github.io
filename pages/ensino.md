@@ -19,12 +19,12 @@ description: aulas de Francisco de Assis Nascimento Junior
 ### <a name="current"></a>Quadrimestre 2020.2
 ---
 
-#### [Estágio Supervisionado I - ISC0180](https://kbroman.org/BMI882)
+#### Estágio Supervisionado I - ISC0180
 
-- [agenda](https://itxesco.github.io/aulas/ISC0180/index.html)
-- [syllabus](https://kbroman.org/BMI882/syllabus.html)
-- [assignments](https://kbroman.org/BMI882/assignments.html)
-- [resources](https://kbroman.org/BMI882/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0180/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0180/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0180/recursos.html)
 
 #### [Estágio Supervisionado IV](https://kbroman.org/BMI882)
 
