@@ -46,7 +46,7 @@
         
 
 <div class="page-header">
-  <h2>schedule  <small>quadrimestre 2020.2</small></h2>
+  <h2>agenda  <small>quadrimestre 2020.2</small></h2>
 </div>
 
 <div class="row-fluid">
@@ -56,57 +56,57 @@
     <tr>
       <th style="text-align: left">Data</th>
       <th>    </th>
-      <th style="text-align: left">Tópico/Assunto</th>
+      <th style="text-align: left">Tópico</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">3 Sep</td>
+      <td style="text-align: left">13 Out</td>
       <td> </td>
       <td style="text-align: left"><a href="slides/00_intro_slides.pdf">Course introduction <img src="/BMI881/icons/pdf-icon.png" alt="slides pdf" /></a> (and see <a href="resources.html">resources</a>)</td>
     </tr>
     <tr>
-      <td style="text-align: left">8 Sep</td>
+      <td style="text-align: left">20 Out</td>
       <td> </td>
       <td style="text-align: left"><a href="/BMI881/slides/01a_gelman_slides.pdf">Tables → graphs</a>: <a href="https://doi.org/10.1198/000313002317572790">Gelman et al. (2002)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">10 Sep</td>
+      <td style="text-align: left">27 Out</td>
       <td> </td>
       <td style="text-align: left">Open access publishing: <a href="https://doi.org/10.1038/495426a">Van Noorden (2013)</a>, <a href="https://doi.org/10.7717/peerj.4375">Piwowar et al (2018)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">15,17 Sep</td>
+      <td style="text-align: left">03 Nov</td>
       <td> </td>
       <td style="text-align: left"><a href="http://www.ph.ucla.edu/epi/snow/snowbook.html">Snow on Cholera</a> <a href="assets/snow_cholera.pdf"><img src="/BMI881/icons/pdf-icon.png" alt="pdf logo" /></a> <a href="https://www.ph.ucla.edu/epi/snow/snowmap1.pdf"><img src="/BMI881/icons/pdf-icon.png" alt="map 1" /></a> <a href="https://www.ph.ucla.edu/epi/snow/snowmap2.pdf"><img src="/BMI881/icons/pdf-icon.png" alt="map 2" /></a></td>
     </tr>
     <tr>
-      <td style="text-align: left">22 Sep</td>
+      <td style="text-align: left">10 Nov</td>
       <td> </td>
       <td style="text-align: left">Lipids and heart disease: <a href="https://doi.org/10.1001/jama.1984.03340270029025">Lipid Research Clinics Program (1984)</a>, <a href="https://doi.org/10.1001/jama.1984.03340270043026">part 2</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">24 Sep</td>
+      <td style="text-align: left">17 Nov</td>
       <td> </td>
       <td style="text-align: left"><strong>No class meeting</strong></td>
     </tr>
     <tr>
-      <td style="text-align: left">29 Sep</td>
+      <td style="text-align: left">24 Nov</td>
       <td> </td>
       <td style="text-align: left">Skin cancer: <a href="https://doi.org/10.1001/jamadermatol.2019.2335">Wang et al. (2019)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">1 Oct</td>
+      <td style="text-align: left">01 Dez</td>
       <td> </td>
       <td style="text-align: left"><strong>No class meeting</strong></td>
     </tr>
     <tr>
-      <td style="text-align: left">6 Oct</td>
+      <td style="text-align: left">08 Dez</td>
       <td> </td>
       <td style="text-align: left">Hormone replacement therapy: <a href="https://doi.org/10.1097/EDE.0b013e3181875e61">Hernán et al. (2008)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">8 Oct</td>
+      <td style="text-align: left">15 Dez</td>
       <td> </td>
       <td style="text-align: left">Hormone replacement therapy discussion and response:</td>
     </tr>
@@ -116,84 +116,19 @@
       <td style="text-align: left"><a href="https://doi.org/10.1097/EDE.0b013e318188e21d">Hoover (2008)</a>; <a href="https://doi.org/10.1097/EDE.0b013e318188442e">Stampfer (2008)</a>; <a href="https://doi.org/10.1097/EDE.0b013e318188e83b">Prentice (2008)</a>; <a href="https://doi.org/10.1097/EDE.0b013e318188e85f">Hernán and Robins (2008)</a>; <a href="https://doi.org/10.1097/EDE.0b013e318188e84e">Willett et al. (2008)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">13, 15 Oct</td>
+      <td style="text-align: left">26 Jan</td>
       <td> </td>
       <td style="text-align: left">Mammography: <a href="https://doi.org/10.1093/jnci/90.19.1431">Berry (1998)</a>, <a href="https://doi.org/10.1093/jnci/91.4.382">Kopans and Halpern (1999)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">20 Oct</td>
+      <td style="text-align: left">02 Fev</td>
       <td> </td>
       <td style="text-align: left">Causal inference: <a href="http://doi.org/10.1214/09-SS057">Pearl (2009)</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">22 Oct</td>
+      <td style="text-align: left">06 Fev</td>
       <td> </td>
-      <td style="text-align: left">Propensity scores: <a href="http://doi.org/10.1093/biomet/70.1.41">Rosenbaum and Rubin (1983)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">27 Oct</td>
-      <td> </td>
-      <td style="text-align: left">OHDSI: <a href="https://doi.org/10.1038/psp.2013.52">Ryan et al. (2013)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">29 Oct</td>
-      <td> </td>
-      <td style="text-align: left">OHDSI: <a href="https://doi.org/10.1093/aje/kwt010">Madigan et al. (2013)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">3 Nov</td>
-      <td> </td>
-      <td style="text-align: left">Boosting and bagging</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">5 Nov</td>
-      <td> </td>
-      <td style="text-align: left">Boosting and bagging</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">10 Nov</td>
-      <td> </td>
-      <td style="text-align: left">Data vis: <a href="https://doi.org/10.1109/TVCG.2014.2346248">Lex et al. (2014)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">12 Nov</td>
-      <td> </td>
-      <td style="text-align: left">Data vis: <a href="https://doi.org/10.1080/10447318.2012.687676">Sopan et al. (2013)</a> <a href="http://www.cs.umd.edu/~ben/Sopan2013Exploring.pdf"><img src="/BMI881/icons/pdf-icon.png" alt="pdf logo" /></a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">17 Nov</td>
-      <td> </td>
-      <td style="text-align: left">Deep learning: <a href="https://doi.org/10.1038/nature14539">LeCun et al. (2015)</a>, <a href="https://doi.org/10.15252/msb.20156651">Angermueller et al. (2016)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">19 Nov</td>
-      <td> </td>
-      <td style="text-align: left">Deep learning: <a href="https://doi.org/10.1098/rsif.2017.0387">Ching et al. (2018)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">24 Nov</td>
-      <td> </td>
-      <td style="text-align: left">Continue discussion of <a href="https://doi.org/10.1098/rsif.2017.0387">Ching et al. (2018)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">26 Nov</td>
-      <td> </td>
-      <td style="text-align: left"><strong>No class meeting</strong></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">1,3 Dec</td>
-      <td> </td>
-      <td style="text-align: left">Statistical modeling: the two cultures <a href="https://doi.org/10.1214/ss/1009213726">Breiman (2001)</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">8 Dec</td>
-      <td> </td>
-      <td style="text-align: left">tSNE: <a href="http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf">van der Maaten &amp; Hinton (2008)</a> [<a href="https://lvdmaaten.github.io/publications/misc/Supplement_JMLR_2008.pdf">supplement</a>]</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">10 Dec</td>
-      <td> </td>
-      <td style="text-align: left"><strong>No class meeting</strong></td>
+      <td style="text-align: left"><strong>Fim do Quadrimestre 2020.2</strong></td>
     </tr>
   </tbody>
 </table>
