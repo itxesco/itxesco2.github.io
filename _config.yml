@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Prof. Dr. Francisco Nascimento
+title : Francisco de Assis Nascimento Junior
 author :
   name : Francisco de Assis Nascimento Junior
   email : francisco.assis@gfe.ufsb.edu.br
@@ -20,7 +20,7 @@ production_url : https://itxesco.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
-markdown: Francisco Nascimento
+markdown: Prof. Dr. Francisco Nascimento
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
