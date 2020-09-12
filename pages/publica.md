@@ -18,6 +18,9 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
     </div>
 </div>
 
+
+### <a name="chapters"></a>capítulos de livros
+
 ---
 ### <a name="book"></a>livros
 
@@ -121,8 +124,6 @@ de São Paulo. São Paulo: Universidade de São Paulo, 2017.
 [disponível no repositório de teses e dissertações da USP](https://teses.usp.br/teses/disponiveis/81/81131/tde-23042013-113427/pt-br.php)
 
 
-<li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-[bioRxiv](https://www.biorxiv.org/) doi:[10.1101/529040](https://doi.org/10.1101/529040)
-[![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/biorxiv/early/2019/01/23/529040.full.pdf)
-[![GitHub](icons16/github-icon.png)](https://github.com/kbroman/Paper_MBmixups)
-[![R/mbmixture software](icons16/R-icon.png)](https://github.com/kbroman/mbmixture)
+
+
+
