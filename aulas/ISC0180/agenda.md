@@ -47,10 +47,6 @@ agenda do quadrimestre 2020.2
 
 ---
 
- [retorno a página anterior](https://itxesco.github.io/pages/ensino.html)
-
----
-
 <div class="container">
 <h4><a name="contact"></a>contato</h4>
 
@@ -65,3 +61,7 @@ agenda do quadrimestre 2020.2
         </div>
     </div>
 </div>
+
+---
+
+
