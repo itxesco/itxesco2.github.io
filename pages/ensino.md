@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Componentes ministrados na UFSB
+title: componentes curriculares ministrados
 description: aulas de Francisco de Assis Nascimento Junior
 ---
 
@@ -16,7 +16,10 @@ description: aulas de Francisco de Assis Nascimento Junior
 </div>
 
 
-### <a name="current"></a>Quadrimestre 2020.2
+### Universidade Federal do Sul da Bahia - UFSB
+
+#### <a name="current"></a>Quadrimestre 2020.2
+
 ---
 
 #### [ISC0180 - Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/index.html)
