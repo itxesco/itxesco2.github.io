@@ -37,10 +37,10 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de F√≠sica, Ensino de Ci√
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-         <li><a href="https://itxesco.github.io/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/itxesco">github</a></li>
+         <li><a href="http://lattes.cnpq.br/1942359141745184">lattes</a></li>
+          <li><a href="https://www.instagram.com/itxesco">instagram</a></li>
           <li><a href="https://itxesco.github.io-blog">blog</a></li>
-          <li><a href="https://twitter.com/itxesco">@itxesco</a></li>
+          <li><a href="https://twitter.com/itxesco">twitter</a></li>
       </ul>
   </div>
 </div>
