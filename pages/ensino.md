@@ -119,7 +119,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [recursos](https://itxesco.github.io/aulas/PPGER0034/recursos.html)
 
 ---
-#### <a name="shortcourses"></a> ministrados em outras Instituições / outros níveis de ensino
+#### <a name="shortcourses"></a> já ministrados em outras Instituições
 
 ---
 
