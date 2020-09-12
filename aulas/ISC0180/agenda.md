@@ -36,7 +36,9 @@
               <li><a href="https://itxesco.github.io/pages/ensino.html">página anterior</a></li>
               <li><a href="https://itxesco.github.io/aulas/ISC0180/roteiros.html">roteiros</a></li>
               <li><a href="https://itxesco.github.io/aulas/ISC0180/recursos.html">recursos</a></li>
-   
+         </div>
+      </div>
+    </div>
 
     <div class="container-narrow">
 
@@ -44,7 +46,7 @@
         
 
 <div class="page-header">
-  <h2>agenda  <small>quadrimestre 2020.2</small></h2>
+   <h2><small> agenda quadrimestre 2020.2</small></h2>
 </div>
 
 <div class="row-fluid">
