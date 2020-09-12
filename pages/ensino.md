@@ -19,14 +19,14 @@ description: aulas de Francisco de Assis Nascimento Junior
 ### <a name="current"></a>Quadrimestre 2020.2
 ---
 
-#### [Estágio Supervisionado I - ISC0180](https://itxesco.github.io/aulas/ISC180/index.html)
+#### [ISC0180 - Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC180/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0180/agenda.html)
 - [programa](https://itxesco.github.io/aulas/ISC0180/programa.html)
 - [roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html)
 - [recursos](https://itxesco.github.io/aulas/ISC0180/recursos.html)
 
-#### [Estágio Supervisionado IV](https://kbroman.org/BMI882)
+#### [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC180/index.html)
 
 - [schedule](https://kbroman.org/BMI882/schedule.html)
 - [syllabus](https://kbroman.org/BMI882/syllabus.html)
@@ -34,7 +34,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [resources](https://kbroman.org/BMI882/resources.html)
 
 
-#### [Campos das Ciências - Saberes e Práticas](https://kbroman.org/BMI884)
+#### [Campos das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/ISC180/index.html)
 
 - [schedule](https://kbroman.org/BMI884/schedule.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
@@ -42,7 +42,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [resources](https://kbroman.org/BMI884/resources.html)
 
 
-#### [Sociedade Tecnológica e Matrizes Energéticas- ISC0462](https://kbroman.org/BMI884)
+#### [ISC0462 - Sociedade Tecnológica e Matrizes Energéticas](https://itxesco.github.io/aulas/ISC0462/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0462/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
@@ -51,10 +51,10 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-### <a name="shortcourses"></a>Quadrimestres anteriores (2018 +)
+### <a name="shortcourses"></a>Quadrimestres anteriores (2018 ed.)
 ---
 
-#### [Dinâmica Clássica e Tecnologia - ISC0222](https://kbroman.org/BMI881)
+#### [ISC0222 - Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0222/index.html)
 - [syllabus](https://kbroman.org/BMI881/syllabus.html)
@@ -62,7 +62,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [recursos](https://kbroman.org/BMI881/resources.html)
 
 
-#### [Estágio Supervisionado III](https://kbroman.org/BMI883)
+#### [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC180/index.html)
 
 - [schedule](https://kbroman.org/BMI883/schedule.html)
 - [syllabus](https://kbroman.org/BMI883/syllabus.html)
@@ -70,7 +70,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [resources](https://kbroman.org/BMI883/resources.html)
 
 
-#### [Movimento e Geometria - ISC0302](https://kbroman.org/BMI884)
+#### [ISC0302 - Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0302/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
@@ -78,7 +78,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [resources](https://kbroman.org/BMI884/resources.html)
 
 
-#### [Cálculo Univariado - Funções e Variações - ISC0213](https://kbroman.org/BMI884)
+#### [ISC0213 - Cálculo Univariado - Funções e Variações](https://itxesco.github.io/aulas/ISC0213/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0213/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
@@ -86,7 +86,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [resources](https://kbroman.org/BMI884/resources.html)
 
 
-#### [Pesquisa em Ensino de Ciências - ISC0528](https://kbroman.org/BMI884)
+#### [ISC0528 - Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0528/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
@@ -94,7 +94,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [resources](https://kbroman.org/BMI884/resources.html)
 
 
-#### [Educação e Relações Étnico-Raciais - ISC0312](https://kbroman.org/BMI884)
+#### [ISC0312 - Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0312/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
@@ -106,7 +106,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 ### <a name="shortcourses"></a>Componentes da Pós-Graduação
 ---
 
-#### [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades - PPGER0034](https://kbroman.org/BMI884)
+#### [PPGER0034 - Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/aulas/PPGER0034/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/PPGER0034/index.html)
 - [syllabus](https://kbroman.org/BMI884/syllabus.html)
