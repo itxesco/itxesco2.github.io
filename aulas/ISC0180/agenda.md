@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>programa</title>
+    <title>agenda</title>
     <meta name="description" content="Agenda do curso ISC0180 - ESTÁGIO SUPERVISIONADO I">
     <meta name="author" content="Prof. Dr. Francisco Nascimento">
 
@@ -31,12 +30,12 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
-          <a class="brand" href="https://kbroman.org/BMI881">ESTÁGIO SUPERVISIONADO I</a>
+          <a class="brand" href="https://itxesco.github.io/aulas/ISC0180/index.html">ESTÁGIO SUPERVISIONADO I</a>
           <ul class="nav">
-              <li><a href="https://kbroman.org/BMI881/syllabus.html">programa</a></li>
-              <li><a href="https://kbroman.org/BMI881/schedule.html">agenda</a></li>
-              <li><a href="https://kbroman.org/BMI881/assignments.html">tarefas</a></li>
-              <li><a href="https://kbroman.org/BMI881/resources.html">recursos</a></li>
+              <li><a href="https://itxesco.github.io/aulas/ISC0180/programa.html">programa</a></li>
+              <li><a href="https://itxesco.github.io/pages/ensino.html">página anterior</a></li>
+              <li><a href="https://itxesco.github.io/aulas/ISC0180/roteiros.html">roteiros</a></li>
+              <li><a href="https://itxesco.github.io/aulas/ISC0180/recursos.html">recursos</a></li>
         </div>
       </div>
     </div>
