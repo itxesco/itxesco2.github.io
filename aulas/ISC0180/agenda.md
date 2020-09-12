@@ -4,7 +4,7 @@ title: ISC0180 - ESTÁGIO SUPERVISIONADO I
 description: Agenda do curso ISC0180 - ESTÁGIO SUPERVISIONADO I ministrado por Francisco de Assis Nascimento Junior
 
 ---
-[programa](https://itxesco.github.io/aulas/ISC0180/programa.html)       [página anterior](https://itxesco.github.io/pages/ensino.html) [roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html)       [recursos](https://itxesco.github.io/aulas/ISC0180/recursos.html)         
+[programa](https://itxesco.github.io/aulas/ISC0180/programa.html)            [página anterior](https://itxesco.github.io/pages/ensino.html) [roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html)       [recursos](https://itxesco.github.io/aulas/ISC0180/recursos.html)         
 
 
 agenda quadrimestre 2020.2
