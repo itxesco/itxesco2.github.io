@@ -61,7 +61,7 @@ interactive graphics for QTL experiments.
 
 **Mestrado**: 
 
- Fabrício da Silva Santos [![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") 
+ [![lattes](icons16/lattes-icon.png)]("http://lattes.cnpq.br/7551985613163404") Fabrício da Silva Santos  
 
  [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/4026848433366326) Miriam Conceição da Silva 
 
