@@ -19,7 +19,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 ### <a name="current"></a>Quadrimestre 2020.2
 ---
 
-#### Estágio Supervisionado I - ISC0180
+#### [Estágio Supervisionado I - ISC0180](https://itxesco.github.io/aulas/ISC180/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0180/agenda.html)
 - [programa](https://itxesco.github.io/aulas/ISC0180/programa.html)
