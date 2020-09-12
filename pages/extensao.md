@@ -1,16 +1,21 @@
 ---
 layout: page
-title: Extensão
+title: atividades de extensão universitária
 description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimento
 ---
+**Projetos que coordeno**
 
 - [Oca da Ciência na Escola](https://itxesco.github.io/pages/oca.html)
 - [OOCA - Observações na Órbita Ciência e Arte](https://itxesco.github.io/pages/ooca.html)
-- [Banca da Ciência](https://itxesco.github.io/pages/banca.html)
+- [Encontro com Educadores](https://itxesco.github.io/pages/encontro.html)
+- [Jornadas Pedagógicas](https://itxesco.github.io/pages/jornada.html)
+
 ---
 
-- [Encontro com Educadores](https://itxesco.github.io/pages/encontro.html)
-  \[not really a tutorial, but there are some useful links here\]
-- [Jornadas Pedagógicas](https://itxesco.github.io/pages/jornada.html)
-  \[very old; I now recommend [ruby](https://www.ruby-lang.org/en/) or [python](https://www.python.org/)\]
+**Projetos que integro**
+- [Banca da Ciência](https://itxesco.github.io/pages/banca.html)
+
+---
+
+
 
