@@ -19,35 +19,35 @@ description: aulas de Francisco de Assis Nascimento Junior
 ### <a name="current"></a>Quadrimestre 2020.2
 ---
 
-#### [ISC0180 - Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC180/index.html)
+#### [ISC0180 - Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC0180/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0180/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html)
-- [recursos](https://itxesco.github.io/aulas/ISC0180/recursos.html)
+- [agenda](https://itxesco.github.io/aulas/ISC180/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC180/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC180/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC180/recursos.html)
 
 #### [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC180/index.html)
 
-- [schedule](https://kbroman.org/BMI882/schedule.html)
-- [syllabus](https://kbroman.org/BMI882/syllabus.html)
-- [assignments](https://kbroman.org/BMI882/assignments.html)
-- [resources](https://kbroman.org/BMI882/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC180/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC180/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC180/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC180/recursos.html)
 
 
 #### [Campos das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/ISC180/index.html)
 
-- [schedule](https://kbroman.org/BMI884/schedule.html)
-- [syllabus](https://kbroman.org/BMI884/syllabus.html)
-- [assignments](https://kbroman.org/BMI884/assignments.html)
-- [resources](https://kbroman.org/BMI884/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC180/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC180/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC180/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC180/recursos.html)
 
 
 #### [ISC0462 - Sociedade Tecnológica e Matrizes Energéticas](https://itxesco.github.io/aulas/ISC0462/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC0462/index.html)
-- [syllabus](https://kbroman.org/BMI884/syllabus.html)
-- [assignments](https://kbroman.org/BMI884/assignments.html)
-- [resources](https://kbroman.org/BMI884/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0462/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0462/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0462/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0462/recursos.html)
 
 ---
 
@@ -56,50 +56,50 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 #### [ISC0222 - Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC0222/index.html)
-- [syllabus](https://kbroman.org/BMI881/syllabus.html)
-- [roteiros](https://kbroman.org/BMI881/assignments.html)
-- [recursos](https://kbroman.org/BMI881/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0222/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0222/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0222/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0222/recursos.html)
 
 
 #### [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC180/index.html)
 
-- [schedule](https://kbroman.org/BMI883/schedule.html)
-- [syllabus](https://kbroman.org/BMI883/syllabus.html)
-- [assignments](https://kbroman.org/BMI883/assignments.html)
-- [resources](https://kbroman.org/BMI883/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC180/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC180/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC180/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC180/recursos.html)
 
 
 #### [ISC0302 - Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC0302/index.html)
-- [syllabus](https://kbroman.org/BMI884/syllabus.html)
-- [assignments](https://kbroman.org/BMI884/assignments.html)
-- [resources](https://kbroman.org/BMI884/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0302/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0302/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0302/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0302/recursos.html)
 
 
 #### [ISC0213 - Cálculo Univariado - Funções e Variações](https://itxesco.github.io/aulas/ISC0213/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC0213/index.html)
-- [syllabus](https://kbroman.org/BMI884/syllabus.html)
-- [assignments](https://kbroman.org/BMI884/assignments.html)
-- [resources](https://kbroman.org/BMI884/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0213/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0213/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0213/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0213/recursos.html)
 
 
 #### [ISC0528 - Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC0528/index.html)
-- [syllabus](https://kbroman.org/BMI884/syllabus.html)
-- [assignments](https://kbroman.org/BMI884/assignments.html)
-- [resources](https://kbroman.org/BMI884/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0528/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0528/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0528/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0528/recursos.html)
 
 
 #### [ISC0312 - Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC0312/index.html)
-- [syllabus](https://kbroman.org/BMI884/syllabus.html)
-- [assignments](https://kbroman.org/BMI884/assignments.html)
-- [resources](https://kbroman.org/BMI884/resources.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0312/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0312/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0312/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0312/recursos.html)
 
 ---
 
@@ -108,10 +108,10 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 #### [PPGER0034 - Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/aulas/PPGER0034/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/PPGER0034/index.html)
-- [syllabus](https://kbroman.org/BMI884/syllabus.html)
-- [assignments](https://kbroman.org/BMI884/assignments.html)
-- [resources](https://kbroman.org/BMI884/resources.html)
+- [agenda](https://itxesco.github.io/aulas/PPGER0034/agenda.html)
+- [programa](https://itxesco.github.io/aulas/PPGER0034/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/PPGER0034/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/PPGER0034/recursos.html)
 
 ---
 ### <a name="shortcourses"></a>Cursos já ministrados em outras Instituições
