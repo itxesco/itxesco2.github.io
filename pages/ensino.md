@@ -25,9 +25,9 @@ description: aulas de Francisco de Assis Nascimento Junior
 #### [ISC0180 - Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0180/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC180/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC180/roteiros.html)
-- [recursos](https://itxesco.github.io/aulas/ISC180/recursos.html)
+- [programa](https://itxesco.github.io/aulas/ISC0180/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0180/recursos.html)
 
 #### [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC180/index.html)
 
