@@ -54,7 +54,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-### <a name="shortcourses"></a>Quadrimestres anteriores (2018 ed.)
+#### <a name="shortcourses"></a>Quadrimestres anteriores
 ---
 
 #### [ISC0222 - Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html)
