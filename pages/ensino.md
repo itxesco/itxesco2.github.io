@@ -55,6 +55,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 ---
 
 #### <a name="shortcourses"></a>Quadrimestres anteriores
+
 ---
 
 #### [ISC0222 - Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html)
@@ -106,7 +107,8 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-### <a name="shortcourses"></a>Componentes da Pós-Graduação
+#### <a name="shortcourses"></a>Componentes da Pós-Graduação
+
 ---
 
 #### [PPGER0034 - Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/aulas/PPGER0034/index.html)
@@ -117,7 +119,8 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [recursos](https://itxesco.github.io/aulas/PPGER0034/recursos.html)
 
 ---
-### <a name="shortcourses"></a>Cursos já ministrados em outras Instituições
+#### <a name="shortcourses"></a> ministrados em outras Instituições / outros níveis de ensino
+
 ---
 
 #### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
