@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publicações
+title: publicações recentes
 description: Prof. Dr. Francisco Nascimento artigos publicados
 ---
 
@@ -125,5 +125,7 @@ de São Paulo. São Paulo: Universidade de São Paulo, 2017.
 
 
 
+
+Informações completas estão disponíveis no meu [![Currilo Lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184)[e podem ser acessadas aqui.](http://lattes.cnpq.br/1942359141745184)<br/>
 
 
