@@ -36,9 +36,7 @@
               <li><a href="https://itxesco.github.io/pages/ensino.html">página anterior</a></li>
               <li><a href="https://itxesco.github.io/aulas/ISC0180/roteiros.html">roteiros</a></li>
               <li><a href="https://itxesco.github.io/aulas/ISC0180/recursos.html">recursos</a></li>
-        </div>
-      </div>
-    </div>
+   
 
     <div class="container-narrow">
 
@@ -73,12 +71,12 @@
     <tr>
       <td style="text-align: left">27 Out</td>
       <td> </td>
-      <td style="text-align: left">Open access publishing: <a href="https://doi.org/10.1038/495426a">Van Noorden (2013)</a>, <a href="https://doi.org/10.7717/peerj.4375">Piwowar et al (2018)</a></td>
+      <td style="text-align: left">Open access publishing: <a href="https://doi.org/10.1038/495426a">Van (2013)</a>, <a href="https://doi.org/10.7717/peerj.4375"> et al (2018)</a></td>
     </tr>
     <tr>
       <td style="text-align: left">03 Nov</td>
       <td> </td>
-      <td style="text-align: left"><a href="http://www.ph.ucla.edu/epi/snow/snowbook.html">Snow on Cholera</a> <a href="assets/snow_cholera.pdf"><img src="/BMI881/icons/pdf-icon.png" alt="pdf logo" /></a> <a href="https://www.ph.ucla.edu/epi/snow/snowmap1.pdf"><img src="/BMI881/icons/pdf-icon.png" alt="map 1" /></a> <a href="https://www.ph.ucla.edu/epi/snow/snowmap2.pdf"><img src="/BMI881/icons/pdf-icon.png" alt="map 2" /></a></td>
+      <td style="text-align: left"><a href="http://www.ph.ucla.edu/epi/snow/snowbook.html">Snow on Cholera</a>
     </tr>
     <tr>
       <td style="text-align: left">10 Nov</td>
