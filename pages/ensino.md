@@ -29,20 +29,20 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html)
 - [recursos](https://itxesco.github.io/aulas/ISC0180/recursos.html)
 
-#### [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC180/index.html)
+#### [ISC0332 - Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC0332/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC180/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC180/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC180/roteiros.html)
-- [recursos](https://itxesco.github.io/aulas/ISC180/recursos.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0332/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0332/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0332/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0332/recursos.html)
 
 
-#### [Campos das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/ISC180/index.html)
+#### [ISC0010 - Campos das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/ISC0010/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC180/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC180/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC180/roteiros.html)
-- [recursos](https://itxesco.github.io/aulas/ISC180/recursos.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0010/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0010/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0010/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0010/recursos.html)
 
 
 #### [ISC0462 - Sociedade Tecnológica e Matrizes Energéticas](https://itxesco.github.io/aulas/ISC0462/index.html)
@@ -66,12 +66,20 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [recursos](https://itxesco.github.io/aulas/ISC0222/recursos.html)
 
 
-#### [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC180/index.html)
+#### [ISC0204 - Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC180/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC180/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC180/roteiros.html)
-- [recursos](https://itxesco.github.io/aulas/ISC180/recursos.html)
+- [agenda](https://itxesco.github.io/aulas/ISC0204/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0204/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0204/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0204/recursos.html)
+
+
+#### [ISC0313 - Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html)
+
+- [agenda](https://itxesco.github.io/aulas/ISC0313/agenda.html)
+- [programa](https://itxesco.github.io/aulas/ISC0313/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0313/roteiros.html)
+- [recursos](https://itxesco.github.io/aulas/ISC0313/recursos.html)
 
 
 #### [ISC0302 - Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html)
