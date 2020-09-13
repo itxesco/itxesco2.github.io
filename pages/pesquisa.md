@@ -26,7 +26,7 @@ Atuo nas seguintes linhas de pesquisa:
 
 **Principais Tópicos de Interesse**
 
-### <a name="quadrinhos"></a>[Histórias em Quadrinhos](https://itxesco.github.io/pages/hq.html)
+##### <a name="quadrinhos"></a>[Histórias em Quadrinhos](https://itxesco.github.io/pages/hq.html)
 
 ---
 
