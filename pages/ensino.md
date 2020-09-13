@@ -1,22 +1,20 @@
 ---
 layout: page
-title: atividades de ensino
+title: atividades de ensino - UFSB
 description: aulas de Francisco de Assis Nascimento Junior
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#current">atuais</a></li>
+            <li><a href="#current">atual</a></li>
+            <li><a href="#old">anteriores</a></li>
             <li><a href="#shortcourses">pós-graduação</a></li>
             <li><a href="#misc">outras instituições</a></li>
-            <li><a href="#old">anteriores</a></li>
         </ul>
     </div>
 </div>
 
-
-### Universidade Federal do Sul da Bahia - UFSB
 
 #### <a name="current"></a>Componentes Curriculares - Quadrimestre 2020.2
 
@@ -54,7 +52,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="shortcourses"></a>Quadrimestres anteriores
+#### <a name="old"></a>Quadrimestres anteriores
 
 ---
 
@@ -115,7 +113,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="shortcourses"></a>Componentes da Pós-Graduação
+#### <a name="misc"></a>Componentes da Pós-Graduação
 
 ---
 
