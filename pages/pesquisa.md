@@ -28,13 +28,9 @@ Atuo nas seguintes linhas de pesquisa:
 
 ##### <a name="quadrinhos"></a>[Histórias em Quadrinhos](https://itxesco.github.io/pages/hq.html)
 
----
+##### <a name="rpg"></a>[RPG e Educação](https://itxesco.github.io/pages/rpg.html)
 
-### <a name="rpg"></a>[RPG e Educação](https://itxesco.github.io/pages/rpg.html)
-
----
-
-### <a name="identidades"></a>[Relações de Gênero](itxesco.github.io/pages/genero.html) e [étnico-raciais](itxesco.github.io/pages/etnicoraciais.html)
+##### <a name="identidades"></a>[Relações de Gênero](itxesco.github.io/pages/genero.html) e [étnico-raciais](itxesco.github.io/pages/etnicoraciais.html)
 
 ---
 #### <a name="alunos"></a>[Orientações](https://itxesco.github.io/pages/alunos.html)
