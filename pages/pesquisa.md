@@ -58,6 +58,7 @@ interactive graphics for QTL experiments.
 
 ---
 #### <a name="alunos"></a>[Orientações](https://itxesco.github.io/pages/alunos.html)
+---
 
 **Mestrado**: 
 
@@ -68,6 +69,8 @@ interactive graphics for QTL experiments.
  [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde 
 
  [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho 
+ 
+ ---
 
 **Iniciação Científica**:
 
