@@ -20,6 +20,13 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 #### <a name="current"></a>Quadrimestre 2020.2
 
+
+        <div class="span2">
+        <a href="../assets/pics/karl_2014-03-30.jpg">
+            <img src="../assets/pics/karl_2014-03-30_small.jpg"
+                  title="Francisco Nascimento" alt="Francisco Nascimento"/></a>
+        </div>
+
 ---
 
 #### [ISC0180 - Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/index.html)
