@@ -24,37 +24,17 @@ Atuo nas seguintes linhas de pesquisa:
 
 ---
 
+**Tópicos de Interesse**
+
 #### <a name="quadrinhos"></a>[Histórias em Quadrinhos](https://itxesco.github.io/pages/hq.html)
-
-An [R](https://www.r-project.org/) package with tools for analyzing QTL experiments.
-
-To participate in discussion about the use of R/qtl, join the
-Google group, [R/qtl discussion](https://groups.google.com/group/rqtl-disc)
 
 ---
 
 #### <a name="rpg"></a>[RPG e Educação](https://itxesco.github.io/pages/rpg.html)
 
-A reimplementation of [R/qtl](https://rqtl.org), to better handle
-high-dimensional data and complex cross designs (such as the
-[Collaborative Cross](https://www.ncbi.nlm.nih.gov/pubmed/15514660),
-[MAGIC](https://www.ncbi.nlm.nih.gov/pubmed/18295532),
-[heterogeneous stock](https://www.ncbi.nlm.nih.gov/pubmed/11973314),
-and
-[Diversity Outbred mice](https://www.ncbi.nlm.nih.gov/pubmed/2234561)).
-
-
-To participate in discussion about the use of R/qtl2, join the
-Google group, [R/qtl2 discussion](https://groups.google.com/group/rqtl2-disc)
-
 ---
 
 #### <a name="identidades"></a>[Relações de Gênero](itxesco.github.io/pages/genero.html) e [étnico-raciais](itxesco.github.io/pages/etnicoraciais.html)
-
-[R/qtlcharts](https://kbroman.org/qtlcharts) is an
-[R](https://www.r-project.org) package providing [D3](https://d3js.org)-based
-interactive graphics for QTL experiments.
-
 
 ---
 #### <a name="alunos"></a>[Orientações](https://itxesco.github.io/pages/alunos.html)
