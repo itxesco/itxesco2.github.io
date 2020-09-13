@@ -1,6 +1,6 @@
 ---
 layout: page
-title: componentes curriculares ministrados
+title: atividades de ensino
 description: aulas de Francisco de Assis Nascimento Junior
 ---
 
@@ -18,14 +18,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ### Universidade Federal do Sul da Bahia - UFSB
 
-#### <a name="current"></a>Quadrimestre 2020.2
-
-
-        <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Francisco Nascimento" alt="Francisco Nascimento"/></a>
-        </div>
+#### <a name="current"></a>Componentes Curriculares - Quadrimestre 2020.2
 
 ---
 
