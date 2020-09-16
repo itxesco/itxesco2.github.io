@@ -21,47 +21,47 @@ Saiba mais sobre a história do Pint of Science [no site oficial do evento](http
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="assets/figuras/pintbahia.jpeg" alt="Histórias em Quadrinhos" title="divulgação do Pint of Science BAHIA"/>
+        <img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg" alt="Histórias em Quadrinhos" title="divulgação do Pint of Science BAHIA"/>
     </a>
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/oca.html">
-        <img src="assets/figuras/pint_0809_pre.jpeg" alt="Oca da Ciência na Escola" title="pré-evento do primeiro dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_0809_pre.jpeg" alt="Oca da Ciência na Escola" title="pré-evento do primeiro dia"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/rpg.html">
-        <img src="assets/figuras/pint_0909_pre.jpeg" alt="Jogos de RPG" title="pré-evento do segundo dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_0909_pre.jpeg" alt="Jogos de RPG" title="pré-evento do segundo dia"/>
     </a>
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/ensino.html">
-        <img src="assets/figuras/pint_1009_pre.jpeg" alt="ensino" title="pré-evento do terceiro dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_1009_pre.jpeg" alt="ensino" title="pré-evento do terceiro dia"/>
     </a>
   </td> 
   <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="assets/figuras/pint_0809_principal.jpeg" alt="Histórias em Quadrinhos" title="mesa principal - primeiro dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_0809_principal.jpeg" alt="Histórias em Quadrinhos" title="mesa principal - primeiro dia"/>
     </a>
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/oca.html">
-        <img src="assets/figuras/pint_0909_principal.jpeg" alt="Oca da Ciência na Escola" title="mesa principal - segundo dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_0909_principal.jpeg" alt="Oca da Ciência na Escola" title="mesa principal - segundo dia"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/rpg.html">
-        <img src="assets/figuras/pint_1009_principal.jpeg" alt="Jogos de RPG" title="mesa principal - terceiro dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_1009_principal.jpeg" alt="Jogos de RPG" title="mesa principal - terceiro dia"/>
     </a>
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/ensino.html">
-        <img src="assets/figuras/rankingtop5.jpeg" alt="ensino" title="vídeos mais assistidos no Pint of Science Brasil - ficamos em 5 lugar"/>
+        <img src="https://itxesco.github.io/assets/figuras/rankingtop5.jpeg" alt="ensino" title="vídeos mais assistidos no Pint of Science Brasil - ficamos em 5 lugar"/>
     </a>
   </td>
   
