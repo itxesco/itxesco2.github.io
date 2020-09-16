@@ -1,6 +1,6 @@
 <tr>
   <td class="left">
-    <a href="https://itxesco.github.io/pages/pint.md"><img src="assets/figuras/pintbahia.jpeg" alt="Pint of Science Bahia" title="divulgação do Pint of Science BAHIA"/>
+    <a href="https://itxesco.github.io/pages/pint.md"><img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg" alt="Pint of Science Bahia" title="divulgação do Pint of Science BAHIA"/>
     </a>
   </td>
 
