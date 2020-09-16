@@ -1,3 +1,9 @@
+<tr>
+  <td class="left">
+    <a href="https://itxesco.github.io/pages/pint.md"><img src="assets/figuras/pintbahia.jpeg" alt="Pint of Science Bahia" title="divulgação do Pint of Science BAHIA"/>
+    </a>
+  </td>
+
 A primeira edição do Pint of Science aconteceu em 2013 na cidade de Londres, organizado por cientistas do Imperial College. O evento surgiu com a proposta de tirar os pesquisadores dos muros das universidades e institutos de pesquisa para conversarem diretamente sobre suas descobertas com as pessoas nos pubs, o típico bar inglês. O ambiente inspirou o nome do evento e o Pint, copo de aproximadamente 473 mL onde as bebidas são normalmente servidas por lá, acabou sendo incorporado ao nome. Assim, o evento convida as pessoas a tomar um Pint de ciência enquanto saboreiam a sua bebida preferida (seja água, suco, refrigerante, cerveja etc).
 
 Desde a primeira edição o Pint of Science vem sendo reconhecido internacionalmente e é atualmente o maior evento de divulgação científica do mundo. O formato do evento convida pesquisadores a falarem de forma simples e acessível sobre suas descobertas em um ambiente descontraído. Dessa forma, o evento é direcionado ao público em geral. O aumento do interesse dos pesquisadores em divulgar suas pesquisas e do público em conhecê-las fez com que o festival fosse realizado em mais de 400 cidades e 24 países em todo o mundo em 2019.
