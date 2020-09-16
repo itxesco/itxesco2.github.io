@@ -15,26 +15,51 @@ Saiba mais sobre a história do Pint of Science [no site oficial do evento](http
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="assets/publpics/iplotCorr.jpg" alt="Histórias em Quadrinhos" title="Histórias em Quadrinhos e Educação"/>
+        <img src="assets/figuras/pintbahia.jpeg" alt="Histórias em Quadrinhos" title="divulgação do Pint of Science BAHIA"/>
     </a>
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/oca.html">
-        <img src="assets/publpics/mppdiag_fig4.jpg" alt="Oca da Ciência na Escola" title="Oca da Ciência na Escola"/>
+        <img src="assets/figuras/pint_0809_pre.jpeg" alt="Oca da Ciência na Escola" title="pré-evento do primeiro dia"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/rpg.html">
-        <img src="assets/publpics/samplemixups_fig7.jpg" alt="Jogos de RPG" title="RPG e Educação"/>
+        <img src="assets/figuras/pint_0909_pre.jpeg" alt="Jogos de RPG" title="pré-evento do segundo dia"/>
     </a>
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/ensino.html">
-        <img src="assets/publpics/rqtl2_fig1c.jpg" alt="ensino" title="ensino"/>
+        <img src="assets/figuras/pint_1009_pre.jpeg" alt="ensino" title="pré-evento do terceiro dia"/>
+    </a>
+  </td> 
+  <tr>
+  <td class="left">
+    <a href="https://itxesco.github.io/pages/hq.html">
+        <img src="assets/figuras/pint_0809_principal.jpeg" alt="Histórias em Quadrinhos" title="mesa principal - primeiro dia"/>
     </a>
   </td>
+  <td class="right">
+    <a href="https://itxesco.github.io/pages/oca.html">
+        <img src="assets/figuras/pint_0909_principal.jpeg" alt="Oca da Ciência na Escola" title="mesa principal - segundo dia"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="https://itxesco.github.io/pages/rpg.html">
+        <img src="assets/figuras/pint_1009_principal.jpeg" alt="Jogos de RPG" title="mesa principal - terceiro dia"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="https://itxesco.github.io/pages/ensino.html">
+        <img src="assets/figuras/rankingtop5.jpeg" alt="ensino" title="vídeos mais assistidos no Pint of Science Brasil - ficamos em 5 lugar"/>
+    </a>
+  </td>
+  
+  
 </tr>
 </table>
 
