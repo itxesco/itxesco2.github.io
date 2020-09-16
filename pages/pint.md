@@ -7,5 +7,36 @@ O Brasil participa do evento desde 2015. Este ano, devido a pandemia, o Pint of 
 Para ver a programação completa (temas e cientistas convidados), acesse a página do Pint of Science – Bahia clicando [aqui](https://pintofscience.com.br/events/porto-seguro)
 
 Saiba mais sobre a história do Pint of Science [no site oficial do evento](https://pintofscience.com.br/historia/)
+---
+
+
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="https://itxesco.github.io/pages/hq.html">
+        <img src="assets/publpics/iplotCorr.jpg" alt="Histórias em Quadrinhos" title="Histórias em Quadrinhos e Educação"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="https://itxesco.github.io/pages/oca.html">
+        <img src="assets/publpics/mppdiag_fig4.jpg" alt="Oca da Ciência na Escola" title="Oca da Ciência na Escola"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="https://itxesco.github.io/pages/rpg.html">
+        <img src="assets/publpics/samplemixups_fig7.jpg" alt="Jogos de RPG" title="RPG e Educação"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="https://itxesco.github.io/pages/ensino.html">
+        <img src="assets/publpics/rqtl2_fig1c.jpg" alt="ensino" title="ensino"/>
+    </a>
+  </td>
+</tr>
+</table>
+
 
 
