@@ -40,10 +40,6 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
 
 <p>Para saber mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro, <a href="xhttps://pintofscience.com.br/equipe/Porto%20Seguro">[clique aqui] </a></p>
 
----
-
-
-
 <table class="wide">
 
   <td class="left">
