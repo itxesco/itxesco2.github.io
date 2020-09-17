@@ -19,6 +19,13 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
 
 <p> O Brasil vem participando do evento desde 2015, e já pode ser considerado o " maior Pint mundial", pelo número de cidades participantes. Em 2020, o festival deveria ocorrer nos bares de 74 cidades, mas devido a pandemia COVID-19, acabou sendo cancelado. </p>
 
+<tr>
+  <td class="center">
+    <a href="https://itxesco.github.io/pages/hq.html">
+        <img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg"  width="300" height="300" alt="Histórias em Quadrinhos" title="divulgação do Pint of Science BAHIA"/>
+    </a>
+  </td>
+
 <p> A solução foi realizar um evento virtual, com transmissão ao vivo pelo canal do Pint of Science Brasil no youtube. Assim,  entre os dias 8 e 10 de setembro de 2020,  com participação de 73 cidades do Brasil, o Pint of Science aconteceu, em paralelo a outros 12 países.</p>
 
 <p> No estado da Bahia, 5 universidades pública se uniram para fazer acontecer esta edição especial, em formato 100% virtual Assim, a equipe do Campus Sosígenes Costa da UFSB, que seria responsável por realizar o Pint of Science Porto seguro (BA) se juntou aos seus colegas da UFBA (Vitória da Conquista), UNIVASF (Juazeiro), UESC (Ilhéus) e UFOB (Barreiras) para promover três bate papos e três mesas redondas ao vivo, com a participação de cientistas de universidades baianas, que debateram a Ciência através de pautas de grande interesse social: </p>
@@ -38,43 +45,38 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
 
 
 <table class="wide">
-<tr>
+
   <td class="left">
-    <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg"  width="300" height="300" alt="Histórias em Quadrinhos" title="divulgação do Pint of Science BAHIA"/>
-    </a>
-  </td>
-  <td class="right">
     <a href="https://itxesco.github.io/pages/oca.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_0809_pre.jpeg" width="300" height="300" alt="Oca da Ciência na Escola" title="pré-evento do primeiro dia"/>
     </a>
   </td>
 </tr>
 <tr>
-  <td class="left">
+  <td class="right">
     <a href="https://itxesco.github.io/pages/rpg.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_0909_pre.jpeg" width="300" height="300" alt="Jogos de RPG" title="pré-evento do segundo dia"/>
     </a>
   </td>
-  <td class="right">
+  <td class="left">
     <a href="https://itxesco.github.io/pages/ensino.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_1009_pre.jpeg" width="300" height="300" alt="ensino" title="pré-evento do terceiro dia"/>
     </a>
   </td> 
   <tr>
-  <td class="left">
+  <td class="right">
     <a href="https://itxesco.github.io/pages/hq.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_0809_principal.jpeg" width="300" height="300" alt="Histórias em Quadrinhos" title="mesa principal - primeiro dia"/>
     </a>
   </td>
-  <td class="right">
+  <td class="left">
     <a href="https://itxesco.github.io/pages/oca.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_0909_principal.jpeg" width="300" height="300" alt="Oca da Ciência na Escola" title="mesa principal - segundo dia"/>
     </a>
   </td>
 </tr>
 <tr>
-  <td class="center">
+  <td class="right">
     <a href="https://itxesco.github.io/pages/rpg.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_1009_principal.jpeg" width="300" height="300" alt="Jogos de RPG" title="mesa principal - terceiro dia"/>
     </a>
