@@ -38,7 +38,7 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
 
 <p>Conheça a história completa do Pint of Science <a href="https://pintofscience.com.br/historia/">[no site oficial] </a></p>
 
-<p>Para saber mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro, <a href="xhttps://pintofscience.com.br/equipe/Porto%20Seguro">[clique aqui] </a></p>
+<p>Saiba mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro, <a href="xhttps://pintofscience.com.br/equipe/Porto%20Seguro">[aqui] </a></p>
 
 <table class="wide">
 
@@ -77,8 +77,7 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
         <img src="https://itxesco.github.io/assets/figuras/pint_1009_principal.jpeg" width="300" height="300" alt="Jogos de RPG" title="mesa principal - terceiro dia"/>
     </a>
   </td>  
-</tr>
-</table>
+
 
 
 
