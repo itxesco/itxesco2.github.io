@@ -1,6 +1,12 @@
+---
+layout: page
+title: Pint of Science - Porto Seguro
+description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenador professor doutor Francisco de Assis Nascimento Junior
+---
+
 <tr>
   <td class="left">
-    <a href="https://itxesco.github.io/pages/pint.md"><img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg" alt="Pint of Science Bahia" title="divulgação do Pint of Science BAHIA"/>
+    <a href="https://itxesco.github.io/pages/pint.md"><img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg"  width="400" height="400" alt="Pint of Science Bahia" title="card de divulgação do Pint of Science BAHIA"/>
     </a>
   </td>
 
