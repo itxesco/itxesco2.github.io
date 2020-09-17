@@ -47,7 +47,6 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
         <img src="https://itxesco.github.io/assets/figuras/pint_0809_pre.jpeg" width="300" height="300" alt="Oca da Ciência na Escola" title="pré-evento do primeiro dia"/>
     </a>
   </td>
-</tr>
 <tr>
   <td class="right">
     <a href="https://itxesco.github.io/pages/rpg.html">
