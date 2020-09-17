@@ -20,7 +20,7 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
 <p> O Brasil vem participando do evento desde 2015, e já pode ser considerado o " maior Pint mundial", pelo número de cidades participantes. Em 2020, o festival deveria ocorrer nos bares de 74 cidades, mas devido a pandemia COVID-19, acabou sendo cancelado. </p>
 
 <tr>
-  <td class="center">
+  <td class="right">
     <a href="https://itxesco.github.io/pages/hq.html">
         <img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg"  width="300" height="300" alt="Histórias em Quadrinhos" title="divulgação do Pint of Science BAHIA"/>
     </a>
@@ -47,8 +47,7 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
         <img src="https://itxesco.github.io/assets/figuras/pint_0809_pre.jpeg" width="300" height="300" alt="Oca da Ciência na Escola" title="pré-evento do primeiro dia"/>
     </a>
   </td>
-  </tr>
-  <tr>
+ 
     <td class="right">
     <a href="https://itxesco.github.io/pages/hq.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_0809_principal.jpeg" width="300" height="300" alt="Histórias em Quadrinhos" title="mesa principal - primeiro dia"/>
