@@ -41,7 +41,7 @@ Para saber mais sobre a equipe da UFSB responsável pela realização do Pint of
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg" alt="Histórias em Quadrinhos" title="divulgação do Pint of Science BAHIA"/>
+        <img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg"  width="300" height="300" alt="Histórias em Quadrinhos" title="divulgação do Pint of Science BAHIA"/>
     </a>
   </td>
   <td class="right">
