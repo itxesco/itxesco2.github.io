@@ -10,15 +10,28 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
     </a>
   </td>
 
-A primeira edição do Pint of Science aconteceu em 2013 na cidade de Londres, organizado por cientistas do Imperial College. O evento surgiu com a proposta de tirar os pesquisadores dos muros das universidades e institutos de pesquisa para conversarem diretamente sobre suas descobertas com as pessoas nos pubs, o típico bar inglês. O ambiente inspirou o nome do evento e o Pint, copo de aproximadamente 473 mL onde as bebidas são normalmente servidas por lá, acabou sendo incorporado ao nome. Assim, o evento convida as pessoas a tomar um Pint de ciência enquanto saboreiam a sua bebida preferida (seja água, suco, refrigerante, cerveja etc).
+O Pint of Science é o maior evento mundial de divulgação científica. Sua primeira edição aconteceu em 2013 na cidade de Londres, organizado por cientistas do Imperial College. A proposta do evento é tirar os pesquisadores de dentro dos muros das universidades e institutos de pesquisa, colocando-os para conversar diretamente sobre suas descobertas com as pessoas que se beneficiam de seus trabalhos, ou seja, o público em geral. E que lugar melhor para sentar e conversar abertamente sobre Ciência do que o pub, aquele típico bar inglês?
 
-Desde a primeira edição o Pint of Science vem sendo reconhecido internacionalmente e é atualmente o maior evento de divulgação científica do mundo. O formato do evento convida pesquisadores a falarem de forma simples e acessível sobre suas descobertas em um ambiente descontraído. Dessa forma, o evento é direcionado ao público em geral. O aumento do interesse dos pesquisadores em divulgar suas pesquisas e do público em conhecê-las fez com que o festival fosse realizado em mais de 400 cidades e 24 países em todo o mundo em 2019.
+O ambiente inspirou o nome do evento, já que o Pint corresponde ao copo  (473 mL) onde as bebidas são normalmente servidas por lá. Desse modo, o evento convida o público a tomar um Pint de ciência enquanto saboreiam a sua bebida preferida (seja água, suco, refrigerante ou cerveja).
 
-O Brasil participa do evento desde 2015. Este ano, devido a pandemia, o Pint of Science acontecerá no formato virtual entre os dias 8 e 10 de setembro com participação de 73 cidades brasileiras e outros 12 países. No estado da Bahia, 5 universidades se uniram nesta edição especial em formato 100% virtual. Assim, a  UFSB - Porto seguro se juntou com times da UFBA - Vitória da Conquista, UNIVASF - Juazeiro, UESC - Ilhéus e UFOB – Barreiras para promover três bate papos e três mesas redondas ao vivo, com a participação de cientistas de universidades baianas, para falar de assuntos de grande interesse social: Ações das universidades contra a COVID-19; Racismo no Brasil e Desastres ambientais.
+O aumento do interesse dos pesquisadores em divulgar suas pesquisas, e do público em conhecê-las, tem feito com que o Pint of Science cresça a cada ano, chegando a ser realizado em mais de 400 cidades e 24 países ao redor do mundo em 2019.
 
-Para ver a programação completa (temas e cientistas convidados), acesse a página do Pint of Science – Bahia clicando [aqui](https://pintofscience.com.br/events/porto-seguro)
+O Brasil vem participando do evento desde 2015, e já pode ser considerado o " maior Pint mundial", pelo número de cidades participantes. Em 2020, o festival deveria ocorrer nos bares de 74 cidades, mas devido a pandemia COVID-19, acabou sendo cancelado.
 
-Saiba mais sobre a história do Pint of Science [no site oficial do evento](https://pintofscience.com.br/historia/)
+A solução foi realizar um evento virtual, com transmissão ao vivo pelo canal do Pint of Science Brasil no youtube. Assim,  entre os dias 8 e 10 de setembro de 2020,  com participação de 73 cidades do Brasil, o Pint of Science aconteceu, em paralelo a outros 12 países.
+
+No estado da Bahia, 5 universidades pública se uniram para fazer acontecer esta edição especial, em formato 100% virtual Assim, a equipe do Campus Sosígenes Costa da UFSB, que seria responsável por realizar o Pint of Science Porto seguro (BA) se juntou aos seus colegas da UFBA (Vitória da Conquista), UNIVASF (Juazeiro), UESC (Ilhéus) e UFOB (Barreiras) para promover três bate papos e três mesas redondas ao vivo, com a participação de cientistas de universidades baianas, que debateram a Ciência através de pautas de grande interesse social: 
+
+1) Ações das universidades contra a COVID-19; 
+2) Racismo no Brasil e 
+3) Desastres ambientais.
+
+Para ver a programação completa do nosso Pint of Science Bahia, acesse a página oficial do evento  <a href="https://pintofscience.com.br/events/porto-seguro">[aqui]</a>
+
+Conheça a história completa do Pint of Science <a href="https://pintofscience.com.br/historia/">[no site oficial] </a>
+
+Para saber mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro, <a href="xhttps://pintofscience.com.br/equipe/Porto%20Seguro">[clique aqui] </a>
+
 ---
 
 
