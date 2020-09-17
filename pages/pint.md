@@ -74,7 +74,7 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
   </td>
 </tr>
 <tr>
-  <td class="left">
+  <td class="center">
     <a href="https://itxesco.github.io/pages/rpg.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_1009_principal.jpeg" width="300" height="300" alt="Jogos de RPG" title="mesa principal - terceiro dia"/>
     </a>
