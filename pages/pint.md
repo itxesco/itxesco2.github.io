@@ -5,8 +5,9 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
 ---
 
 <tr>
-  <td class="left">
-    <a href="https://itxesco.github.io/pages/pint.md"><img src="https://itxesco.github.io/assets/figuras/pintbahia.jpeg"  width="400" height="400" alt="Pint of Science Bahia" title="card de divulgação do Pint of Science BAHIA"/>
+  <td class="center">
+    <a href="https://itxesco.github.io/pages/ensino.html">
+        <img src="https://itxesco.github.io/assets/figuras/rankingtop5.jpeg" alt="top 5 videos do Pint of Science Brasil" title="vídeos mais assistidos no Pint of Science Brasil - Bahia em 5 lugar"/>
     </a>
   </td>
 
@@ -45,46 +46,39 @@ Para saber mais sobre a equipe da UFSB responsável pela realização do Pint of
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/oca.html">
-        <img src="https://itxesco.github.io/assets/figuras/pint_0809_pre.jpeg" alt="Oca da Ciência na Escola" title="pré-evento do primeiro dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_0809_pre.jpeg" width="300" height="300" alt="Oca da Ciência na Escola" title="pré-evento do primeiro dia"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/rpg.html">
-        <img src="https://itxesco.github.io/assets/figuras/pint_0909_pre.jpeg" alt="Jogos de RPG" title="pré-evento do segundo dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_0909_pre.jpeg" width="300" height="300" alt="Jogos de RPG" title="pré-evento do segundo dia"/>
     </a>
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/ensino.html">
-        <img src="https://itxesco.github.io/assets/figuras/pint_1009_pre.jpeg" alt="ensino" title="pré-evento do terceiro dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_1009_pre.jpeg" width="300" height="300" alt="ensino" title="pré-evento do terceiro dia"/>
     </a>
   </td> 
   <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="https://itxesco.github.io/assets/figuras/pint_0809_principal.jpeg" alt="Histórias em Quadrinhos" title="mesa principal - primeiro dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_0809_principal.jpeg" width="300" height="300" alt="Histórias em Quadrinhos" title="mesa principal - primeiro dia"/>
     </a>
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/oca.html">
-        <img src="https://itxesco.github.io/assets/figuras/pint_0909_principal.jpeg" alt="Oca da Ciência na Escola" title="mesa principal - segundo dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_0909_principal.jpeg" width="300" height="300" alt="Oca da Ciência na Escola" title="mesa principal - segundo dia"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/rpg.html">
-        <img src="https://itxesco.github.io/assets/figuras/pint_1009_principal.jpeg" alt="Jogos de RPG" title="mesa principal - terceiro dia"/>
+        <img src="https://itxesco.github.io/assets/figuras/pint_1009_principal.jpeg" width="300" height="300" alt="Jogos de RPG" title="mesa principal - terceiro dia"/>
     </a>
-  </td>
-  <td class="right">
-    <a href="https://itxesco.github.io/pages/ensino.html">
-        <img src="https://itxesco.github.io/assets/figuras/rankingtop5.jpeg" alt="ensino" title="vídeos mais assistidos no Pint of Science Brasil - ficamos em 5 lugar"/>
-    </a>
-  </td>
-  
-  
+  </td>  
 </tr>
 </table>
 
