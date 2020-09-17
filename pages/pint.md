@@ -41,41 +41,48 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
 <p>Saiba mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro, <a href="xhttps://pintofscience.com.br/equipe/Porto%20Seguro">[aqui] </a></p>
 
 <table class="wide">
-
+<tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/oca.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_0809_pre.jpeg" width="300" height="300" alt="Oca da Ciência na Escola" title="pré-evento do primeiro dia"/>
     </a>
   </td>
-<tr>
-  <td class="right">
+  </tr>
+  <tr>
+    <td class="right">
+    <a href="https://itxesco.github.io/pages/hq.html">
+        <img src="https://itxesco.github.io/assets/figuras/pint_0809_principal.jpeg" width="300" height="300" alt="Histórias em Quadrinhos" title="mesa principal - primeiro dia"/>
+    </a>
+  </td>
+</tr>
+  <tr>
+  <td class="left">
     <a href="https://itxesco.github.io/pages/rpg.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_0909_pre.jpeg" width="300" height="300" alt="Jogos de RPG" title="pré-evento do segundo dia"/>
     </a>
   </td>
+    </tr>
+  <tr>
+  <td class="right">
+    <a href="https://itxesco.github.io/pages/oca.html">
+        <img src="https://itxesco.github.io/assets/figuras/pint_0909_principal.jpeg" width="300" height="300" alt="Oca da Ciência na Escola" title="mesa principal - segundo dia"/>
+    </a>
+  </td>
+    </tr>
+  <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/ensino.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_1009_pre.jpeg" width="300" height="300" alt="ensino" title="pré-evento do terceiro dia"/>
     </a>
   </td> 
-  <tr>
-  <td class="right">
-    <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="https://itxesco.github.io/assets/figuras/pint_0809_principal.jpeg" width="300" height="300" alt="Histórias em Quadrinhos" title="mesa principal - primeiro dia"/>
-    </a>
-  </td>
-  <td class="left">
-    <a href="https://itxesco.github.io/pages/oca.html">
-        <img src="https://itxesco.github.io/assets/figuras/pint_0909_principal.jpeg" width="300" height="300" alt="Oca da Ciência na Escola" title="mesa principal - segundo dia"/>
-    </a>
-  </td>
-</tr>
+    </tr>
 <tr>
   <td class="right">
     <a href="https://itxesco.github.io/pages/rpg.html">
         <img src="https://itxesco.github.io/assets/figuras/pint_1009_principal.jpeg" width="300" height="300" alt="Jogos de RPG" title="mesa principal - terceiro dia"/>
     </a>
-  </td>  
+  </td> 
+  </tr>
 
 
 
