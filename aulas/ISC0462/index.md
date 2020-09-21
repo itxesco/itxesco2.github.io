@@ -33,7 +33,7 @@ roteiros
 </div>
             <div class="span2">
                      <a href="https://youtu.be/5qap5aO4i9A" target="_blank">
-                       <img src="/assets/figuras/perfil_lo_fi.jpeg" alt="estudar ouvindo lofi hip hop é relaxante e auxilia sua concentração." width=120 height=80><title="Prof. Dr. Francisco Nascimento" alt="Francisco de Assis Nascimento Junior" />
+                       <img src="/assets/figuras/perfil_lo_fi.jpeg" alt="estudar ouvindo lofi hip hop é relaxante e auxilia sua concentração." width=120 height=80 title="Prof. Dr. Francisco Nascimento" alt="Francisco de Assis Nascimento Junior">
                      </a>
                    </div>
           </div>
