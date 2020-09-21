@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sobre
+title: ISC0462 - Sociedade Tecnológica e Matrizes Energéticas
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
 
@@ -8,14 +8,6 @@ Somos a geração com maior ânsia por energia que já existiu. Nesta curso, abo
 
 
 **Professor:** [Dr. Francisco Nascimento](https://itxesco.github.io/pages/about.html)
-
-Doutor em Educação pela [Faculdade de Educação da USP](http://www4.fe.usp.br/) (2017)
-
-Mestre em Ensino de Ciências (modalidade Física) pelo [Instituto de Física da USP](http://portal.if.usp.br/cpgi/) (2013)
-
-Licenciado em Física pelo [Instituto de Física](http://portal.if.usp.br/ifusp/) da [USP](https://www5.usp.br/)	(2009)
-
-Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Humanidades da USP (EACH)](http://www5.each.usp.br/) e do projeto Banca da Ciência.
 
 ---
 
@@ -32,9 +24,11 @@ agenda
 programa
 roteiros
 <br/>
-            <a href="https://itxesco.github.io/aulas/ISC0462/agenda.html">agenda do quadrimestre</a><br/>
-            <a href="https://itxesco.github.io/aulas/ISC0462/programa.html">programa</a><br/>
-            <a href="https://itxesco.github.io/aulas/ISC0462/roteiros.html">roteiros de estudo e investigação</a><br/>
+<p> </p>
+
+  <a href="https://itxesco.github.io/aulas/ISC0462/agenda.html">agenda do quadrimestre</a><br/>
+  <a href="https://itxesco.github.io/aulas/ISC0462/programa.html">programa</a><br/>
+  <a href="https://itxesco.github.io/aulas/ISC0462/roteiros.html">roteiros de estudo e investigação</a><br/>
 
             <div class="span2">
                      <a href="https://youtu.be/5qap5aO4i9A" target="_blank">
