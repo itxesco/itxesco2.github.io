@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Prof. Dr. Francisco Nascimento 
+title: Prof. Dr. Francisco Nascimento
 description: Francisco de Assis Nascimento Junior,  professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia em Porto Seguro (BA), atuo na formação de professores; pesquisa as relações de identidade de gênero/étnico-raciais com a Ciência através de Histórias em Quadrinhos de Super-Heróis.
-keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ciências, histórias em quadrinhos, super-heróis, relações étnico-raciais,  comunidade de aprendizagem, 
+keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ciências, histórias em quadrinhos, super-heróis, relações étnico-raciais,  comunidade de aprendizagem,
 ---
 
 
@@ -11,19 +11,19 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="assets/publpics/iplotCorr.jpg" alt="Histórias em Quadrinhos" title="Histórias em Quadrinhos e Educação"/>
+        <img src="assets/publpics/iplotCorr.jpg" alt="Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências" title="pesquisa"/>
     </a>
   </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/oca.html">
-        <img src="assets/publpics/mppdiag_fig4.jpg" alt="Oca da Ciência na Escola" title="Oca da Ciência na Escola"/>
+        <img src="assets/publpics/mppdiag_fig4.jpg" alt="projeto Oca da Ciência na Escola" title="extensão"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
     <a href="https://itxesco.github.io/pages/rpg.html">
-        <img src="assets/publpics/samplemixups_fig7.jpg" alt="Jogos de RPG" title="RPG e Educação"/>
+        <img src="assets/publpics/samplemixups_fig7.jpg" alt="Jogos de RPG e Educação Ensino de Física e Ensino de Ciências" title="pesquisa"/>
     </a>
   </td>
   <td class="right">
