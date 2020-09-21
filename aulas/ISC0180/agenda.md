@@ -2,12 +2,13 @@
 layout: page
 title: ISC0180 - Estágio Supervisionado I
 ---
-### Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias da UFSB / CSC
-### Agenda do quadrimestre letivo 2020.2
+## Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias da UFSB / CSC
+---
+### Agenda do quadrimestre letivo 2020.2  
 
 Encontro | Data  | Tópico
 :---: | :---: |---
-1|13/10	| Apresentação do docente, curso e sistema avaliativo
+1|13/10	| Apresentação do docente, curso e sistema avaliativo  
 2|20/10	| primeiras leituras sobre a escola: AUTOR (2002) pdf logo
 3|27/10	|	 A escola como espaço sócio-cultural [leitura]pdf logo [atividade] pdf logo
 4|03/11	|	 atividade de observação [leitura] pdf logo
@@ -25,5 +26,4 @@ Encontro | Data  | Tópico
 ####  06/02		Fim do Quadrimestre letivo 2020.2
 
 ---
-
-[agenda](agenda.html)
+[home](index.html)
