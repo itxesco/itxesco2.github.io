@@ -17,10 +17,11 @@ Somos a geração com maior ânsia por energia que já existiu. Nesta curso, abo
     <div class="row-fluid">
         <div class="span5">
           <p>  presencialmente,  quartas-feiras 18:30-21:00, sala 11 no Bloco Central (devido a pandemia COVID-19, serão substituídas por encontros síncronos. O link será disponibilizado na área da componente no sigaA e também pelo Discord.</p>
+            <br></br>
 <p> <b>atendimento</b>
 deve ser agendado pelo servidor da Componente no Discord e irão ocorrer nas terças-feiras 13:30-16:30 </p>
 <br/>
-<br/>
+
 Outros links de interesse para esta Componente Curricular:
 
   <a href="https://itxesco.github.io/aulas/ISC0462/agenda.html">agenda do quadrimestre</a><br/>
