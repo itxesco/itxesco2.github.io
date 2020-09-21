@@ -4,7 +4,7 @@ title: sobre
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
 
-Sou professor adjunto do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB); onde atuo na formação de professores e ensino de ciências. Pesquiso em estudos culturais na educação em ciências, com foco no diálogo entre as relações de gênero/étnico-raciais e a ciência nas Histórias em Quadrinhos, Jogos de RPG e outros elementos da cultura dos super-heróis. 
+Sou professor adjunto do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB); onde atuo na formação de professores e ensino de ciências. Pesquiso em estudos culturais na educação em ciências, com foco no diálogo entre as relações de gênero/étnico-raciais e a ciência nas Histórias em Quadrinhos, Jogos de RPG e outros elementos da cultura dos super-heróis.
 
 **Formação Acadêmica**
 
@@ -43,9 +43,7 @@ he/him
             BR<br/><br/>
 
             <div id="hide_email">
-            Email: <code>francisco</code><b>eu</b><code>.assis</code><b>não</b><code>@</code><b>quero</b><code></code><b>spam!
-            </b><code></code><b>então</b><code></code><b>por favor</b><code>gfe</code><b>me
-            </b><code>.ufsb</code><b>deixe</b><code>.</code><b>em</b><code>edu</code><b>paz!</b><code>.br</code><br/>
+            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;">&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;</a>
             Fone: (73) 3288-8400 (Secretaria Executiva do IHAC - CSC)
             </div>
         </div>
