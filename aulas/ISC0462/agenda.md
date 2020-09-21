@@ -2,7 +2,7 @@
 layout: page
 title: ISC0462 Sociedade Tecnológica e Matrizes Energéticas
 ---
-## Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias da UFSB / CSC
+### Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias da UFSB / CSC
 ---
 ### Agenda do quadrimestre letivo 2020.2  
 
@@ -23,7 +23,7 @@ Encontro | Data  | Tópico
 11|27/01	|	 entrevistas
 12|03/02	|	 finalização e devolutivas
 
-####  06/02		Fim do Quadrimestre letivo 2020.2
+#####  06/02		Fim do Quadrimestre letivo 2020.2
 
 ---
 [home](index.html)
