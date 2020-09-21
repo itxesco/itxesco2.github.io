@@ -1,6 +1,6 @@
 ---
 layout: page
-title: atividades de ensino - UFSB
+title: ensino - UFSB
 description: aulas de Francisco de Assis Nascimento Junior
 ---
 
