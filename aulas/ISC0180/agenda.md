@@ -18,12 +18,12 @@ Encontro | Data  | Tópico
 8|01/12	|	 roda de conversa sobre a [BNCC   ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/Alamo_BNCC-VERSAO-FINAL.pdf)
 9|08/12	|	 observação participante e entrega de relatório
 10|15/12	|	 Observação Participante
-n|21/12	| início do recesso de fim de ano - interrupção do curso (2020)
-n|25/01 | fim do recesso - retorno  (2021)
+|21/12	| início do recesso de fim de ano - interrupção do curso (2020)
+|25/01 | fim do recesso - retorno  (2021)
 11|26/01	|	 entrevistas [dirigentes do CIEPS]
 12|02/02	|	 finalização e devolutivas
 
-####  06/02		Fim do Quadrimestre letivo 2020.2
+#####  06/02		Fim do Quadrimestre letivo 2020.2
 
 ---
 [home](index.html)
