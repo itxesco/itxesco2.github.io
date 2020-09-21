@@ -10,7 +10,7 @@ Encontro | Data  | Tópico
 :---: | :---: |---
 1|13/10	| Apresentação do docente, curso e sistema avaliativo  
 2|20/10	| primeiras leituras sobre a escola: AUTOR (2002) pdf logo
-3|27/10	|	 A escola como espaço sócio-cultural [leitura]pdf logo [atividade] pdf logo
+3|27/10	|	 A escola como espaço sócio-cultural [leitura![em pdf](icons16/pdf-icon.png)](/aulas/recursos\1._Dayrell-1996-Escola-espao-socio-cultural.pdf)
 4|03/11	|	 atividade de observação [leitura] pdf logo
 5|10/11	|	 observação participante [Estações do Saber] pdf logo
 6|17/11	|	 observação participante
