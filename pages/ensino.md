@@ -19,6 +19,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 #### <a name="current"></a>Componentes Curriculares - Quadrimestre 2020.2
 
 ---
+
 componentes|componentes
 :---:|:---:
 ISC0180 - [Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/index.html)|ISC0332 - [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC0332/index.html)
@@ -43,6 +44,8 @@ ISC0180 - [Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/in
 
 ---
 
+componentes|Componentes
+:---:|:---:
 ISC0222 - [Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html) | ISC0204 - [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html)
 :---:|:---:
 ISC0313 - [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html)| ISC0302 - [Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html)
