@@ -21,6 +21,10 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 
 ### <a name="chapters"></a>capítulos de livros
 
+**NASCIMENTO, F.**. Alfabatização Freiriana e o Ensino de Física: uma Reflexão sobre o Papel da Escola. In: ABREU, Janaina M., PADILHA, Paulo Roberto (orgs). Como Alfabetizar com Paulo Freire? [ebook] 1 ed., São Paulo, Instituto Paulo Freire, 2020. [![lattes](icons16/pdf-icon.png)](http://lattes.cnpq.br/1942359141745184)<br/>
+DOI: 10.29327/518977
+
+
 ---
 ### <a name="book"></a>livros
 
@@ -127,5 +131,3 @@ de São Paulo. São Paulo: Universidade de São Paulo, 2017.
 
 
 Informações completas estão disponíveis no meu [![Currilo Lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184)[e podem ser acessadas aqui.](http://lattes.cnpq.br/1942359141745184)<br/>
-
-
