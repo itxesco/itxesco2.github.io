@@ -51,53 +51,13 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-##### ISC0222 - [Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html)
+Componentes de Física | Componentes de Ensino
+:---:|:---:
+[Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html) ISC0222 |   [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html) ISC0204
+   [Cálculo Univariado - Funções e Variações](https://itxesco.github.io/aulas/ISC0213/index.html) ISC0213 |   [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html) ISC0313
+  [Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html) ISC0302 |   [Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/index.html) ISC0180
+  [Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html) ISC0528 |    [Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html) ISC0312
 
-- [agenda](https://itxesco.github.io/aulas/ISC0222/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0222/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0222/roteiros.html)
-
-
-##### ISC0204 - [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/ISC0204/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0204/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0204/roteiros.html)
-
-
-##### ISC0313 - [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/ISC0313/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0313/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0313/roteiros.html)
-
-
-##### ISC0302 - [Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/ISC0302/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0302/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0302/roteiros.html)
-
-
-##### ISC0213 - [Cálculo Univariado - Funções e Variações](https://itxesco.github.io/aulas/ISC0213/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/ISC0213/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0213/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0213/roteiros.html)
-
-
-##### ISC0528 - [Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/ISC0528/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0528/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0528/roteiros.html)
-
-
-##### ISC0312 - [Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/ISC0312/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0312/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0312/roteiros.html)
 
 ---
 
