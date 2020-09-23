@@ -22,7 +22,7 @@ Somos a geração com maior ânsia por energia que já existiu. Nesta curso, abo
 deve ser agendado pelo servidor da Componente no Discord e irão ocorrer nas terças-feiras 13:30-16:30 </p>
 <br/>
 
-Outros links de interesse para esta Componente Curricular:
+Outros links de interesse para esta Componente Curricular:  <br/>
 
   <a href="https://itxesco.github.io/aulas/ISC0462/agenda.html">agenda do quadrimestre</a><br/>
   <a href="https://itxesco.github.io/aulas/ISC0462/programa.html">programa</a><br/>
