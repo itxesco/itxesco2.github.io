@@ -131,4 +131,4 @@ de São Paulo. São Paulo: Universidade de São Paulo, 2017.
 
 
 
-Informações completas estão disponíveis no meu [![Currilo Lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184)[e podem ser acessadas aqui.](http://lattes.cnpq.br/1942359141745184)<br/>
+Informações completas estão disponíveis na  [Plataforma Lattes ![Curriculo Lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184) que pode ser acessada [aqui.](http://lattes.cnpq.br/1942359141745184)<br/>
