@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ISC0010 Campos das Ciências Saberes e Práticas
+title: CAM0172 Campo das Ciências - Saberes e Práticas
 ---
-## Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias da UFSB / CSC
+## Formação Geral (FG)
 ---
 ### Agenda do quadrimestre letivo 2020.2  
 

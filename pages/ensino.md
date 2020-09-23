@@ -32,11 +32,11 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [programa](https://itxesco.github.io/aulas/ISC0332/programa.html)
 - [roteiros](https://itxesco.github.io/aulas/ISC0332/roteiros.html)
 
-##### ISC0010 - [Campos das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/ISC0010/index.html)
+##### CAM0172 - [Campo das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/CAM0172/index.html)
 
-- [agenda](https://itxesco.github.io/aulas/ISC0010/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0010/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0010/roteiros.html)
+- [agenda](https://itxesco.github.io/aulas/CAM0172/agenda.html)
+- [programa](https://itxesco.github.io/aulas/CAM0172/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/CAM0172/roteiros.html)
 
 
 ##### ISC0462 - [Sociedade Tecnológica e Matrizes Energéticas](https://itxesco.github.io/aulas/ISC0462/index.html)
