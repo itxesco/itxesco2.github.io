@@ -44,6 +44,8 @@ componentes | componentes
 
 ---
 
+---|---
+
 componentes | Componentes
 :---:|:---:
 ISC0222 - [Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html) | ISC0204 - [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html)
