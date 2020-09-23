@@ -19,21 +19,21 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 </div>
 
 
-### <a name="chapters"></a>capítulos de livros
+#### <a name="chapters"></a>capítulos de livros
 ---
 
 **NASCIMENTO, F.**. Alfabatização Freiriana e o Ensino de Física: uma Reflexão sobre o Papel da Escola. In: ABREU, Janaina M., PADILHA, Paulo Roberto (orgs). Como Alfabetizar com Paulo Freire? [ebook] 1 ed., São Paulo, Instituto Paulo Freire, 2020. [![doi](icons16/doi-icon.png)](https://dx.doi.org/10.18316/518977) [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/articles/E-book_Como_Alfabetizar_com_Paulo_Freire_2020.pdf")<br/>
 
 
 ---
-### <a name="book"></a>livros
+#### <a name="book"></a>livros
 ---
 
 
 **NASCIMENTO, F**. Quarteto Fantástico: Ensino de Física e Satisfação Cultural. 1. ed. Balti: Novas Edições Acadêmicas, 2017. v. 1. 116p .
 
 ---
-### <a name="articles"></a>artigos
+#### <a name="articles"></a>artigos
 ---
 
 #### 2019
@@ -61,14 +61,14 @@ Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores:
 
 ---
 
-### <a name="letters"></a>material didático
+#### <a name="letters"></a>material didático
 ---
 
 **NASCIMENTO, F.**; LIMA, M. M. . Superguia Enem : matemática e física. 1. ed. Bauru: Editora Alto Astral, 2014. v. 1. 90p.
 
 ---
 
-### <a name="anais"></a>trabalhos publicados em anais de eventos
+#### <a name="anais"></a>trabalhos publicados em anais de eventos
 ---
 
  **NASCIMENTO, F.**; PIASSI, L. P. C. . Questões de Gênero: dos Quadrinhos de Super-Heróis para as aulas de Física. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.
@@ -113,7 +113,7 @@ RAMOS, J. E. F. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . A Ciência e o humor n
 
 ---
 
-### <a name="techreports"></a>tese
+#### <a name="techreports"></a>tese
 ---
 
 **NASCIMENTO, F.** e PIASSI, L.P. **Crise de identidade: gênero e ciência nos quadrinhos de super-heróis**. Tese (Doutorado) – Faculdade de Educação da Universidade
@@ -122,7 +122,7 @@ de São Paulo. São Paulo: Universidade de São Paulo, 2017.
 
 ---
 
-### <a name="thesis"></a>dissertação
+#### <a name="thesis"></a>dissertação
 ---
 
 **Nascimento, F.A.** e Piassi,L.P **QuartetoFantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências**. Dissertação (Mestrado em Ensino de Ciências). Instituto de Física da Universidade de São Paulo.
