@@ -42,12 +42,9 @@ componentes | componentes
 
 #### <a name="old"></a>Quadrimestres anteriores
 
----
-
----|---
 
 componentes | Componentes
-:---:|:---:
+:----------:|:-----------:
 ISC0222 - [Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html) | ISC0204 - [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html)
 ISC0313 - [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html)| ISC0302 - [Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html)
 ISC0213 - [Cálculo Univariado - Funções e Variações](https://itxesco.github.io/aulas/ISC0213/index.html)| ISC0528 - [Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html)
