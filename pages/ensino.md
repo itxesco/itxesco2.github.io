@@ -47,7 +47,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="old"></a>Quadrimestres anteriores
+#### <a name="old"></a>outros quadrimestres
 
 ---
 
@@ -75,7 +75,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [roteiros](https://itxesco.github.io/aulas/PPGER0034/roteiros.html)
 
 ---
-##### <a name="shortcourses"></a> ministrados em Instituições anteriores
+##### <a name="shortcourses"></a> já ministrados em outras Instituições 
 
 ---
 
