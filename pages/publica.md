@@ -78,9 +78,9 @@ SEMICONDUTORES COM O USO DO FILME BATMAN, O CAVALEIRO DAS TREVAS. In: XXII Simp�
 
 BARROS, N. R. ;**NASCIMENTO, F.**; PIASSI, L. P. C. . O funk e o rock nas estrelas: uma oficina para o ensino de astronomia. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.  [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/funkerock.pdf")
 
-**NASCIMENTO, F.**; PIASSI, L. P. C. . A Gênese da cultura dos quadrinhos no Brasil. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. Anais CONINTER 3 -Volume 5 - Educação, Memória e História, 2014. v. 5. p. 207-221.
+**NASCIMENTO, F.**; PIASSI, L. P. C. . A Gênese da cultura dos quadrinhos no Brasil. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. Anais CONINTER 3 -Volume 5 - Educação, Memória e História, 2014. v. 5. p. 207-221. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/NASCIMENTOJRF.A.2014AGnesedaCulturadosQuadrinhosnoBrasil.pdf")
 
-**NASCIMENTO, F.**; PIASSI, L. P. C. . Crise de Identidade: a Representação de Gênero nos Quadrinhos de Super-Heróis. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter)o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. CONINTER 3 - Volume 7 - Estudos de Gênero, Feminismo e Sexualidades, 2014. v. 7. p. 1.
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Crise de Identidade: a Representação de Gênero nos Quadrinhos de Super-Heróis. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter)o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. CONINTER 3 - Volume 7 - Estudos de Gênero, Feminismo e Sexualidades, 2014. v. 7. p. 1. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/NASCIMENTOJRF.A.2014CRISEDEIDENTIDADE.pdf")
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Uma análise da cultura dos quadrinhos no brasil. In: I Encontro Brasileiro de Pesquisa em Cultura, 2013, São Paulo. anais do I Encontro Brasileiro de Pesquisa em Cultura, 2013. v. 1. p. 1.
 
