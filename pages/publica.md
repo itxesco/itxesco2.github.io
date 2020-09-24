@@ -73,9 +73,10 @@ Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores:
 
  **NASCIMENTO, F.**; PIASSI, L. P. C. . Questões de Gênero: dos Quadrinhos de Super-Heróis para as aulas de Física. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/QuestesdeGnero-dosquadrinhosdesuper-herisparaasaulasdefsica")
 
-Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Física e Cinema: uma Oficina sobre Supercondutores com o uso do filme Batman, o Cavaleiro das Trevas. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.
+Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . FÍSICA E CINEMA: UMA OFICINA SOBRE
+SEMICONDUTORES COM O USO DO FILME BATMAN, O CAVALEIRO DAS TREVAS. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/oficinabatman.pdf")
 
-BARROS, N. R. ;**NASCIMENTO, F.**; PIASSI, L. P. C. . O funk e o rock nas estrelas: uma oficina para o ensino de astronomia. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.
+BARROS, N. R. ;**NASCIMENTO, F.**; PIASSI, L. P. C. . O funk e o rock nas estrelas: uma oficina para o ensino de astronomia. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.  [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/funkerock.pdf")
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . A Gênese da cultura dos quadrinhos no Brasil. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. Anais CONINTER 3 -Volume 5 - Educação, Memória e História, 2014. v. 5. p. 207-221.
 
