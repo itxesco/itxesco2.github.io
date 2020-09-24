@@ -20,30 +20,18 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-##### ISC0180 - [Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/ISC0180/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0180/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html)
-
-##### ISC0332 - [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC0332/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/ISC0332/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0332/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0332/roteiros.html)
-
-##### CAM0172 - [Campo das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/CAM0172/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/CAM0172/agenda.html)
-- [programa](https://itxesco.github.io/aulas/CAM0172/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/CAM0172/roteiros.html)
+  [Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/index.html) ISC0180 |  [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC0332/index.html) ISC0332
+:---:|:---:
+[agenda](https://itxesco.github.io/aulas/ISC0180/agenda.html) | [agenda](https://itxesco.github.io/aulas/ISC0332/agenda.html)
+[programa](https://itxesco.github.io/aulas/ISC0180/programa.html) | [programa](https://itxesco.github.io/aulas/ISC0332/programa.html)
+[roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html) | [roteiros](https://itxesco.github.io/aulas/ISC0332/roteiros.html)
 
 
-##### ISC0462 - [Sociedade Tecnológica e Matrizes Energéticas](https://itxesco.github.io/aulas/ISC0462/index.html)
-
-- [agenda](https://itxesco.github.io/aulas/ISC0462/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0462/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0462/roteiros.html)
+CAM0172 - [Campo das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/CAM0172/index.html) | ISC0462 - [Sociedade Tecnológica e Matrizes Energéticas](https://itxesco.github.io/aulas/ISC0462/index.html)
+:---:|:---:
+[agenda](https://itxesco.github.io/aulas/CAM0172/agenda.html) | [agenda](https://itxesco.github.io/aulas/ISC0462/agenda.html)
+[programa](https://itxesco.github.io/aulas/CAM0172/programa.html) | [programa](https://itxesco.github.io/aulas/ISC0462/programa.html)
+[roteiros](https://itxesco.github.io/aulas/CAM0172/roteiros.html) | [roteiros](https://itxesco.github.io/aulas/ISC0462/roteiros.html)
 
 ---
 
@@ -64,7 +52,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="misc"></a>Componentes da Pós-Graduação
+#### <a name="shortcourses"></a>Componentes da Pós-Graduação
 
 ---
 
@@ -75,7 +63,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [roteiros](https://itxesco.github.io/aulas/PPGER0034/roteiros.html)
 
 ---
-##### <a name="shortcourses"></a> já ministrados em outras Instituições
+##### <a name="misc"></a> outras Instituições
 
 ---
 
@@ -88,7 +76,6 @@ Física Nuclear e de Partículas | Gravitação e Leis de Conservação
 Mecânica dos Sólidos e Fluídos | Política e Estrutura de Ensino no Brasil
 Oficinas de Projeto de Ensino I |Fundamentos da Física para Estruturas
 
-
 #### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
 
@@ -98,7 +85,6 @@ Métodos Numéricos | Matemática Básica
 Fundamentos de Ciências Exatas | Física Geral
 Equações Diferenciais | Mecânica Geral
 Cálculo Diferencial | Cálculo Integral
-
 
 #### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
