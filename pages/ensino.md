@@ -83,7 +83,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 Física Teórica (ensino médio integrado) | Laboratório de Física Experimental (ensino médio integrado)
 ---|---
-Introdução ao Ensino e Divulgação Científica | Escola e Sociedade
+Escola e Sociedade | Introdução ao Ensino e Divulgação Científica
 Física Nuclear e de Partículas | Gravitação e Leis de Conservação
 Mecânica dos Sólidos e Fluídos | Oficinas de Projeto de Ensino I
 Política e Estrutura de Ensino no Brasil |Fundamentos da Física para Estruturas
