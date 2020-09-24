@@ -75,7 +75,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [roteiros](https://itxesco.github.io/aulas/PPGER0034/roteiros.html)
 
 ---
-##### <a name="shortcourses"></a> Componentes Curriculares que ministrei em outras Instituições
+##### <a name="shortcourses"></a> ministrados em Instituições anteriores
 
 ---
 
