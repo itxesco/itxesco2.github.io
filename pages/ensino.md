@@ -81,7 +81,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 #### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
 
-Física Teórica (ensino médio integrado) | Laboratório de Física Experimental (ensino médio integrado)
+Física Teórica (EM integrado) | Laboratório de Física Experimental (EM integrado)
 ---|---
 Escola e Sociedade | Introdução ao Ensino e Divulgação Científica
 Física Nuclear e de Partículas | Gravitação e Leis de Conservação
