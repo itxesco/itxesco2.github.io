@@ -85,8 +85,8 @@ Física Teórica (EM integrado) | Laboratório de Física Experimental (EM integ
 ---|---
 Escola e Sociedade | Introdução ao Ensino e Divulgação Científica
 Física Nuclear e de Partículas | Gravitação e Leis de Conservação
-Mecânica dos Sólidos e Fluídos | Oficinas de Projeto de Ensino I
-Política e Estrutura de Ensino no Brasil |Fundamentos da Física para Estruturas
+Mecânica dos Sólidos e Fluídos | Política e Estrutura de Ensino no Brasil
+Oficinas de Projeto de Ensino I |Fundamentos da Física para Estruturas
 
 #### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
