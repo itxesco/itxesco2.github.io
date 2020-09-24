@@ -112,8 +112,8 @@ Laboratório de Física Experimental 4 | Educação, Saúde e Meio Ambiente II
 
 Para turmas de ensino médio regular, técnico e EJA das redes pública e particular de São Paulo (SP):
 
-- Laboratório de Física Experimental
-- Física Teórica
+- Laboratório de Física 
+- Física
 
 
 #### Ensino Fundamental (2004 - 2016)
