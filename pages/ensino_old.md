@@ -92,13 +92,16 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 #### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
-
-Estatística Aplicada | Algebra Linear e Vetores
----|---
-Métodos Numéricos | Fundamentos de Ciências Exatas
-Matemática Básica | Física Geral
-Equações Diferenciais | Mecânica Geral
-Cálculo Diferencial | Cálculo Integral
+- Física Geral
+- Mecânica Geral
+- Estatística Aplicada
+-  Métodos Numéricos
+- Matemática Básica
+- Equações Diferenciais
+- Algebra Linear e Vetores
+-  Cálculo Diferencial
+- Cálculo Integral
+- Fundamentos de Ciências Exatas
 
 #### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
