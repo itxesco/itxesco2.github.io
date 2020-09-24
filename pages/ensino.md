@@ -93,8 +93,8 @@ Política e Estrutura de Ensino no Brasil |Fundamentos da Física para Estrutura
 
 Estatística Aplicada | Algebra Linear e Vetores
 ---|---:
-Métodos Numéricos | Fundamentos de Ciências Exatas
-Matemática Básica | Física Geral
+Métodos Numéricos | Matemática Básica
+Fundamentos de Ciências Exatas | Física Geral
 Equações Diferenciais | Mecânica Geral
 Cálculo Diferencial | Cálculo Integral
 
