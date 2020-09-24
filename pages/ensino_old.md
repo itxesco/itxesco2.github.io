@@ -47,7 +47,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="old"></a>Quadrimestres anteriores
+#### <a name="old"></a>outros quadrimestres
 
 ---
 
@@ -75,33 +75,28 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [roteiros](https://itxesco.github.io/aulas/PPGER0034/roteiros.html)
 
 ---
-##### <a name="shortcourses"></a> Componentes Curriculares que ministrei em outras Instituições
+##### <a name="shortcourses"></a> já ministrados em outras Instituições
 
 ---
 
 #### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
 
-- Introdução ao Ensino e Divulgação Científica
-- Escola e Sociedade
-- Física Nuclear e de Partículas
-- Gravitação e Leis de Conservação
-- Mecânica dos Sólidos e Fluídos
-- Oficinas de Projeto de Ensino I
-- Política e Estrutura de Ensino no Brasil
-- Fundamentos da Física para Estruturas
+Física Teórica (EM integrado) |  Física Experimental (EM integrado)
+---|---:
+Escola e Sociedade | Introdução ao Ensino e Divulgação Científica
+Física Nuclear e de Partículas | Gravitação e Leis de Conservação
+Mecânica dos Sólidos e Fluídos | Política e Estrutura de Ensino no Brasil
+Oficinas de Projeto de Ensino I |Fundamentos da Física para Estruturas
 
 #### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
-- Física Geral
-- Mecânica Geral
-- Estatística Aplicada
--  Métodos Numéricos
-- Matemática Básica
-- Equações Diferenciais
-- Algebra Linear e Vetores
--  Cálculo Diferencial
-- Cálculo Integral
-- Fundamentos de Ciências Exatas
+
+Estatística Aplicada | Algebra Linear e Vetores
+---|---:
+Métodos Numéricos | Matemática Básica
+Fundamentos de Ciências Exatas | Física Geral
+Equações Diferenciais | Mecânica Geral
+Cálculo Diferencial | Cálculo Integral
 
 #### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
@@ -117,8 +112,8 @@ Laboratório de Física Experimental 4 | Educação, Saúde e Meio Ambiente II
 
 Para turmas de ensino médio regular, técnico e EJA das redes pública e particular de São Paulo (SP):
 
-- Laboratório de Física Experimental
-- Física Teórica
+- Laboratório de Física 
+- Física
 
 
 #### Ensino Fundamental (2004 - 2016)
