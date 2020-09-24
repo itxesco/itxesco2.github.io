@@ -33,17 +33,14 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
   </td>
 </tr>
 </table>
-
+<!-- Meu comentário em HTML
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-         <li><a href="http://lattes.cnpq.br/1942359141745184">lattes</a></li>
-                <li><a href="http://itxesco.github.io/pages/tutoriais.html">tutoriais</a></li>
+
                 <li><a href="http://itxesco.github.io/pages/favoritos.html">favoritos</a></li>
-                <li><a href="https://www.goodreads.com/user/show/51497119-francisco-nascimento">goodereads</a></li>
-          <li><a href="https://www.instagram.com/itxesco">instagram</a></li>
-          <li><a href="https://itxesco.github.io-blog">blog</a></li>
-          <li><a href="https://twitter.com/itxesco">twitter</a></li>
+
       </ul>
   </div>
 </div>
+-->

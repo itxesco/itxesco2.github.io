@@ -88,6 +88,7 @@ Física Nuclear e de Partículas | Gravitação e Leis de Conservação
 Mecânica dos Sólidos e Fluídos | Política e Estrutura de Ensino no Brasil
 Oficinas de Projeto de Ensino I |Fundamentos da Física para Estruturas
 
+
 #### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
 
@@ -97,6 +98,7 @@ Métodos Numéricos | Matemática Básica
 Fundamentos de Ciências Exatas | Física Geral
 Equações Diferenciais | Mecânica Geral
 Cálculo Diferencial | Cálculo Integral
+
 
 #### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
@@ -112,7 +114,7 @@ Laboratório de Física Experimental 4 | Educação, Saúde e Meio Ambiente II
 
 Para turmas de ensino médio regular, técnico e EJA das redes pública e particular de São Paulo (SP):
 
-- Laboratório de Física 
+- Laboratório de Física
 - Física
 
 
