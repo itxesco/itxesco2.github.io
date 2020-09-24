@@ -65,8 +65,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-##### PPGER0034  
- [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/aulas/PPGER0034/index.html)
+##### PPGER0034 - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/aulas/PPGER0034/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/PPGER0034/agenda.html)
 - [programa](https://itxesco.github.io/aulas/PPGER0034/programa.html)
