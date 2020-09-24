@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publicações recentes
+title: trabalhos publicados nos últimos 5 anos
 description: Prof. Dr. Francisco Nascimento artigos publicados
 ---
 
@@ -68,7 +68,7 @@ Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores:
 
 ---
 
-#### <a name="anais"></a>trabalhos publicados em anais de eventos (últimos 5 anos)
+#### <a name="anais"></a>trabalhos publicados em anais de eventos 
 ---
 
  **NASCIMENTO, F.**; PIASSI, L. P. C. . Questões de Gênero: dos Quadrinhos de Super-Heróis para as aulas de Física. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/QuestesdeGnero-dosquadrinhosdesuper-herisparaasaulasdefsica")
