@@ -52,11 +52,14 @@ description: aulas de Francisco de Assis Nascimento Junior
 ---
 
 
-[Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html) ISC0222 |   [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html) ISC0204
-:---:|:---:
-   [Cálculo Univariado - Funções e Variações](https://itxesco.github.io/aulas/ISC0213/index.html) ISC0213 |   [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html) ISC0313
-  [Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html) ISC0302 |   [Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html)
-  	[Cálculo Multivariado: Funções e Variações](https://itxesco.github.io/aulas/ISC0221/index.html)    ISC0528  |    [Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html) ISC0312
+[Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html) - ISC0222  
+[Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html) - ISC0204  
+[Cálculo Univariado - Funções e Variações](https://itxesco.github.io/aulas/ISC0213/index.html) - ISC0213  
+[Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html) - ISC0313  
+[Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html) - ISC0302  
+[Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html) - ISC0528  
+[Cálculo Multivariado: Funções e Variações](https://itxesco.github.io/aulas/ISC0221/index.html) - ISC0528  
+[Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html) - ISC0312  
 
 
 ---
@@ -102,15 +105,12 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 #### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
-- Laboratório de Física Experimental 1
-- Laboratório de Física Experimental 2
-- Laboratório de Física Experimental 3
-- Laboratório de Física Experimental 4
+Laboratório de Física Experimental 1 | Conteúdos e Práticas de Ciências I
+--|--
+Laboratório de Física Experimental 2 | Conteúdos e Práticas de Ciências II
+Laboratório de Física Experimental 3 | Educação, Saúde e Meio Ambiente I
+Laboratório de Física Experimental 4 | Educação, Saúde e Meio Ambiente II
 
-- Conteúdos e Práticas de Ciências I
-- Conteúdos e Práticas de Ciências II  
-- Educação, Saúde e Meio Ambiente I
-- Educação, Saúde e Meio Ambiente II
 
 ---  
 #### Ensino Médio (2006 - 2016)
