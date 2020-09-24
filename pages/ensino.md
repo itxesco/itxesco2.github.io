@@ -81,20 +81,18 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 #### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
 
-- Introdução ao Ensino e Divulgação Científica
-- Escola e Sociedade
-- Física Nuclear e de Partículas
-- Gravitação e Leis de Conservação
-- Mecânica dos Sólidos e Fluídos
-- Oficinas de Projeto de Ensino I
-- Política e Estrutura de Ensino no Brasil
-- Fundamentos da Física para Estruturas
+Física Teórica (ensino médio integrado) | Laboratório de Física Experimental (ensino médio integrado)
+---|---
+Introdução ao Ensino e Divulgação Científica | Escola e Sociedade
+Física Nuclear e de Partículas | Gravitação e Leis de Conservação
+Mecânica dos Sólidos e Fluídos | Oficinas de Projeto de Ensino I
+Política e Estrutura de Ensino no Brasil |Fundamentos da Física para Estruturas
 
 #### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
 
 Estatística Aplicada | Algebra Linear e Vetores
----|---
+---|---:
 Métodos Numéricos | Fundamentos de Ciências Exatas
 Matemática Básica | Física Geral
 Equações Diferenciais | Mecânica Geral
