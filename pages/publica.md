@@ -80,6 +80,9 @@ BARROS, N. R. ;**NASCIMENTO, F.**; PIASSI, L. P. C. . O funk e o rock nas estrel
 
 **NASCIMENTO, F.**; PIASSI, L.P.C. . A Representação do diálogo Gênero-Ciência nos Quadrinhos da DC Comics. In: 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015, São Paulo. anais das 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015.[![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/A_REPRESENTACAO_DO_DIALOGO_GENERO_CIENCI.pdf")
 
+SILVA, F. A. M.; **NASCIMENTO, F.**; PIASSI, L. P. C. . A Identificação do Cientista nos Quadrinhos de Ficção Científica - Uma Análise do caso " Magnetar". In: 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015, São Paulo. anais das 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015.[![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/artigo_080620151103012.pdf")
+
+
 **NASCIMENTO, F.**; PIASSI, L. P. C. . A Gênese da cultura dos quadrinhos no Brasil. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. Anais CONINTER 3 -Volume 5 - Educação, Memória e História, 2014. v. 5. p. 207-221. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/NASCIMENTOJRF.A.2014AGnesedaCulturadosQuadrinhosnoBrasil.pdf")
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Crise de Identidade: a Representação de Gênero nos Quadrinhos de Super-Heróis. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter)o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. CONINTER 3 - Volume 7 - Estudos de Gênero, Feminismo e Sexualidades, 2014. v. 7. p. 1. [![pdf](icons16/pdf-icon.png)]("https://itxesco.github.io/assets/anais/NASCIMENTOJRF.A.2014CRISEDEIDENTIDADE.pdf")
