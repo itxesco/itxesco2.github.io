@@ -75,13 +75,13 @@ description: aulas de Francisco de Assis Nascimento Junior
 - [roteiros](https://itxesco.github.io/aulas/PPGER0034/roteiros.html)
 
 ---
-##### <a name="shortcourses"></a> já ministrados em outras Instituições 
+##### <a name="shortcourses"></a> já ministrados em outras Instituições
 
 ---
 
 #### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
 
-Física Teórica (EM integrado) | Laboratório de Física Experimental (EM integrado)
+Física Teórica (EM integrado) |  Física Experimental (EM integrado)
 ---|---:
 Escola e Sociedade | Introdução ao Ensino e Divulgação Científica
 Física Nuclear e de Partículas | Gravitação e Leis de Conservação
