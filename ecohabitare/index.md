@@ -111,6 +111,20 @@ title: Formação em Comunidades de Aprendizagem
 - Dispositivos da Ponte  [ ![ppt](/pages/icons16/ppt-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Dispositivos da Ponte.ppt)
 - Modelo - Roteiro de Estudos  [ ![xls](/pages/icons16/Excel-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Modelo - Roteiro de Estudos.xls)
 
+#### 1.11  - Metodologia de Trabalho de Projetos
+
+- Artigo - Metodologia de Projeto 2  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Artigo - Metodologia de Projeto 2.pdf)
+- Artigo - MTP Nova relação entre os saberes escolares e os saberes sociais  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Artigo - MTP Nova relação entre os saberes escolares e os saberes sociais.pdf)
+- Dissertação - O Trabalho de Projeto e aprendizagens em Educação Pré- Escolar  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Dissertação - O Trabalho de Projeto e aprendizagens em Educação Pré- Escolar.pdf)
+- Dissertação - Potencialidades da Metodologia de Trabalho de Projeto com crianças dos 4   [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Dissertação - Potencialidades da Metodologia de Trabalho de Projeto com crianças dos 4 .pdf)
+- ECOHABITARE - MODELO PROJETO DE APRENDIZAGEM    [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/ECOHABITARE - MODELO PROJETO DE APRENDIZAGEM .pdf)
+- Modelo - Projeto de Aprendizagem - Projeto Âncora  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Modelo - Projeto de Aprendizagem - Projeto Âncora.pdf)
+- Publicação - A Metodologia de Trabalho de Projeto  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Publicação - A Metodologia de Trabalho de Projeto.pdf)
+- Publicação - Metodologia do Trabalho de Projecto  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Publicação - Metodologia do Trabalho de Projecto.pdf)
+
+
+
+
 
 ---
 [home](https://itxesco.github.io)
