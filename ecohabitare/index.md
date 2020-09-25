@@ -123,7 +123,35 @@ title: Formação em Comunidades de Aprendizagem
 - Publicação - Metodologia do Trabalho de Projecto  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Publicação - Metodologia do Trabalho de Projecto.pdf)
 
 
+#### 1.12  - Tutoria
 
+- Artigo - Tutoria na Educação - ISEP  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.12 Tutoria/Artigo - Tutoria na Educação - ISEP.pdf)
+- ECOHABITARE - Tutoria - Material de apoio  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.12 Tutoria/ECOHABITARE - Tutoria - Material de apoio.pdf)
+
+#### 1.13  - Avaliação
+
+
+#### 1.14  - Afabetização sócio-emocional
+
+- 10-Pilares-da-Auto-organização  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.14 Afabetização sócio-emocional/10-Pilares-da-Auto-organização.pdf)
+- Livro - CNV Marshall Rosenberg [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.14 Afabetização sócio-emocional/Livro - CNV Marshall Rosenberg.pdf)
+- Livro - SOCIOCRACIA Manual da Casa Latina [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.14 Afabetização sócio-emocional/Livro - SOCIOCRACIA Manual da Casa Latina.pdf)
+- Não_Violencia_e_Mediação de Conflitos [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.14 Afabetização sócio-emocional/Não_Violencia_e_Mediação de Conflitos.pdf)
+- Painel - SOCIOCRACIA [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.14 Afabetização sócio-emocional/Painel - SOCIOCRACIA.pdf)
+
+#### 1.15  - Afabetização Linguística
+
+
+#### 1.16  - Afabetização Lógico-Matemática
+
+
+#### 1.17  - Educação de Infância
+
+
+#### 1.18  - Ensino Médio
+
+- Analise_BNCC_Ensino_medio [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.18 Ensino Médio/Analise_BNCC_Ensino_medio.pdf)
+- Publicação - Currículo do Ensino Médio - UNESCO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.18 Ensino Médio/Publicação - Currículo do Ensino Médio - UNESCO.pdf)
 
 
 ---
