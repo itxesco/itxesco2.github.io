@@ -43,8 +43,8 @@ title: Formação em Comunidades de Aprendizagem
 - ECOHABITARE - PERFIL DO EDUCADOR [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/ECOHABITARE - PREFIL DO EDUCADOR.pdf)
 - ECOHABITARE - TERMO DE COMPROMISSO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/ECOHABITARE - TERMO DE COMPROMISSO.pdf)
 - Poder e Cultura Circular_TaisaMattos [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Poder e Cultura Circular_TaisaMattos.pps)
-- Relacoes Interpessoais 1 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Relacoes Interpessoais 1.ppt)
-- Relacoes Interpessoais 2 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Relacoes Interpessoais 2.ppt)
+- Relacoes Interpessoais 1 [ ![ppt](/pages/icons16/ppt-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Relacoes Interpessoais 1.ppt)
+- Relacoes Interpessoais 2 [ ![ppt](/pages/icons16/ppt-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Relacoes Interpessoais 2.ppt)
 
 #### 1.4  - Marco Regulatório
 
@@ -108,8 +108,8 @@ title: Formação em Comunidades de Aprendizagem
 
 - Procedimentos_de_Pesquisa [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Procedimentos_de_Pesquisa.pdf)
 - ECOHABITARE - MAPA DE DIPOSITIVOS  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/ECOHABITARE - MAPA DE DIPOSITIVOS.pdf)
-- Dispositivos da Ponte  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Dispositivos da Ponte.ppt)
-- Modelo - Roteiro de Estudos  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Modelo - Roteiro de Estudos.xls)
+- Dispositivos da Ponte  [ ![ppt](/pages/icons16/ppt-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Dispositivos da Ponte.ppt)
+- Modelo - Roteiro de Estudos  [ ![xls](/pages/icons16/Excel-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Modelo - Roteiro de Estudos.xls)
 
 
 ---
