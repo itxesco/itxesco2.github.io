@@ -29,6 +29,24 @@ Material de Apoio - Formação
 - Revista Educação em Valores Humanos [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.1 Matrix Axiologica/Revista Educação em Valores Humanos.pdf)
 
 
+1.2 - Carta de Princípios  
+
+- Carta de princicípios da Rede Comunidades de Aprendizagem [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Carta de Princípios/Carta de princicípios da Rede Comunidades de Aprendizagem.pdf)
+- Carta de Princípios do Núcleo São Paulo [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Carta de Princípios/Carta de Princípios do Núcleo São Paulo.pdf)
+- ECOHABITARE - CARTA DE PRINCÍPIOS [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Carta de Princípios/ECOHABITARE - CARTA DE PRINCÍPIOS.pdf)
+- Princípios como instrumento para democratizar a educação [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Carta de Princípios/Princípios como instrumento para democratizar a educação.pdf)  
+
+1.3 - Acordos de Convivência  
+
+- Artigo - Liderança Transformacional [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Artigo - Liderança Transformacional.pdf)  
+- ECOHABITARE - PERFIL DO EDUCADOR [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/ECOHABITARE - PREFIL DO EDUCADOR.pdf)
+- ECOHABITARE - TERMO DE COMPROMISSO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/ECOHABITARE - TERMO DE COMPROMISSO.pdf)
+- Poder e Cultura Circular_TaisaMattos [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Poder e Cultura Circular_TaisaMattos.pps)
+- Relacoes Interpessoais 1 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Relacoes Interpessoais 1.ppt)
+- Relacoes Interpessoais 2 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Relacoes Interpessoais 2.ppt)
+
+
+
 #####  06/02		Fim do Quadrimestre letivo 2020.2
 
 ---
