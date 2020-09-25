@@ -45,9 +45,9 @@ Material de Apoio - Formação
 - Relacoes Interpessoais 1 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Relacoes Interpessoais 1.ppt)
 - Relacoes Interpessoais 2 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.2 Acordos de Convivência/Relacoes Interpessoais 2.ppt)
 
+1.4  - Marco Regulatório
 
 
-#####  06/02		Fim do Quadrimestre letivo 2020.2
 
 ---
-[home](index.html)
+[home](https://itxesco.github.io)
