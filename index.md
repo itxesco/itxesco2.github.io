@@ -2,7 +2,7 @@
 layout: frontpage
 title: Prof. Dr. Francisco Nascimento
 description: Francisco de Assis Nascimento Junior,  professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia em Porto Seguro (BA), atuo na formação de professores; pesquisa as relações de identidade de gênero/étnico-raciais com a Ciência através de Histórias em Quadrinhos de Super-Heróis.
-keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ciências, histórias em quadrinhos, super-heróis, relações étnico-raciais,  comunidade  aprendizagem,
+keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ciências, histórias em quadrinhos, super-heróis, relações étnico-raciais,  comunidade de aprendizagem,
 ---
 
 
