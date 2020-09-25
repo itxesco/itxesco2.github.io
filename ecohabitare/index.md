@@ -97,5 +97,20 @@ title: Formação em Comunidades de Aprendizagem
 #### 1.8  - Ambientes de Aprendizagem
 
 
+
+#### 1.9  - Ambientes de Aprendizagem
+
+- ECOHABITARE  - OBJETIVOS DE APRENDIZAGEM  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.9 Objetivos de Aprendizagem/ECOHABITARE  - OBJETIVOS DE APRENDIZAGEM .pdf)
+- ECOHABITARE - DIMENSÕES CURRICULARES [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.9 Objetivos de Aprendizagem/ECOHABITARE - DIMENSÕES CURRICULARES.pdf)
+- Publicação - Habilidades Cognitivas [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.9 Objetivos de Aprendizagem/Publicação - Habilidades Cognitivas.pdf)
+
+#### 1.10  - Dispositivos Pedagógicos
+
+- Procedimentos_de_Pesquisa [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Procedimentos_de_Pesquisa.pdf)
+- ECOHABITARE - MAPA DE DIPOSITIVOS  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/ECOHABITARE - MAPA DE DIPOSITIVOS.pdf)
+- Dispositivos da Ponte  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Dispositivos da Ponte.ppt)
+- Modelo - Roteiro de Estudos  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Modelo - Roteiro de Estudos.xls)
+
+
 ---
 [home](https://itxesco.github.io)
