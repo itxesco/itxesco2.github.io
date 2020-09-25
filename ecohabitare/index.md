@@ -153,6 +153,42 @@ title: Formação em Comunidades de Aprendizagem
 - Analise_BNCC_Ensino_medio [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.18 Ensino Médio/Analise_BNCC_Ensino_medio.pdf)
 - Publicação - Currículo do Ensino Médio - UNESCO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.18 Ensino Médio/Publicação - Currículo do Ensino Médio - UNESCO.pdf)
 
+#### 1.19  - Transição da Prática Educativa
+
+- Publicação - Educação um tesouro a descobrir - UNESCO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.19 Transição da Prática Educativa/Publicação - Educação um tesouro a descobrir - UNESCO.pdf)
+- Publicação - Horizon 2020 Jesuitas [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.19 Transição da Prática Educativa/Publicação - Horizon 2020 Jesuitas.pdf)
+
+
+#### 1.20  - Modalidades de formação
+
+- ECOHABITARE - LINHA DO TEMPO DA TRANSFORMÇÃO DA EDUCAÇÃO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.20 Modalidades de formação/ECOHABITARE - LINHA DO TEMPO DA TRANSFORMÇÃO DA EDUCAÇÃO.pdf)
+
+#### 1.21  - Projetos Inovadores
+
+- Livro - A Escola da Ponte - Rui Canário [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.21 Projetos Inovadores/Livro - A Escola da Ponte - Rui Canário.pdf)
+- Livro - Projeto Âncora - JosiTeotonia [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.21 Projetos Inovadores/Livro - Projeto Âncora - JosiTeotonia.pdf)
+- Relatório - Avaliação Escola da Ponte [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.21 Projetos Inovadores/Relatório - Avaliação Escola da Ponte.pdf)
+
+#### 2.0  - Dimensão Social
+
+#### 2.1  - Dimensão Ecológica
+
+#### 2.2  - Dimensão Econômica
+
+
+#### 2.3  - Dimensão Visão de mundo
+
+
+#### 2.4  - ODS Objetivos do Desenvolvimento Sustentável
+
+#### 3.0  - Miscelânea
+
+#### 4.0  - Material de Apoio Ecohabitare textos selecionados
+
+
+#### 5.0  - Autores
+
+
 
 ---
 [home](https://itxesco.github.io)
