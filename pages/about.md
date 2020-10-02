@@ -27,7 +27,7 @@ Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Hum
 [instagram](https://www.instagram.com/itxesco) <br/>
 [twitter](https://twitter.com/itxesco)  
 [goodreads](https://www.goodreads.com/user/show/51497119-francisco-nascimento)  
-
+cisgênero
 he/him
 
 ---
