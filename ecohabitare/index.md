@@ -141,19 +141,59 @@ title: Formação em Comunidades de Aprendizagem
 
 #### 1.15  - Afabetização Linguística
 
-- ECOHABITARE - AVALIAÇÃO DE PROJETOS EDUCATIVOS E PLANOS [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/ECOHABITARE - AVALIAÇÃO DE PROJETOS EDUCATIVOS E PLANOS.pdf)  
+- Artigo - Alfabetização e letramento [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - Alfabetização e letramento.pdf)  
 
-- ECOHABITARE - MODELO DE PP-P [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/ECOHABITARE - MODELO DE PP-P.pdf)  
+- Artigo - COMPREENSÃO DE TEXTOS [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - COMPREENSÃO DE TEXTOS.pdf)   
 
-- ECOHABITARE - PROTOCOLO DE ANÁLISE DO PP-P E DO REGIMENTO INTERNO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/ECOHABITARE - PROTOCOLO DE ANÁLISE DO PP-P E DO REGIMENTO INTERNO.pdf)  
+- Artigo - Leitura em livros didáticos [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - Leitura em livros didáticos.pdf)   
 
-- Passo-a-passo-para-criar-o-projeto-politico-pedagogico [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/Passo-a-passo-para-criar-o-projeto-politico-pedagogico.pdf)  
+- Artigo - Ler e escrever na Educação Infantil [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - Ler e escrever na Educação Infantil.pdf)  
 
-- Referência de PROJETO EDUCATIVO ou POLÍCO-PEDAGÓGICO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/Referência de PROJETO EDUCATIVO ou POLÍCO-PEDAGÓGICO.pdf)  
+- Artigo - Para escrever é preciso pensar [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - Para escrever é preciso pensar.pdf)  
 
-- Referência_de_REGIMENTO_Brasil_ou_REGU,LAMENTO_INTERNO_Portugal [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/Referência_de_REGIMENTO_Brasil_ou_REGU,LAMENTO_INTERNO_Portugal.pdf)  
+- Publicação - Leitura e produção de texto na alfabetização [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Leitura e produção de texto na alfabetização.pdf)  
 
+- Publicação - Leitura_Paises_OCDE [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Leitura_Paises_OCDE.pdf)  
 
+- Publicação - Livro do aluno 1 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Livro do aluno 1.pdf)  
+
+- Publicação - Livro do aluno 2 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Livro do aluno 2.pdf)  
+
+- Publicação - Livro do aluno 3 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Livro do aluno 3.pdf)  
+
+- Publicação - Livro do professor  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Livro do professor .pdf)  
+
+- Publicação - Producao de texto na escola  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Producao de texto na escola.pdf)
+
+- Publicação - Producao_Guia_Didatico  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Producao_Guia_Didatico.pdf)
+
+- Artigo - Alfabetização e letramento  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - Alfabetização e letramento.pdf)
+
+- Artigo - CONSCIÊNCIA FONOLÓGICA  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - CONSCIÊNCIA FONOLÓGICA.pdf)
+
+- Artigo - FREIRE E VYGOTSKY  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - FREIRE E VYGOTSKY.pdf)
+
+- Artigo - MÉTODO SOCIOLINGÜÍSTICO DE ALFABETIZAÇÃO  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - MÉTODO SOCIOLINGÜÍSTICO DE ALFABETIZAÇÃO.pdf)
+
+- Artigo - Velhos métodos  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - Velhos métodos.pdf)
+
+- Publicação - Alfabetizacao_Democratica_2007  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Alfabetizacao_Democratica_2007.pdf)
+
+- Publicação - Brincar para todos  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Brincar para todos.pdf)
+
+- Publicação - ENSINO-DA-LÍNGUA  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - ENSINO-DA-LÍNGUA.pdf)
+
+- Publicação - Leitura e produção de texto na alfabetização  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Leitura e produção de texto na alfabetização.pdf)
+
+- Publicação - Leitura_Paises_OCDE  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Leitura_Paises_OCDE.pdf)
+
+- Publicação - Livro do aluno 1  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Livro do aluno 1.pdf)
+
+- Artigo - Alfabetização e letramentoPublicação - Livro do aluno 2  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Livro do aluno 2.pdf)
+
+- Publicação - Livro do aluno 3  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Livro do aluno 3.pdf)
+
+- Publicação - Livro do professor   [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Livro do professor .pdf)
 
 
 #### 1.16  - Afabetização Lógico-Matemática
