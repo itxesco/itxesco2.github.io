@@ -251,7 +251,7 @@ title: Formação em Comunidades de Aprendizagem
   - TCC - O MODELO PEDAGÓGICO DE MARIA MONTESSORI [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/TCC - O MODELO PEDAGÓGICO DE MARIA MONTESSORI.pdf)
 
   - Tese_ALFABETIZAÇÃO MATEMÁTICA [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Tese_ALFABETIZAÇÃO MATEMÁTICA.pdf)  
-  
+
 
 #### 1.17  - Educação de Infância
 
@@ -295,6 +295,56 @@ title: Formação em Comunidades de Aprendizagem
 
 
 #### 5.0  - Autores
+
+##### Anísio Teixeira
+
+
+##### Bert Hellinger
+
+
+##### Bordieu
+
+
+##### Célestin Freinet
+
+
+##### Edgard Morin
+
+
+##### Florestan Fernandes
+
+
+##### Hanna Harendt
+
+
+##### Humberto Maturana
+
+
+##### Ivan Ilitch
+
+
+##### Jean Piaget
+
+
+##### José Pacheco
+
+
+##### Krishnamurt
+
+
+##### Maria Montessori
+
+
+##### Moacir Gadotti
+
+
+##### Paulo Freire
+
+
+##### Pedro Demo
+
+
+##### Perrenoud
 
 
 
