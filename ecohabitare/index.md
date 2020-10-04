@@ -141,6 +141,20 @@ title: Formação em Comunidades de Aprendizagem
 
 #### 1.15  - Afabetização Linguística
 
+- ECOHABITARE - AVALIAÇÃO DE PROJETOS EDUCATIVOS E PLANOS [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/ECOHABITARE - AVALIAÇÃO DE PROJETOS EDUCATIVOS E PLANOS.pdf)  
+
+- ECOHABITARE - MODELO DE PP-P [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/ECOHABITARE - MODELO DE PP-P.pdf)  
+
+- ECOHABITARE - PROTOCOLO DE ANÁLISE DO PP-P E DO REGIMENTO INTERNO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/ECOHABITARE - PROTOCOLO DE ANÁLISE DO PP-P E DO REGIMENTO INTERNO.pdf)  
+
+- Passo-a-passo-para-criar-o-projeto-politico-pedagogico [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/Passo-a-passo-para-criar-o-projeto-politico-pedagogico.pdf)  
+
+- Referência de PROJETO EDUCATIVO ou POLÍCO-PEDAGÓGICO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/Referência de PROJETO EDUCATIVO ou POLÍCO-PEDAGÓGICO.pdf)  
+
+- Referência_de_REGIMENTO_Brasil_ou_REGU,LAMENTO_INTERNO_Portugal [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.5 Projeto Político Pedagógico/Referência_de_REGIMENTO_Brasil_ou_REGU,LAMENTO_INTERNO_Portugal.pdf)  
+
+
+
 
 #### 1.16  - Afabetização Lógico-Matemática
 
