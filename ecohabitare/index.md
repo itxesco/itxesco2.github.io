@@ -200,8 +200,116 @@ title: Formação em Comunidades de Aprendizagem
 
 #### 1.15  - Afabetização Linguística
 
+- Artigo - Alfabetização e letramento [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - Alfabetização e letramento.pdf)  
+
+- Artigo - COMPREENSÃO DE TEXTOS [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - COMPREENSÃO DE TEXTOS.pdf)   
+
+- Artigo - Leitura em livros didáticos [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - Leitura em livros didáticos.pdf)   
+
+- Artigo - Ler e escrever na Educação Infantil [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - Ler e escrever na Educação Infantil.pdf)  
+
+- Artigo - Para escrever é preciso pensar [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Artigo - Para escrever é preciso pensar.pdf)  
+
+- Publicação - Leitura e produção de texto na alfabetização [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Leitura e produção de texto na alfabetização.pdf)  
+
+- Publicação - Leitura_Paises_OCDE [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Leitura_Paises_OCDE.pdf)  
+
+- Publicação - Livro do aluno 1 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Livro do aluno 1.pdf)  
+
+- Publicação - Livro do aluno 2 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Livro do aluno 2.pdf)  
+
+- Publicação - Livro do aluno 3 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Livro do aluno 3.pdf)  
+
+- Publicação - Livro do professor  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Livro do professor .pdf)  
+
+- Publicação - Producao de texto na escola  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Producao de texto na escola.pdf)
+
+- Publicação - Producao_Guia_Didatico  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/Publicação - Producao_Guia_Didatico.pdf)
+
+- Artigo - Alfabetização e letramento  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - Alfabetização e letramento.pdf)
+
+- Artigo - CONSCIÊNCIA FONOLÓGICA  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - CONSCIÊNCIA FONOLÓGICA.pdf)
+
+- Artigo - FREIRE E VYGOTSKY  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - FREIRE E VYGOTSKY.pdf)
+
+- Artigo - MÉTODO SOCIOLINGÜÍSTICO DE ALFABETIZAÇÃO  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - MÉTODO SOCIOLINGÜÍSTICO DE ALFABETIZAÇÃO.pdf)
+
+- Artigo - Velhos métodos  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Artigo - Velhos métodos.pdf)
+
+- Publicação - Alfabetizacao_Democratica_2007  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Alfabetizacao_Democratica_2007.pdf)
+
+- Publicação - Brincar para todos  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Brincar para todos.pdf)
+
+- Publicação - ENSINO-DA-LÍNGUA  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - ENSINO-DA-LÍNGUA.pdf)
+
+- Publicação - Leitura e produção de texto na alfabetização  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Leitura e produção de texto na alfabetização.pdf)
+
+- Publicação - Leitura_Paises_OCDE  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Leitura_Paises_OCDE.pdf)
+
+- Publicação - Livro do aluno 1  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Livro do aluno 1.pdf)
+
+- Artigo - Alfabetização e letramentoPublicação - Livro do aluno 2  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Livro do aluno 2.pdf)
+
+- Publicação - Livro do aluno 3  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Livro do aluno 3.pdf)
+
+- Publicação - Livro do professor   [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.15 Alfabetização Linguistica/undefined/Publicação - Livro do professor .pdf)
+
 
 #### 1.16  - Afabetização Lógico-Matemática
+
+- Artigo -  MARIA MONTESSORI E SUA CONTRIBUIÇÃO PARA O ENSINO-APRENDIZAGEM DE MATEMÁTICA [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo -  MARIA MONTESSORI E SUA CONTRIBUIÇÃO PARA O ENSINO-APRENDIZAGEM DE MATEMÁTICA.pdf)  
+
+- Artigo - ALFABETIZAÇÃO E LETRAMENTO MATEMÁTICO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo - ALFABETIZAÇÃO E LETRAMENTO MATEMÁTICO.pdf)  
+
+- Artigo - ALFABETIZAÇÃO MATEMÁTICA NAS SÉRIES INICIAIS [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo - ALFABETIZAÇÃO MATEMÁTICA NAS SÉRIES INICIAIS.pdf)  
+
+- Artigo - ENSINO DOS SABERES MATEMÁTICOS [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo - ENSINO DOS SABERES MATEMÁTICOS.pdf)  
+
+- Artigo - Letramento Matemático [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo - Letramento Matemático.pdf)  
+
+- Artigo - Materialização de saberes [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo - Materialização de saberes.pdf)  
+
+- Artigo - MÉTODO MONTESSORIANO AO PROCESSO DE ENSINO-APRENDIZAGEM NA EDUCAÇÃO INFANTIL [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo - MÉTODO MONTESSORIANO AO PROCESSO DE ENSINO-APRENDIZAGEM NA EDUCAÇÃO INFANTIL.pdf)  
+
+- Artigo - O CONCEITO DE LETRAMENTO MATEMÁTICO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo - O CONCEITO DE LETRAMENTO MATEMÁTICO.pdf)  
+
+- Artigo-Desenvolvendo [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-Desenvolvendo.pdf)  
+
+- Artigo-Materiais estruturdo e aprendizagem significativa em Matemática [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-Materiais estruturdo e aprendizagem significativa em Matemática.pdf)  
+
+- Artigo-Revisitin the use of manipulatives [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-Revisitin the use of manipulatives.pdf)  
+
+- Artigo-Sentido de Numero [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-Sentido de Numero.pdf)  
+
+- Artigo-TeachingandlearningmathematicsinprimaryschoolthroughScratch [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-TeachingandlearningmathematicsinprimaryschoolthroughScratch.pdf)  
+
+- Artigo-The Top 5 Reasons for Using Manipulatives in the Classroom [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-The Top 5 Reasons for Using Manipulatives in the Classroom.pdf)  
+
+- Artigo-The Types of Portfolios [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-The Types of Portfolios.pdf)  
+
+- Artigo-The Use of Manipulatives in Mathematics Education [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-The Use of Manipulatives in Mathematics Education.pdf)  
+
+- Artigo-TheUseofManipulativesinMathematicsEducation [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-TheUseofManipulativesinMathematicsEducation.pdf)  
+
+- Artigo-Using Manipulatives in the Classroom - Learning Through Inquiry Makerspaces, Manipulatives, and Boardgames - LibGuides at Campbell University [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-Using Manipulatives in the Classroom - Learning Through Inquiry Makerspaces, Manipulatives, and Boardgames - LibGuides at Campbell University.pdf)  
+
+- Artigo-What Makes Mathematics Manipulatives Effective  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Artigo-What Makes Mathematics Manipulatives Effective.pdf)  
+
+- Dissertação-Brincar com a Matemática no PE [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Dissertação-Brincar com a Matemática no PE.pdf)  
+
+- Dissertação-Os materiais manipuláveis e a geometria [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Dissertação-Os materiais manipuláveis e a geometria.pdf)  
+
+- Guia de atividades PE [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Guia de atividades PE.pdf)  
+
+- Relatório-Frações e materiais manipuláveis [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Relatório-Frações e materiais manipuláveis.pdf)
+
+ - Relatório-Materiais manipuláveis estruturados no PE-1C [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Relatório-Materiais manipuláveis estruturados no PE-1C.pdf)  
+
+ - TCC - CONTRIBUIÇÕES DE MARIA MONTESSORI  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/TCC - CONTRIBUIÇÕES DE MARIA MONTESSORI .pdf)  
+
+  - TCC - O MODELO PEDAGÓGICO DE MARIA MONTESSORI [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/TCC - O MODELO PEDAGÓGICO DE MARIA MONTESSORI.pdf)
+
+  - Tese_ALFABETIZAÇÃO MATEMÁTICA [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.16 Alfabetização Lógico-Matemática/undefined/Tese_ALFABETIZAÇÃO MATEMÁTICA.pdf)  
 
 
 #### 1.17  - Educação de Infância
@@ -246,6 +354,56 @@ title: Formação em Comunidades de Aprendizagem
 
 
 #### 5.0  - Autores
+
+##### Anísio Teixeira
+
+
+##### Bert Hellinger
+
+
+##### Bordieu
+
+
+##### Célestin Freinet
+
+
+##### Edgard Morin
+
+
+##### Florestan Fernandes
+
+
+##### Hanna Harendt
+
+
+##### Humberto Maturana
+
+
+##### Ivan Ilitch
+
+
+##### Jean Piaget
+
+
+##### José Pacheco
+
+
+##### Krishnamurt
+
+
+##### Maria Montessori
+
+
+##### Moacir Gadotti
+
+
+##### Paulo Freire
+
+
+##### Pedro Demo
+
+
+##### Perrenoud
 
 
 
