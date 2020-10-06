@@ -336,15 +336,15 @@ title: Formação em Comunidades de Aprendizagem
 
 - Relatório - Avaliação Escola da Ponte [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.13 Avaliação/Relatório - Avaliação Escola da Ponte.pdf)
 
-- Registro Avaliacao Formativa Ciencias [ ![docx](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Ciencias.docx)
+- Registro Avaliacao Formativa Ciencias [ ![docx](/pages/icons16/docx-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Ciencias.docx)
 
-- Registro Avaliacao Formativa Geografia [ ![docx](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Geografia.docx)
+- Registro Avaliacao Formativa Geografia [ ![docx](/pages/icons16/docx-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Geografia.docx)
 
-- Registro Avaliacao Formativa História [ ![docx](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Historia.docx)
+- Registro Avaliacao Formativa História [ ![docx](/pages/icons16/docx-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Historia.docx)
 
-- Registro Avaliacao Formativa Matemática [ ![docx](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Matematica.docx)
+- Registro Avaliacao Formativa Matemática [ ![docx](/pages/icons16/docx-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Matematica.docx)
 
-- Registro Avaliacao Formativa Português [ ![docx](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Portugues.docx)
+- Registro Avaliacao Formativa Português [ ![docx](/pages/icons16/docx-icon.png)](/ecohabitare/Material/1.13 Avaliação/RegistroAvaliacaoFormativa_Portugues.docx)
 
 
 #### 1.14  - Afabetização sócio-emocional
