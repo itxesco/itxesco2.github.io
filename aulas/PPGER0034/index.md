@@ -4,8 +4,7 @@ title: PPGER0034 - EDUCAÇÃO CIENTÍFICA, CULTURA E SOCIEDADE: IMPLICAÇÕES PA
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
 
-Este curso dá prosseguimento as experiências de ensino/aprendizagem iniciadas no [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0204/index.html).
-Os discentes  voltarão sua atenção para ações de Ensino Investigativo, o que significa desconstruir a visão de ensino/aprendizagem como um relógio, aquele mecanismo que só funciona a partir de determinadas engrenagens fixas e permanentes.
+Esta componente mobiliza de forma interdisciplinar diversas áreas do conhecimento em torno do diálogo entre a questão étnico-racial e o conhecimento científico. Com o objetivo de proporcionar aos estudantes uma formação crítico-analítica, promove um debate acerca das diversas representações dialógicas presentes na mídia de massa destinada ao público jovem (cinema, séries televisivas, animações e histórias em quadrinhos), notadamente aquelas relacionadas à cultura de super-heróis. Seu propósito é discutir os principais elementos desta cultura, sob a ótica das relações étnico-raciais, através de uma análise semiótico-discursiva da indústria cultural, focando na  influência que exerce na formação da identidade do sujeito através das representações dialógicas raça/Ciência presente em seus produtos, cuja consequência para as práticas de ensino/aprendizagem de Ciências e Humanidades é  um ponto de estudo fundamental na formação de educadores.
 
 
 **Professor:** [Dr. Francisco Nascimento](https://itxesco.github.io/pages/about.html)
@@ -17,17 +16,16 @@ Os discentes  voltarão sua atenção para ações de Ensino Investigativo, o qu
 
     <div class="row-fluid">
         <div class="span5">
-          <p>  presencialmente,  quintas-feiras 14:00-17:00, sala 11 no CIEPS (devido a pandemia COVID-19, serão substituídas por encontros síncronos. O link será disponibilizado na área da componente no sigaA e também pelo Discord.</p>
+          <p>  presencialmente,  quintas-feiras 14:00-17:00, sala Trancoso na ala central (devido a pandemia COVID-19, serão substituídas por encontros síncronos. O link será disponibilizado na área da componente no sigaA e também pelo Telegram.</p>
             <br>
 <p> <b>atendimento</b>
-deve ser agendado pelo servidor da Componente no Discord e irão ocorrer nas terças-feiras 13:30-16:30 </p>
+deve ser agendado pelo canal da Componente no Telegram e irá ocorrer nas quartas-feiras das 14:30-17:30, de modo remoto </p>
 <br/>
 
 Outros links de interesse para esta Componente Curricular:  <br/>
 
   <a href="agenda.html">agenda do quadrimestre</a><br/>
   <a href="programa.html">programa</a><br/>
-  <a href="roteiros.html">roteiros de estudo e investigação</a><br/>
 </div>
             <div class="span2">
                      <a href="https://youtu.be/5qap5aO4i9A" target="_blank">
