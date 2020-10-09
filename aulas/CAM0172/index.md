@@ -17,7 +17,7 @@ Apresentação dos campos das Ciências aqui consideradas: Ciências exatas e da
 
     <div class="row-fluid">
         <div class="span5">
-          <p>  presencialmente,  sextas-feiras 18:30-22:30, sala 11 no CIEPS (devido a pandemia COVID-19, serão substituídas por encontros síncronos. O link será disponibilizado na área da componente no sigaA e também pelo Discord.</p>
+          <p>  presencialmente,  sextas-feiras 18:30-22:30, sala 11 no CIEPS (devido a pandemia COVID-19, serão substituídas por encontros síncronos realizados pelo Discord. O link para o servidor está disponibilizado na área da componente no sigaA e também será encaminhado via e-mail.</p>
             <br>
 <p> <b>atendimento</b>
 deve ser agendado pelo servidor da Componente no Discord e irão ocorrer nas sextas-feiras 13:30-16:30 </p>
