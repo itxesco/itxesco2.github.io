@@ -535,7 +535,6 @@ title: Formação em Comunidades de Aprendizagem
 - Publicação - Território_do_Brincar_-_Diálogo_com_Escolas-Livro [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.17 Educação de Infância/Publicação - Território_do_Brincar_-_Diálogo_com_Escolas-Livro.pdf)
 
 
-
 #### 1.18  - Ensino Médio
 
 - Analise_BNCC_Ensino_medio [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.18 Ensino Médio/Analise_BNCC_Ensino_medio.pdf)  
@@ -544,7 +543,8 @@ title: Formação em Comunidades de Aprendizagem
 
 #### 1.19  - Transição da Prática Educativa
 
-- Publicação - Educação um tesouro a descobrir - UNESCO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.19 Transição da Prática Educativa/Publicação - Educação um tesouro a descobrir - UNESCO.pdf)
+- Publicação - Educação um tesouro a descobrir - UNESCO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.19 Transição da Prática Educativa/Publicação - Educação um tesouro a descobrir - UNESCO.pdf)  
+
 - Publicação - Horizon 2020 Jesuitas [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.19 Transição da Prática Educativa/Publicação - Horizon 2020 Jesuitas.pdf)
 
 
@@ -569,6 +569,15 @@ title: Formação em Comunidades de Aprendizagem
 
 #### 2.3  - Dimensão Visão de mundo
 
+- Artigo - Captacao empoderada de recursos [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/2.3 Dimensão Econômica/Artigo - Captacao empoderada de recursos.pdf)
+
+- Artigo - OS QuADROS JURIDICOS DA ECONOMIA SOCIAL [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/2.3 Dimensão Econômica/Artigo - OS QuADROS JURIDICOS DA ECONOMIA SOCIAL.pdf)
+
+- Publicação - Guia crowdfunding [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/2.3 Dimensão Econômica/Publicação - Guia crowdfunding.pdf)
+
+- Publicação - KeysECONOMICA Spanish - Gaia Education [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/2.3 Dimensão Econômica/Publicação - KeysECONOMICA Spanish - Gaia Education.pdf)
+
+- Tese - PRÁTICAS E DEFINIÇÕES SEGUNDO O MARCO DA ECONOMIA SOLIDÁRIA [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/2.3 Dimensão Econômica/Tese - PRÁTICAS E DEFINIÇÕES SEGUNDO O MARCO DA ECONOMIA SOLIDÁRIA.pdf)
 
 #### 2.4  - ODS Objetivos do Desenvolvimento Sustentável
 
