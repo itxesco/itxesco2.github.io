@@ -6,6 +6,7 @@ title: ISC0180 - Estágio Supervisionado I
 ---
 ### Agenda do quadrimestre letivo 2020.2  
 
+
 Encontro | Data  | Tópico
 :---: | :--- |---
 1|13/10	| SREEPI UFSB  
