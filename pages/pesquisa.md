@@ -4,9 +4,10 @@ title: Interesses de Pesquisa
 description: Prof. Dr. Francisco Nascimento - pesquisa em ensino de ciências e educação
 ---
 
+Meu interesse se concentra nas relações de ensino/aprendizagem de Ciências  e a identidade do sujeito, intermediadas pela cultura de super-heróis e elementos próximos da massa dirigida ao público jovem, a " cultura PoP".
+Trata-se de uma linha de pesquisa recente, principalmente para a área de Ensino de Ciências. As Histórias em Quadrinhos surgiram como mídia de entretenimento descompromissado, mas fortemente conectado ao contexto cultural e econômico da sociedade em que são produzidas. No decorrer da primeira metade do século XX, suas  seus personagens evoluíram para convergir entre as muitas mídias de entretenimento que a tecnologia tornou disponíveis, as quais passaram a transmiti-los como um produto acompanhado por um discurso carregado de ideologias e valores sociais.
 
----
-Atuo nas seguintes linhas:
+ somente então que comecei a produzir alguma coisa que possa ser considerada significativa, ainda que modesta. nas seguintes linhas:
 
 #### I. Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem
 
