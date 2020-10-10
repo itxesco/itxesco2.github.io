@@ -5,9 +5,8 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em ensino de ciências e 
 ---
 
 Meu interesse se concentra nas relações de ensino/aprendizagem de Ciências  e a identidade do sujeito, intermediadas pela cultura de super-heróis e elementos próximos da massa dirigida ao público jovem, a " cultura PoP".
-Trata-se de uma linha de pesquisa recente, principalmente para a área de Ensino de Ciências. As Histórias em Quadrinhos surgiram como mídia de entretenimento descompromissado, mas fortemente conectado ao contexto cultural e econômico da sociedade em que são produzidas. No decorrer da primeira metade do século XX, suas  seus personagens evoluíram para convergir entre as muitas mídias de entretenimento que a tecnologia tornou disponíveis, as quais passaram a transmiti-los como um produto acompanhado por um discurso carregado de ideologias e valores sociais.
+Trata-se de uma linha de pesquisa recente, principalmente para a área de Ensino de Ciências. As Histórias em Quadrinhos surgiram  nas páginas dos jornais de domingo no formato de tirinhas, uma leitura de entretenimento descompromissado, embora fortemente conectado ao contexto cultural e econômico da sociedade em que eram produzidas. No decorrer da primeira metade do século XX, recebeu a ficção científica (que migrava das revistas _pulp_ ) e evoluiu para o formato de revistas dando origem aos _comic books_ , onde deu origem aos super-heróis. Estes personagens evoluíram,  convergindo entre as muitas plataformas de comunicação que a tecnologia ia tornando disponíveis, como o rádio, o cinema, a tv e a internet. A cada novo meio, a transmissãos dos produtos culturais baseados em super-heróis passava a ser realizada, cativando novas audiências que passam a consumir um mesmo discurso carregado de ideologias e valores sociais, baseados na visão da indústria de sua produção: qual o impacto desses discursos na formação da identidade do consumidor e no que isso afeta sua relação com o aprender/fazer Ciências?
 
- somente então que comecei a produzir alguma coisa que possa ser considerada significativa, ainda que modesta. nas seguintes linhas:
 
 #### I. Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem
 
@@ -17,11 +16,13 @@ Trata-se de uma linha de pesquisa recente, principalmente para a área de Ensino
 
 **Principais Tópicos de Interesse**
 
-##### [Histórias em Quadrinhos](https://itxesco.github.io/pages/hq.html)
+##### [Histórias em Quadrinhos de Super-Heróis](https://itxesco.github.io/pages/hq.html)
 
-##### [RPG e Educação](https://itxesco.github.io/pages/rpg.html)
+##### [Jogos RPG e Educação](https://itxesco.github.io/pages/rpg.html)
 
-##### [Relações de Gênero](itxesco.github.io/pages/genero.html) e [étnico-raciais](itxesco.github.io/pages/etnicoraciais.html)
+##### [Relações de Gênero](itxesco.github.io/pages/genero.html) e [étnico-raciais](itxesco.github.io/pages/etnicoraciais.html) na educação em Ciências
+
+##### [Afrofuturismo](itxesco.github.io/pages/afrofuturismo.html)
 
 ---
 #### [Orientações](https://itxesco.github.io/pages/alunos.html)
