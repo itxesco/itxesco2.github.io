@@ -24,26 +24,26 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 - [agenda](https://itxesco.github.io/aulas/ISC0180/agenda.html)
 - [programa](https://itxesco.github.io/aulas/ISC0180/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0180/roteiros.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0180/teste.html)
 
 ##### ISC0332 - [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC0332/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0332/agenda.html)
 - [programa](https://itxesco.github.io/aulas/ISC0332/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0332/roteiros.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0332/teste.html)
 
 ##### CAM0172 - [Campo das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/CAM0172/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/CAM0172/agenda.html)
 - [programa](https://itxesco.github.io/aulas/CAM0172/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/CAM0172/roteiros.html)
+- [roteiros](https://itxesco.github.io/aulas/CAM0172/teste.html)
 
 
 ##### ISC0462 - [Sociedade Tecnológica e Matrizes Energéticas](https://itxesco.github.io/aulas/ISC0462/index.html)
 
 - [agenda](https://itxesco.github.io/aulas/ISC0462/agenda.html)
 - [programa](https://itxesco.github.io/aulas/ISC0462/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0462/roteiros.html)
+- [roteiros](https://itxesco.github.io/aulas/ISC0462/teste.html)
 
 ---
 
@@ -72,7 +72,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 - [agenda](https://itxesco.github.io/aulas/PPGER0034/agenda.html)
 - [programa](https://itxesco.github.io/aulas/PPGER0034/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/PPGER0034/roteiros.html)
+- [roteiros](https://itxesco.github.io/aulas/PPGER0034/teste.html)
 
 ---
 ##### <a name="shortcourses"></a> já ministrados em outras Instituições
