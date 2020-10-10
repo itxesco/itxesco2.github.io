@@ -8,7 +8,7 @@ title: ISC0180 - Estágio Supervisionado I
 
 
 Encontro | Data  | Tópico
-:---: | :--- |---
+---|---|---
 1|13/10	| SREEPI UFSB  
 2|20/10	| Apresentação do estágio; Orientação e discussão sobre a regulação do estágio na UFSB (Resolução 02/2019, Manual do Estágio); Orientação para produção de portfólio [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf)
 3|27/10	|	Exibição de documentário e reflexão sobre outras possibilidades de educação escolar: Documentário “Nunca me sonharam” ou “Quando sinto que já sei” ou “Corações e Mentes” ou “A Educação está Proibida”. Orientação leitura Dayrell: A Escola como Espaço Sócio-Cultural [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/1._Dayrell-1996-Escola-espao-socio-cultural.pdf)

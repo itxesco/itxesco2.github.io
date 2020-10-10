@@ -25,8 +25,6 @@ deve ser agendado pelo servidor da Componente no Discord e irão ocorrer nas ter
 Outros links de interesse para esta Componente Curricular:  <br/>
 
   <a href="https://itxesco.github.io/aulas/ISC0462/agenda.html">agenda do quadrimestre</a><br/>
-  <a href="https://itxesco.github.io/aulas/ISC0462/programa.html">programa</a><br/>
-  <a href="https://itxesco.github.io/aulas/ISC0462/roteiros.html">roteiros de estudo e investigação</a><br/>
 </div>
             <div class="span2">
                      <a href="https://youtu.be/5qap5aO4i9A" target="_blank">
