@@ -34,7 +34,6 @@ Outros links de interesse para esta Componente Curricular:  <br/>
 
   <a href="agenda.html">agenda do quadrimestre</a><br/>
   <a href="programa.html">programa</a><br/>
-  <a href="roteiros.html">roteiros de estudo e investigação</a><br/>
 </div>
             <div class="span2">
                      <a href="https://youtu.be/5qap5aO4i9A" target="_blank">
