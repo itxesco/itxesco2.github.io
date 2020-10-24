@@ -1,8 +1,8 @@
 ---
 layout: page
-title:
+title: ISC0462
 ---
-### ISC0462 Sociedade Tecnológica e Matrizes Energéticas
+### Sociedade Tecnológica e Matrizes Energéticas
 ---
 #### Agenda do quadrimestre letivo 2020.2  
 
