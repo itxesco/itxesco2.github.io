@@ -1,9 +1,11 @@
 ---
 layout: page
-title: ISC0180 - Estágio Supervisionado I
+title: ISC0180
+---
+### Estágio Supervisionado I
 ---
 
-**Agenda do quadrimestre letivo 2020.2**  
+#### Agenda do quadrimestre letivo 2020.2  
 
 
 Encontro | Data  | Tópico
