@@ -1,12 +1,12 @@
 ---
 layout: page
-title: ISC0462 Sociedade Tecnológica e Matrizes Energéticas
+title:
 ---
-### Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias da UFSB / CSC
+### ISC0462 Sociedade Tecnológica e Matrizes Energéticas
 ---
 #### Agenda do quadrimestre letivo 2020.2  
 
-Encontro | Data  | Tópico
+Encontro  |  Data  | Tópico
 :---: | :--- |---
 1|14/10	| Apresentação do docente, curso e sistema avaliativo.  As bases físicas da sociedade tecnológica    
 2|21/10	| Energia e a Matéria no Universo [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0462/recursos/texto_1_-_O_que__energia.pdf): Big Bang, Evidências científicas do Big Bang (afastamento das galáxias, radiação de fundo, abundância de elementos leves), o universo como um sistema fechado e a consevação de Energia. A primeira Lei da Termodinâmica  
