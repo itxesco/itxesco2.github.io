@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ISC0332 Estágio Supervisionado IV
+title: #ISC0332 Estágio Supervisionado IV
 ---
-## Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias da UFSB / CSC
+####ISC0332 Estágio Supervisionado IV
 ---
-### Agenda do quadrimestre letivo 2020.2  
+###Agenda do quadrimestre letivo 2020.2  
 
 Encontro | Data  | Tópico
 :---: | :--- |---
