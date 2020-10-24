@@ -2,8 +2,7 @@
 layout: page
 title: ####CAM0172 Campo das Ciências - Saberes e Práticas
 ---
-####CAM0172 Campo das Ciências - Saberes e Práticas
----
+
 #### Agenda do quadrimestre letivo 2020.2  
 
 Encontro | Data  | Tópico
