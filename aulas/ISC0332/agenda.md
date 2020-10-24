@@ -1,9 +1,10 @@
 ---
 layout: page
-title: #ISC0332 Estágio Supervisionado IV
+title: ISC0332
 ---
-####ISC0332 Estágio Supervisionado IV
+### Estágio Supervisionado IV
 ---
+
 ###Agenda do quadrimestre letivo 2020.2  
 
 Encontro | Data  | Tópico
