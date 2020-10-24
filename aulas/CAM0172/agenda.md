@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CAM0172 Campo das Ciências - Saberes e Práticas
+title: ####CAM0172 Campo das Ciências - Saberes e Práticas
 ---
-** Formação Geral (FG)**
+**Formação Geral (FG)**
 ---
 #### Agenda do quadrimestre letivo 2020.2  
 
