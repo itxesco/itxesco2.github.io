@@ -25,105 +25,13 @@ title: Formação em Comunidades de Aprendizagem
 
 - [Ambientes de Aprendizagem](/ecohabitare/1_8.html)
 
-- Artigo - Área Aberta - OCDE [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Área Aberta - OCDE.pdf)  
+- [Ambientes de Aprendizagem 2](/ecohabitare/1_9.html)
 
-- Artigo - Artografia social  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Artografia social .pdf)  
+- [Dispositivos Pedagógicos](/ecohabitare/1_10.html)
 
-- Artigo - Cartografia social - Instrumento  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Cartografia social - Instrumento .pdf)  
+- [Metodologia de Trabalho de Projetos](/ecohabitare/1_11.html)
 
-- Artigo - Dialnet-Cartografia Social Instrumento De Construcao Do Conhecimento [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Dialnet-CartografiaSocialInstrumentoDeConstrucaoDoConhecim-5633536.pdf)  
-
-- Artigo - P3 ESTUDO [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - P3 ESTUDO.pdf)  
-
-- Artigo - Projeto Mapa do Bem [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Projeto Mapa do Bem.pdf)  
-
-- Artigo - Quando a rua vira casa [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Quando a rua vira casa.pdf)
-
-- Artigo - Artigo - Revista - Educação em Geografia 1 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia1.pdf)
-
-- Artigo - Revista - Educação em Geografia 2 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia2pdf)
-
--Artigo - Revista - Educação em Geografia 3 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia3.pdf)
-
-- Artigo - Revista - Educação em Geografia 4 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia4.pdf)
-
-- Artigo - Revista - Educação em Geografia 5 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia 5.pdf)
-
-- Artigo - Revista - Educação em Geografia 6 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia6.pdf)
-
-- Artigo - Revista - Educação em Geografia 7 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia7.pdf)
-
-- Artigo - Revista - Educação em Geografia 8 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografi8.pdf)
-
-- Artigo - Revista - Educação em Geografia 9 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia9.pdf)
-
-- Artigo - Revista - Educação em Geografia 10 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia10.pdf)
-
-- Artigo - Revista - Educação em Geografia 11 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia11.pdf)
-
-- Artigo - Revista - Educação em Geografia 12 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia12.pdf)
-
-- Artigo - Revista - Educação em Geografia 13 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia13.pdf)
-
-- Artigo - Revista - Educação em Geografia 14 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia14.pdf)
-
-- Artigo - Revista - Educação em Geografia 15 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia15.pdf)
-
-- Artigo - Revista - Educação em Geografia 16 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Artigo - Revista - Educação em Geografia16.pdf)
-
-- ECOHABITARE -  LEVANTAMENTO DO POTENCIAL EDUCATIVO LOCAL  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/ECOHABITARE -  LEVANTAMENTO DO POTENCIAL EDUCATIVO LOCAL .pdf)
-
-- Publicação - Cartografia_cajumanguinhos [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Publicação - Cartografia_cajumanguinhos.pdf)
-
-- Publicação - Reaktion Books  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Publicação - Reaktion Books .pdf)
-
-- Publicação - Territórios Educativos para a Educação Integral [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Publicação - Territórios Educativos para a Educação Integral.pdf)
-
-- Publicação - Territorios Educativos Vol 1 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Publicação - Territorios-Educativos_Vol1.pdf)
-
-- Publicação - Territorios Educativos Vol 2 [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.8 Ambientes de Aprendizagem/Publicação - Territorios-Educativos_Vol2.pdf)
-
-
-#### 1.9  - Ambientes de Aprendizagem
-
-- ECOHABITARE  - OBJETIVOS DE APRENDIZAGEM  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.9 Objetivos de Aprendizagem/ECOHABITARE  - OBJETIVOS DE APRENDIZAGEM .pdf)  
-
-- ECOHABITARE - DIMENSÕES CURRICULARES [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.9 Objetivos de Aprendizagem/ECOHABITARE - DIMENSÕES CURRICULARES.pdf)  
-
-- Publicação - Habilidades Cognitivas [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.9 Objetivos de Aprendizagem/Publicação - Habilidades Cognitivas.pdf)  
-
-
-#### 1.10  - Dispositivos Pedagógicos
-
-- Procedimentos_de_Pesquisa [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Procedimentos_de_Pesquisa.pdf)  
-
-- ECOHABITARE - MAPA DE DIPOSITIVOS  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/ECOHABITARE - MAPA DE DIPOSITIVOS.pdf)  
-
-- Dispositivos da Ponte  [ ![ppt](/pages/icons16/ppt-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Dispositivos da Ponte.ppt)  
-
-- Modelo - Roteiro de Estudos  [ ![xls](/pages/icons16/Excel-icon.png)](/ecohabitare/Material/1.10 Dispositivos Pedagógicos/Modelo - Roteiro de Estudos.xls)  
-
-
-#### 1.11  - Metodologia de Trabalho de Projetos
-
-- Artigo - Metodologia de Projeto 2  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Artigo - Metodologia de Projeto 2.pdf)  
-
-- Artigo - MTP Nova relação entre os saberes escolares e os saberes sociais  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Artigo - MTP Nova relação entre os saberes escolares e os saberes sociais.pdf)  
-
-- Dissertação - O Trabalho de Projeto e aprendizagens em Educação Pré- Escolar  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Dissertação - O Trabalho de Projeto e aprendizagens em Educação Pré- Escolar.pdf)  
-
-- Dissertação - Potencialidades da Metodologia de Trabalho de Projeto com crianças dos 4   [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Dissertação - Potencialidades da Metodologia de Trabalho de Projeto com crianças dos 4 .pdf)  
-
-- ECOHABITARE - MODELO PROJETO DE APRENDIZAGEM    [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/ECOHABITARE - MODELO PROJETO DE APRENDIZAGEM .pdf)  
-
-- Modelo - Projeto de Aprendizagem - Projeto Âncora  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Modelo - Projeto de Aprendizagem - Projeto Âncora.pdf)  
-
-- Publicação - A Metodologia de Trabalho de Projeto  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Publicação - A Metodologia de Trabalho de Projeto.pdf)  
-
-- Publicação - Metodologia do Trabalho de Projecto  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.11  Metodologia de Trabalho de Projeto/Publicação - Metodologia do Trabalho de Projecto.pdf)  
-
-
-#### 1.12  - Tutoria
+- [Tutoria](/ecohabitare/1_12.html)
 
 - Artigo - Tutoria na Educação - ISEP  [ ![pdf](/pages/icons16/pdf-icon.png)](/ecohabitare/Material/1.12 Tutoria/Artigo - Tutoria na Educação - ISEP.pdf)  
 
