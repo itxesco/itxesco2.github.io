@@ -12,10 +12,10 @@ Encontro | Data  | Tópico
 :---: | :--- |---
 1|13/10	| Acolhimento - Programação oficial da UFSB (não haverá aula)   
 2|20/10	| Apresentação do estágio; Orientação e discussão sobre a regulação do estágio na UFSB (Resolução 02/2019, Manual do Estágio); Orientação para produção de portfólio [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf)  
-3|27/10	|	Exibição de documentário e reflexão sobre outras possibilidades de educação escolar: Documentário “Nunca me sonharam” ou “Quando sinto que já sei” ou “Corações e Mentes” ou “A Educação está Proibida”. Orientação leitura Dayrell: A Escola como Espaço Sócio-Cultural [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/1._Dayrell-1996-Escola-espao-socio-cultural.pdf)  
+3|27/10	|	Exibição de documentário e reflexão sobre outras possibilidades de educação escolar:  “Corações e Mentes” capítulos 01 e 02. Orientação leitura Dayrell: A Escola como Espaço Sócio-Cultural [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/1._Dayrell-1996-Escola-espao-socio-cultural.pdf)  
 4|03/11	|	 Discussão sobre Escola como Espaço Sócio-Cultural . Definição de perguntas para a gestão [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/Atividade_1_-_Estgio_1.pdf)  
 5|10/11	|	OBS.1: Entrevista com a gestão do CIEPS - Alessandra e Allana  [Estações do Saber  ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/09_observacaoregistroreflexao.pdf)  
-6|17/11	|	 Exibição de documentário e reflexão sobre outras possibilidades de educação escolar: Documentário “Nunca me sonharam” ou “Quando sinto que já sei” ou “Corações e Mentes” ou “A Educação está Proibida”. Orientação leitura: Madalena Freire: Educando o olhar da Observação  
+6|17/11	|	 Exibição de documentário e reflexão sobre outras possibilidades de educação escolar:  “Corações e Mentes” capítulos 03 e 04. Orientação leitura: Madalena Freire: Educando o olhar da Observação  
 7|24/11	|	 Discussão sobre Madalena Freire: [Educando o olhar da observação ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/Madalena_Freire.pdf). Definição de perguntas para professores
 8|01/12	|	OBS.2: LIVE com professores de todas as áreas  Indicação de leitura de Paulo Freire  [BNCC   ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/Alamo_BNCC-VERSAO-FINAL.pdf)  
 9|08/12	|	 Discussão sobre Pedagogia do Oprimido, Paulo Freire. Definição de perguntas para estudantes  
