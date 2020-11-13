@@ -6,9 +6,9 @@ title: PPGER0034 - EDUCAÇÃO CIENTÍFICA, CULTURA E SOCIEDADE: IMPLICAÇÕES PA
 
 Encontro | Data  | Tópico
 :---: | :--- |---
-1|15/10	| Apresentação - A Ciência e a sociedade tecnológica  
+1|15/10	| Apresentação - Educação Científica, Cultura e Sociedade: implicações para o Ensino de Ciências e Humanidades. Plano de Ensino, Didática das aulas, sistema avaliativo. Leitura do Mundo: o professor.  
 2|22/10	| do que somos feitos? [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf)
-3|29/10	|	 Cultura e Educação [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/1._Dayrell-1996-Escola-espao-socio-cultural.pdf)
+3|29/10	|	 Cultura e Educação - Leitura 01: [Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis? ![pdf](/pages/icons16/pdf-icon.png)](assets/articles/37669-Texto do artigo-88393-1-10-20171226.pdf)
 4|05/11	|	 Uma questão de identidade [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/Atividade_1_-_Estgio_1.pdf)
 5|12/11	|	 Sexualidade, Diversidade e Educação [ Gênero: uma categoria útil de análise histórica]![pdf](/pages/icons16/pdf-icon.png)](aulas/PPGER0034/textos/Gênero-Joan-Scott.pdf)
 6|19/11	|	Gênero e Identidade
