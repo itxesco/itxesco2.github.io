@@ -14,6 +14,11 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
         <img src="assets/publpics/iplotCorr.jpg" alt="Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências" title="pesquisa"/>
     </a>
   </td>
+  <td class="center">
+    <a href="https://itxesco.github.io/pages/hq.html">
+        <img src="assets/publpics/iplotCorr.jpg" alt="Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências" title="pesquisa"/>
+    </a>
+  </td>
   <td class="right">
     <a href="https://itxesco.github.io/pages/oca.html">
         <img src="assets/publpics/mppdiag_fig4.jpg" alt="projeto Oca da Ciência na Escola" title="extensão"/>
@@ -22,6 +27,11 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 </tr>
 <tr>
   <td class="left">
+    <a href="https://itxesco.github.io/pages/rpg.html">
+        <img src="assets/publpics/samplemixups_fig7.jpg" alt="Jogos de RPG e Educação Ensino de Física e Ensino de Ciências" title="pesquisa"/>
+    </a>
+  </td>
+  <td class="center">
     <a href="https://itxesco.github.io/pages/rpg.html">
         <img src="assets/publpics/samplemixups_fig7.jpg" alt="Jogos de RPG e Educação Ensino de Física e Ensino de Ciências" title="pesquisa"/>
     </a>
