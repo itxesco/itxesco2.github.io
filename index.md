@@ -7,42 +7,14 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 
 
 
-<table class="wide">
-<tr>
-  <td class="left">
-    <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="assets/publpics/iplotCorr.jpg" alt="Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências" title="pesquisa"/>
-    </a>
-  </td>
-  <td class="center">
-    <a href="https://itxesco.github.io/pages/hq.html">
-        <img src="assets/publpics/iplotCorr.jpg" alt="Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências" title="pesquisa"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="https://itxesco.github.io/pages/oca.html">
-        <img src="assets/publpics/mppdiag_fig4.jpg" alt="projeto Oca da Ciência na Escola" title="extensão"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="https://itxesco.github.io/pages/rpg.html">
-        <img src="assets/publpics/samplemixups_fig7.jpg" alt="Jogos de RPG e Educação Ensino de Física e Ensino de Ciências" title="pesquisa"/>
-    </a>
-  </td>
-  <td class="center">
-    <a href="https://itxesco.github.io/pages/rpg.html">
-        <img src="assets/publpics/samplemixups_fig7.jpg" alt="Jogos de RPG e Educação Ensino de Física e Ensino de Ciências" title="pesquisa"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="https://itxesco.github.io/pages/ensino.html">
-        <img src="assets/publpics/rqtl2_fig1c.jpg" alt="ensino" title="ensino"/>
-    </a>
-  </td>
-</tr>
-</table>
+[![pesquisa][/assets/publpics/iplotCorr.jpg]][https://itxesco.github.io/pages/hq.html "Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências"]  
+
+[![extensão][/assets/publpics/iplotCorr.jpg]][https://itxesco.github.io/pages/oca.html "projeto Oca da Ciência na Escola"]  
+
+[![pesquisa][assets/publpics/samplemixups_fig7.jpg]][https://itxesco.github.io/pages/rpg.html "Jogos de RPG e Educação"]  
+
+[![ensino][assets/publpics/rqtl2_fig1c.jpg]][https://itxesco.github.io/pages/ensino.html "Ensino de Física e Ensino de Ciências"]
+
 <!-- Meu comentário em HTML
 <div class="navbar">
   <div class="navbar-inner">
