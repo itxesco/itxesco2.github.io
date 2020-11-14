@@ -5,15 +5,14 @@ title: PPGER0034
 ### Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades
 ---
 
-### Agenda do quadrimestre letivo 2020.2  
+#### Agenda do quadrimestre letivo 2020.2  
 
 | Encontro | Data  | Tópico | Leitura |
 | --- | --- | --- | ---|
-| 1| 15/10	| Apresentação - Educação Científica, Cultura e Sociedade: implicações para o Ensino de Ciências e Humanidades. Plano de Ensino, Didática das aulas, sistema avaliativo. Leitura do Mundo - o professor | Não há |
+| 1| 15/10	| Apresentação do Plano de Ensino, metodologia e sistema avaliativo. Leitura do Mundo - o professor | Não há |
 | 2| 22/10	| Pele Negra, Máscaras Brancas: Uma introdução ao pensamento de Frantz Fanon |prefácio de "Os Condenados da Terra" [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 3| 29/10	|	 Educação como Prática da Liberdade | [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
-| 4| 05/11	|	 As duas Culturas | Leitura 01: AS DUAS CULTURAS E OS REFLEXOS NO MUNDO ATUAL
-NAS CIÊNCIAS E NA CIÊNCIA DA INFORMAÇÃO [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
+| 4| 05/11	|	 As duas Culturas | As Duas Culturas e os Reflexos no Mundo Atual, nas Ciências e na Ciência da Informação [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 5| 12/11	|	 Histórias em Quadrinhos, Cultura e Educação | Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis? [ ![pdf](/pages/icons16/pdf-icon.png)](assets/articles/37669-Texto do artigo-88393-1-10-20171226.pdf) |
 | 6| 19/11	|	Sexualidade, Diversidade e Educação | Gênero, uma categoria útil de análise histórica [ ![pdf](/pages/icons16/pdf-icon.png)](aulas/PPGER0034/textos/Gênero-Joan-Scott.pdf) |
 | 7| 26/11	|	 Gênero, Raça e Identidade | preencher |
