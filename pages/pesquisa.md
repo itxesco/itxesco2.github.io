@@ -35,8 +35,6 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/) atuo na linha **I. Relações ét
 
  [![lattes](icons16/lattes-icon.png)]("http://lattes.cnpq.br/7551985613163404") Fabrício da Silva Santos  
 
- [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/4026848433366326) Miriam Conceição da Silva
-
  [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde
 
  [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho
