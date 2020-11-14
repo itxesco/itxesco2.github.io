@@ -8,7 +8,7 @@ title: PPGER0034
 #### Agenda do quadrimestre letivo 2020.2  
 
 | Encontro | Data  | Tópico | Leitura |
-| --- | --- | --- | ---|
+| :---: | --- | :---: | ---|
 | 1| 15/10	| Apresentação do Plano de Ensino, metodologia e sistema avaliativo. Leitura do Mundo - o professor | Não há |
 | 2| 22/10	| Pele Negra, Máscaras Brancas: Uma introdução ao pensamento de Frantz Fanon |prefácio de "Os Condenados da Terra" [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 3| 29/10	|	 Educação como Prática da Liberdade | [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
@@ -27,4 +27,5 @@ title: PPGER0034
 #####  06/02		Fim do Quadrimestre letivo 2020.2
 
 ---
-[home](index.html)
+[sobre esta Componente Curricular](index.html)  
+[programa](programa.html)
