@@ -25,5 +25,5 @@ title: PPGER0034
 #####  06/02		Fim do Quadrimestre letivo 2020.2 - Encerramento do Curso.
 
 ---
-[sobre esta Componente Curricular](index.html)  
+[sobre a Componente Curricular](index.html)  
 [programa](programa.html)
