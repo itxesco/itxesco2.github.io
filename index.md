@@ -6,9 +6,9 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 ---
 
 
-[![a logomarca do google][logomarca]][google]
+[![a logomarca do google][quadrinhos]][pesquisa]
 
-![pesquisa em historias em quadrinhos](https://itxesco.github.io/assets/publpics/iplotCorr.jpg)
+![pesquisa em historias em quadrinhos](http://itxesco.github.io/assets/publpics/iplotCorr.jpg)
 
 [![extensão](https://itxesco.github.io/assets/publpics/iplotCorr.jpg)](https://itxesco.github.io/pages/oca.html)
 
@@ -16,8 +16,9 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 
 [![ensino][assets/publpics/rqtl2_fig1c.jpg]][https://itxesco.github.io/pages/ensino.html "Ensino de Física e Ensino de Ciências"]
 
-[logomarca]: http://www.google.com/images/logo.gif
-[google]: http://www.google.com/ "clique para visitar Google.com"
+[quadrinhos]: http://itxesco.github.io/assets/publpics/iplotCorr.jpg
+[pesquisa]: https://itxesco.github.io/pages/hq.html "Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências"
+
 
 <!-- Meu comentário em HTML
 <div class="navbar">
