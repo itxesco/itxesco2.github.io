@@ -7,7 +7,7 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 
 
 
-[![pesquisa][/assets/publpics/iplotCorr.jpg]][https://itxesco.github.io/pages/hq.html "Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências"]  
+[![pesquisa][https://itxesco.github.io/assets/publpics/iplotCorr.jpg]][https://itxesco.github.io/pages/hq.html "Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências"]  
 
 [![extensão][/assets/publpics/iplotCorr.jpg]][https://itxesco.github.io/pages/oca.html "projeto Oca da Ciência na Escola"]  
 
