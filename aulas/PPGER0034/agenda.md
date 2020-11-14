@@ -8,7 +8,7 @@ title: PPGER0034
 | Encontro | Data  | Tópico | Leitura |
 | :---: | --- | :---: | ---|
 | 1| 15/10	| Apresentação do professor. O Plano de Ensino, metodologia e sistema avaliativo. Leitura do Mundo | Não há |
-| 2| 22/10	| Educação Prussiana e  Escolas Transformadoras: Fanon, Freire e a  Educação como Prática da Liberdade | Texto 01 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
+| 2| 22/10	| Escolas Transformadoras: Fanon, Freire e a  Educação como Prática da Liberdade | Texto 01 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 3| 29/10	|	Gênero, Raça e Identidade  | [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 4| 05/11	|	Sexualidade, Diversidade e Educação | As Duas Culturas e os Reflexos no Mundo Atual, nas Ciências e na Ciência da Informação [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 5| 12/11	| As Duas Culturas e a Alegria na Escola | Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis? [ ![pdf](/pages/icons16/pdf-icon.png)](assets/articles/37669-Texto do artigo-88393-1-10-20171226.pdf) |
