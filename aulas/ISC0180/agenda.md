@@ -29,4 +29,5 @@ title: ISC0180
 #####  06/02		Fim do Quadrimestre letivo 2020.2
 
 ---
-[home](index.html)
+[sobre a Componente Curricular](index.html)  
+[programa](programa.html)
