@@ -2,10 +2,8 @@
 layout: page
 title: PPGER0034
 ---
-### Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades
+#### Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades - Agenda do quadrimestre letivo 2020.2
 ---
-
-#### Agenda do quadrimestre letivo 2020.2  
 
 | Encontro | Data  | Tópico | Leitura |
 | :---: | --- | :---: | ---|
