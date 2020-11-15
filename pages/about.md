@@ -4,20 +4,6 @@ title: sobre
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
 
-#### contato
-
-            Prof. Dr. Francisco Nascimento<br/>
-            <a href="https://www.ufsb.edu.br/ihac/">Instituto de Humanidades, Artes e Ciências - IHAC</a><br/>
-            <a href="https://ufsb.edu.br/">Universidade Federal do Sul da Bahia - UFSB</a><br/>
-            <a href="https://www.ufsb.edu.br/ihac/ihac-csc">Campus Sosígenes Costa</a><br/>
-            S/n Rodovia BR-367 Km 10 Zona Rural<br/>
-            Porto Seguro - BA, 45810-000<br/>
-            BR<br/><br/>
-
-            <div id="hide_email">
-            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;">&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;</a>
-          <p>  Fone: (73) 3288-8400 (Secretaria Executiva do IHAC - CSC) </p>
-            </div>
 
 [![3x4][beco_frente]][insta]
 
