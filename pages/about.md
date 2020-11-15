@@ -4,10 +4,30 @@ title: sobre
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
 
-[![3x4][beco_frente]][insta] Sou professor adjunto do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB); onde atuo na formação de professores e ensino de ciências. Pesquiso em estudos culturais na educação em ciências, com foco no diálogo entre as relações de gênero/étnico-raciais e a ciência nas Histórias em Quadrinhos, Jogos de RPG e outros elementos da cultura dos super-heróis.
+#### contato
+
+            Prof. Dr. Francisco Nascimento<br/>
+            <a href="https://www.ufsb.edu.br/ihac/">Instituto de Humanidades, Artes e Ciências - IHAC</a><br/>
+            <a href="https://ufsb.edu.br/">Universidade Federal do Sul da Bahia - UFSB</a><br/>
+            <a href="https://www.ufsb.edu.br/ihac/ihac-csc">Campus Sosígenes Costa</a><br/>
+            S/n Rodovia BR-367 Km 10 Zona Rural<br/>
+            Porto Seguro - BA, 45810-000<br/>
+            BR<br/><br/>
+
+            <div id="hide_email">
+            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;">&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;</a>
+          <p>  Fone: (73) 3288-8400 (Secretaria Executiva do IHAC - CSC) </p>
+            </div>
+
+[![3x4][beco_frente]][insta]
 
 [beco_frente]: http://itxesco.github.io/assets/fotos/eu_2020-10-03_small.jpg
 [insta]: https://www.instagram.com/itxesco "Francisco de Assis Nascimento Junior"
+
+---
+
+Sou professor adjunto do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB); onde atuo na formação de professores e ensino de ciências. Pesquiso em estudos culturais na educação em ciências, com foco no diálogo entre as relações de gênero/étnico-raciais e a ciência nas Histórias em Quadrinhos, Jogos de RPG e outros elementos da cultura dos super-heróis.
+
 
 **Formação Acadêmica**
 
@@ -31,33 +51,4 @@ Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Hum
 [twitter](https://twitter.com/itxesco)  
 [goodreads](https://www.goodreads.com/user/show/51497119-francisco-nascimento)  
 homem cisgênero  
-he/him
-
----
-
-<div class="container">
-<h4><a name="contact"></a>contato</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Prof. Dr. Francisco Nascimento<br/>
-            <a href="https://www.ufsb.edu.br/ihac/">Instituto de Humanidades, Artes e Ciências - IHAC</a><br/>
-            <a href="https://ufsb.edu.br/">Universidade Federal do Sul da Bahia - UFSB</a><br/>
-            <a href="https://www.ufsb.edu.br/ihac/ihac-csc">Campus Sosígenes Costa</a><br/>
-            S/n Rodovia BR-367 Km 10 Zona Rural<br/>
-            Porto Seguro - BA, 45810-000<br/>
-            BR<br/><br/>
-
-            <div id="hide_email">
-            <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;">&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;</a>
-          <p>  Fone: (73) 3288-8400 (Secretaria Executiva do IHAC - CSC) </p>
-            </div>
-        </div>
-
-        <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/fotos/eu_2020-10-03_small.jpg"
-                  title="Francisco Nascimento" alt="Francisco Nascimento"/></a>
-        </div>
-    </div>
-</div>
+ele/dele
