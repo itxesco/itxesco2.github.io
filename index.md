@@ -6,19 +6,19 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 ---
 
 
-[![pesquisa em historias em quadrinhos][quadrinhos]][pagina_hq]
-[![extensão][oca][pagina_oca]
-[![pesquisa em RPG e educação][rpg][pagina_rpg]
+[![pesquisa em historias em quadrinhos][hq]][link_hq]
+[![oca da ciência na escola][oca_ufsb]][link_oca]
+[![pesquisa em RPG e educação][rpg]][link_rpg]
 
 
 
 
-[quadrinhos]: http://itxesco.github.io/assets/index_pics/hq.jpg
-[pagina_hq]: https://itxesco.github.io/pages/hq.html "Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências"
-[oca]: https://itxesco.github.io/assets/index_pics/oca_ufsb.jpg
-[pagina_oca]: https://itxesco.github.io/pages/oca.html
+[hq]: http://itxesco.github.io/assets/index_pics/hq.jpg
+[link_hq]: https://itxesco.github.io/pages/hq.html "Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências"
+[oca_ufsb]: https://itxesco.github.io/assets/index_pics/oca_ufsb.jpg
+[link_oca]: https://itxesco.github.io/pages/oca.html
 [rpg]: https://itxesco.github.io/assets/index_pics/dragon_feynman.jpg
-[pagina_rpg]: https://itxesco.github.io/pages/rpg.html
+[link_rpg]: https://itxesco.github.io/pages/rpg.html
 
 <!-- Meu comentário em HTML
 <div class="navbar">
