@@ -13,11 +13,11 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 
 [![ensino][assets/publpics/rqtl2_fig1c.jpg]][https://itxesco.github.io/pages/ensino.html "Ensino de Física e Ensino de Ciências"]
 
-[quadrinhos]: http://itxesco.github.io/assets/index_pics/iplotCorr.jpg
+[quadrinhos]: http://itxesco.github.io/assets/index_pics/hq.jpg
 [pagina_hq]: https://itxesco.github.io/pages/hq.html "Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências"
-[oca]: https://itxesco.github.io/assets/index_pics/mppdiag_fig4.jpg
+[oca]: https://itxesco.github.io/assets/index_pics/oca_ufsb.jpg
 [pagina_oca]: https://itxesco.github.io/pages/oca.html
-[rpg]: https://itxesco.github.io/assets/index_pics/samplemixups_fig7.jpg
+[rpg]: https://itxesco.github.io/assets/index_pics/dragon_feynman.jpg
 [pagina_rpg]: https://itxesco.github.io/pages/rpg.html
 
 <!-- Meu comentário em HTML
