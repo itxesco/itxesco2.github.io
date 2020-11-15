@@ -28,7 +28,7 @@ Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Hum
 [twitter](https://twitter.com/itxesco)  
 [goodreads](https://www.goodreads.com/user/show/51497119-francisco-nascimento)  
 homem cisgênero  
-he/him
+ele/dele
 
 ---
 
