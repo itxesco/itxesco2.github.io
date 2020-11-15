@@ -9,6 +9,7 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 [![pesquisa em historias em quadrinhos][hq]][link_hq] [![oca da ciência na escola][oca_ufsb]][link_oca] [![pesquisa em afrofuturismo nos quadrinhos][afrofut]][link_afro]
 [![pesquisa em RPG e educação][rpg]][link_rpg]
 [![atividades de ensino][scienceitworks]][link_ensino]
+[![pós-graduação][ppger]][link_ppger]
 
 
 
@@ -22,6 +23,8 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 [link_rpg]: https://itxesco.github.io/pages/rpg.html "Jogos de RPG no Ensino de Ciências"
 [scienceitworks]: https://itxesco.github.io/assets/index_pics/scienceitworks.jpg
 [link_ensino]: https://itxesco.github.io/pages/ensino.html "atividades de ensino na graduação e pós"
+[ppger]: https://itxesco.github.io/assets/index_pics/ppger.jpeg
+[link_ppger]: https://itxesco.github.io/pages/ppger.html "conheça o ppger da ufsb"
 
 <!-- Meu comentário em HTML
 <div class="navbar">
