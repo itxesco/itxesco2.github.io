@@ -24,20 +24,17 @@ No estado da Bahia, 5 universidades pública se uniram para fazer acontecer esta
 2) Racismo no Brasil e  
 3) Desastres ambientais  
 
-Para ver a programação completa do nosso Pint of Science Bahia, acesse a página oficial do evento [aqui](https://pintofscience.com.br/events/porto-seguro)
+Para ver a programação completa do nosso _Pint of Science Bahia_, acesse a página oficial do evento [aqui](https://pintofscience.com.br/events/porto-seguro)
 
 Conheça a história completa do Pint of Science [no site oficial](https://pintofscience.com.br/historia/)
 
 Saiba mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro [aqui](https://pintofscience.com.br/equipe/Porto%20Seguro)
 
-[![pintbahia][pre01]][link_canal_pint]  
-[![pintbahia][mesa01]][link_canal_pint]
+[![pintbahia][pre01]][link_canal_pint] [![pintbahia][mesa01]][link_canal_pint]
 
-[![pintbahia][pre02]][link_canal_pint]
-[![pintbahia][mesa02]][link_canal_pint]
+[![pintbahia][pre02]][link_canal_pint] [![pintbahia][mesa02]][link_canal_pint]
 
-[![pintbahia][pre03]][link_canal_pint]
-[![pintbahia][mesa03]][link_canal_pint]
+[![pintbahia][pre03]][link_canal_pint] [![pintbahia][mesa03]][link_canal_pint]
 
 
 [rankingtop5]: https://itxesco.github.io/assets/figuras/rankingtop5.jpeg
