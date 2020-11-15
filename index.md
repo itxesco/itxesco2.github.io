@@ -6,17 +6,19 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 ---
 
 
-[![a logomarca do google][quadrinhos]][pesquisa] ![pesquisa em historias em quadrinhos](http://itxesco.github.io/assets/publpics/iplotCorr.jpg)
+[![pesquisa em historias em quadrinhos][quadrinhos]][pagina_hq] [![extensão][oca][pagina_oca] [![pesquisa em RPG e educação][rpg][pagina_rpg]
 
-[![extensão](https://itxesco.github.io/assets/publpics/iplotCorr.jpg)](https://itxesco.github.io/pages/oca.html)
 
 [![pesquisa][assets/publpics/samplemixups_fig7.jpg]][https://itxesco.github.io/pages/rpg.html "Jogos de RPG e Educação"]  
 
 [![ensino][assets/publpics/rqtl2_fig1c.jpg]][https://itxesco.github.io/pages/ensino.html "Ensino de Física e Ensino de Ciências"]
 
 [quadrinhos]: http://itxesco.github.io/assets/publpics/iplotCorr.jpg
-[pesquisa]: https://itxesco.github.io/pages/hq.html "Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências"
-
+[pagina_hq]: https://itxesco.github.io/pages/hq.html "Histórias em Quadrinhos de super-heróis e ensino de física e ensino de Ciências"
+[oca]: https://itxesco.github.io/assets/publpics/mppdiag_fig4.jpg
+[pagina_oca]: https://itxesco.github.io/pages/oca.html
+[rpg]: https://itxesco.github.io/assets/publpics/samplemixups_fig7.jpg
+[pagina_rpg]: https://itxesco.github.io/pages/rpg.html
 
 <!-- Meu comentário em HTML
 <div class="navbar">
