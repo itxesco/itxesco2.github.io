@@ -37,12 +37,12 @@ Saiba mais sobre a equipe da UFSB responsável pela realização do Pint of Scie
 [![pintbahia][pre03]][link_canal_pint] [![pintbahia][mesa03]][link_canal_pint]
 
 
-[rankingtop5]: https://itxesco.github.io/assets/figuras/rankingtop5.jpeg
-[link_canal_pint]: https://www.youtube.com/channel/UCEq25HBY940kEE497ob83Pw "vídeos mais assistidos no Pint of Science Brasil - Bahia em 5 lugar"
-[pba]: https://itxesco.github.io/assets/figuras/pintbahia.jpeg "divulgação do Pint of Science BAHIA"
-[pre01]:https://itxesco.github.io/assets/figuras/pint_0809_pre.jpeg "pré-evento do primeiro dia"
-[mesa01]: https://itxesco.github.io/assets/figuras/pint_0809_principal.jpeg "mesa principal - primeiro dia"
-[pre02]: https://itxesco.github.io/assets/figuras/pint_0909_pre.jpeg "pré-evento do segundo dia"
-[mesa02]: https://itxesco.github.io/assets/figuras/pint_0909_principal.jpeg "mesa principal - segundo dia"
-[pre03]: https://itxesco.github.io/assets/figuras/pint_1009_pre.jpeg "pré-evento do terceiro dia"
-[mesa03]: https://itxesco.github.io/assets/figuras/pint_1009_principal.jpeg "mesa principal - terceiro dia"
+[rankingtop5]: https://itxesco.github.io/assets/figuras/pintofscience/rankingtop5.jpeg  
+[link_canal_pint]: https://www.youtube.com/channel/UCEq25HBY940kEE497ob83Pw "vídeos mais assistidos no Pint of Science Brasil - Bahia em 5 lugar"  
+[pba]: https://itxesco.github.io/assets/figuras/pintofscience/pintbahia.jpeg "divulgação do Pint of Science BAHIA"  
+[pre01]:https://itxesco.github.io/assets/figuras/pintofscience/pint_0809_pre.jpeg "pré-evento do primeiro dia"  
+[mesa01]: https://itxesco.github.io/assets/figuras/pintofscience/pint_0809_principal.jpeg "mesa principal - primeiro dia"  
+[pre02]: https://itxesco.github.io/assets/figuras/pintofscience/pint_0909_pre.jpeg "pré-evento do segundo dia"  
+[mesa02]: https://itxesco.github.io/assets/figuras/pintofscience/pint_0909_principal.jpeg "mesa principal - segundo dia"  
+[pre03]: https://itxesco.github.io/assets/figuras/pintofscience/pint_1009_pre.jpeg "pré-evento do terceiro dia"  
+[mesa03]: https://itxesco.github.io/assets/figuras/pintofscience/pint_1009_principal.jpeg "mesa principal - terceiro dia"  
