@@ -7,9 +7,7 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 
 
 [![pesquisa em historias em quadrinhos][hq]][link_hq] [![oca da ciência na escola][oca_ufsb]][link_oca] [![pesquisa em afrofuturismo nos quadrinhos][afrofut]][link_afro]
-[![pesquisa em RPG e educação][rpg]][link_rpg]
-[![atividades de ensino][scienceitworks]][link_ensino]
-[![pós-graduação][ppger]][link_ppger]
+[![pesquisa em RPG e educação][rpg]][link_rpg] [![atividades de ensino][scienceitworks]][link_ensino] [![pós-graduação][ppger]][link_ppger]
 
 
 
