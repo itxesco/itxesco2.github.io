@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publicações
+title:
 description: Prof. Dr. Francisco Nascimento artigos publicados
 ---
 
