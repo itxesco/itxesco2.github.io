@@ -7,7 +7,12 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
 [![top 5 videos do Pint of Science Brasil][milestone]][link_canal_pint]
 
 
-O **Afrofuturismo** é o maior evento mundial de divulgação científica. Sua primeira edição aconteceu em 2013 na cidade de Londres, organizado por cientistas do _Imperial College_. A proposta do evento é tirar os pesquisadores de dentro dos muros das universidades e institutos de pesquisa, colocando-os para conversar diretamente sobre suas descobertas com as pessoas que se beneficiam de seus trabalhos, ou seja, o público em geral. E que lugar melhor para sentar e conversar abertamente sobre Ciência do que o pub, aquele típico bar inglês?  
+O termo **Afrofuturismo** foi cunhado em 1993 pelo crítico cultural [Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery) no filme [Flame Wars: The Discourse of Cyberculture](https://www.wired.com/1995/01/flame-wars/) ao se referir a "ficção especulativa de assuntos afro-americanos e se refere a preocupações afro-americanas no contexto da tecnocultura do séuclo XX e, de um modo mais geral, a resignificação afro-americana das imagens de tecnologia e aprimorações protéticas futuristicas"[(DERY, 1994 pg. 136)](https://www.jstor.org/stable/20719430?seq=1). De acordo com [Lisa Yaszek](https://www.iac.gatech.edu/people/faculty/yaszek), a definição de Dery para o Afrofuturismo deve ser interpretada em duas partes:
+Primeiramente, o conceito de Afrofuturismo se relaciona de modo próximo com a ficção cinetífica como gênero estético. Entretando, não deve ser pensado como um simples gênero da ficção cientifica, ao contrário, ele é um modo estético muito maior, que abrange diferentes artistas em seus trabalhos em gêneros e mídias , unidos atraves do interesse comum de projetar um futuro negro a partir de experiências diaspóricas (YASZEK, 2006 [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/afrofuturismo/Afrofuturism_science_fiction_and_the_his.pdf))
+
+O **Afrofuturismo** é uma forma de arte, prática e metodológica, que permite a pessoa negra se ver representada em uma visão de futuro, apesar de seu passado e presente angustiante. Ele apela para a estética e ideias da ficção científica para refletir o processo de marginalização da pessoa negra.
+Uma história de 500 anos de colonialismo, racismo e segregação, fez com que o povo Africano em diáspora desenvolvesse uma relação disjunctiva do conceito de "lar", "
+ maior evento mundial de divulgação científica. Sua primeira edição aconteceu em 2013 na cidade de Londres, organizado por cientistas do _Imperial College_. A proposta do evento é tirar os pesquisadores de dentro dos muros das universidades e institutos de pesquisa, colocando-os para conversar diretamente sobre suas descobertas com as pessoas que se beneficiam de seus trabalhos, ou seja, o público em geral. E que lugar melhor para sentar e conversar abertamente sobre Ciência do que o pub, aquele típico bar inglês?  
 
 O ambiente inspirou o nome do evento, já que o Pint corresponde ao copo  (473 mL) onde as bebidas são normalmente servidas por lá. Desse modo, o evento convida o público a tomar um Pint de ciência enquanto saboreiam a sua bebida preferida (seja água, suco, refrigerante ou cerveja).  
 
@@ -34,7 +39,8 @@ Para ver a programação completa do nosso _Pint of Science Bahia_, acesse a pá
 
 Conheça a história completa do Pint of Science [no site oficial](https://pintofscience.com.br/historia/)
 
-Saiba mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro [aqui](https://pintofscience.com.br/equipe/Porto%20Seguro)
+O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realmente imitar a arte, o futuro pertence a Africa e a seus contadores de histórias.
+ mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro [aqui](https://pintofscience.com.br/equipe/Porto%20Seguro)
 
 
 [milestone]: https://itxesco.github.io/assets/figuras/afro/milestone.jpeg  
