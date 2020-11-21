@@ -24,7 +24,7 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/) atuo na linha **I. Relações ét
 
 ##### [Relações de Gênero](itxesco.github.io/pages/genero.html) e [étnico-raciais](itxesco.github.io/pages/etnicoraciais.html) na educação em Ciências
 
-##### [Afrofuturismo](itxesco.github.io/pages/afrofuturismo.html)
+##### [Afrofuturismo](itxesco.github.io/pages/afrofuturism.html)
 
 ---
 #### [Orientações](https://itxesco.github.io/pages/alunos.html)
