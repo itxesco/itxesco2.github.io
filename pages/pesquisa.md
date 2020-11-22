@@ -18,13 +18,13 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/) atuo na linha **I. Relações ét
 
 **Principais Tópicos de Interesse**
 
-##### [Histórias em Quadrinhos de Super-Heróis](https://itxesco.github.io/pages/hq.html)
+##### [Histórias em Quadrinhos de Super-Heróis](/pages/hq.html)
 
-##### [Jogos RPG e Educação](https://itxesco.github.io/pages/rpg.html)
+##### [Jogos RPG e Educação](/pages/rpg.html)
 
-##### [Relações de Gênero](itxesco.github.io/pages/genero.html) e [étnico-raciais](itxesco.github.io/pages/etnicoraciais.html) na educação em Ciências
+##### [Relações de Gênero](/pages/genero.html) e [étnico-raciais](/pages/etnicoraciais.html) na educação em Ciências
 
-##### [Afrofuturismo](itxesco.github.io/pages/afrofuturism.html)
+##### [Afrofuturismo](/pages/afrofuturism.html)
 
 ---
 #### [Orientações](https://itxesco.github.io/pages/alunos.html)
