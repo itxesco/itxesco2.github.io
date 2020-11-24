@@ -7,7 +7,7 @@ title: ISC0462
 #### Agenda do quadrimestre letivo 2020.2  
 
 | Encontro  |  Data  | Tópico |
-|:---: | :--- | ---:|
+|:---: | :--- | :---:|
 |1|14/10	| Apresentação do docente, curso e sistema avaliativo.  As bases físicas da sociedade tecnológica |    
 |2|21/10	| Energia e a Matéria no Universo [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0462/recursos/texto_1_-_O_que__energia.pdf): Big Bang, Evidências científicas do Big Bang (afastamento das galáxias, radiação de fundo, abundância de elementos leves), o universo como um sistema fechado e a consevação de Energia. A primeira Lei da Termodinâmica |  
 |3|28/10	|	 Energia Nuclear e a sociedade tecnológica [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/6._O_que__um_reator_nuclear.pdf): O que é Energia Nuclear? Como funciona um reator nuclear? Avanços tecnológicos pelo domínio da energia nuclear e o desastre de Chernobyl |  
