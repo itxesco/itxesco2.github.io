@@ -9,7 +9,7 @@ title: ISC0180
 
 
 |Encontro | Data  | Tópico | Leitura |
-:---: | :--- |:---: | --- |
+:---: | :---: |:---: | ---: |
 | 1 |13/10	| Acolhimento - Programação oficial da UFSB (não haverá aula) | não há |  
 | 2 |20/10	| Apresentação do estágio; Orientação e discussão sobre a regulação do estágio na UFSB (Resolução 02/2019, Manual do Estágio); Orientação para produção de portfólio | Texto 01 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf) |  
 | 3 |27/10	|	Exibição de documentário e reflexão sobre outras possibilidades de educação escolar:  “Corações e Mentes” capítulos 01 e 02. Orientação leitura | Dayrell: A Escola como Espaço Sócio-Cultural [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/1._Dayrell-1996-Escola-espao-socio-cultural.pdf) |  

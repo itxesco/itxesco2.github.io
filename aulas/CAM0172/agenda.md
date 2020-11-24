@@ -8,7 +8,7 @@ title: CAM0172
 
 
 | Encontro | Data  | Tópico | Leitura |
-| :---: | :--- |:---:| --- |
+| :---: | :--- |:---:| ---: |
 | 1|16/10	| Acolhimento - Programação oficial da UFSB | Texto 01 |
 | 2|23/10	| Delimitação e abrangência do Campo das Ciências: Saberes e práticas | Texto 02 |
 | 3|30/10	|	A construção do conhecimento científico e seu poder transformador | Texto 03 |

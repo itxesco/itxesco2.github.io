@@ -6,7 +6,7 @@ title: PPGER0034
 ---
 
 | Encontro | Data  | Tópico | Leitura |
-| :---: | --- | :---: | ---|
+| :---: | --- | :---: | ---: |
 | 1| 15/10	| Apresentação do professor, Plano de Ensino, metodologia e sistema avaliativo. Leitura do Mundo | Não há |
 | 2| 22/10	| Escolas Transformadoras: Fanon, Freire e  Educação como Prática da Liberdade | Texto 01 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 3| 29/10	|	Gênero, Raça e Identidade  | Texto 02 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
