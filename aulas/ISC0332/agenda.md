@@ -8,9 +8,9 @@ title: ISC0332
 
 
 |Encontro | Data  | Tópico | Leitura |
-:---: | :--- |:---: | ---: |
+:---: | :--- |:---: | :---: |
 | 1 |13/10	| Acolhimento - Programação oficial da UFSB | não há |  
-| 2 |20/10	| Apresentação do programa. Organização das atividades  | Texto 01 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf) |  
+| 2 |20/10	| Apresentação do programa. Organização das atividades  |  [![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "Texto 01") |  
 | 3 |27/10	|	GE#1 | Pesquisa na Internet: Copia/Cola? (SANTOS, p. 268-278) [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/1._Dayrell-1996-Escola-espao-socio-cultural.pdf) |  
 | 4 |03/11	|	 Definição do tema de aula | Bibliografia a ser sugerida, de acordo com o tema [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/Atividade_1_-_Estgio_1.pdf) |  
 | 5 |10/11	|	GE#2 | Texto [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/09_observacaoregistroreflexao.pdf) |  
