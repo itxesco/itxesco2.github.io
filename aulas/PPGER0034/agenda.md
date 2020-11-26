@@ -8,7 +8,7 @@ title: PPGER0034
 | Encontro | Data  | Tópico | Leitura |
 | :---: | --- | :---: | ---: |
 | 1| 15/10	| Apresentação do professor, Plano de Ensino, metodologia e sistema avaliativo. Leitura do Mundo | Não há |
-| 2| 22/10	| Escolas Transformadoras: Fanon, Freire e  Educação como Prática da Liberdade | Texto 01 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
+| 2| 22/10	| Escolas Transformadoras: Fanon, Freire e  Educação como Prática da Liberdade | Texto 01 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) "interesses de pesquisa" |
 | 3| 29/10	|	Gênero, Raça e Identidade  | Texto 02 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 4| 05/11	|	Sexualidade, Diversidade e Educação | Texto 03  [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 5| 12/11	| As Duas Culturas e a Alegria na Escola: transdisciplinaridade no ensino de Ciências e Humanidades | Texto 04 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
