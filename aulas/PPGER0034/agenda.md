@@ -5,11 +5,10 @@ title: PPGER0034
 #### Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades - Agenda do quadrimestre letivo 2020.2
 ---
 
-
 | Encontro | Data  | Tópico | Leitura |
 | :---: | --- | :---: | ---: |
-| 1| 15/10	| Apresentação do professor, Plano de Ensino, metodologia e sistema de avaliação. Leitura do Mundo | ---- |
-| 2| 22/10	| Escolas Transformadoras: Fanon, Freire e  Educação como Prática da Liberdade | Texto 01 [![pdf][duas_culturas] |
+| 1| 15/10	| Apresentação do professor, Plano de Ensino, metodologia e sistema avaliativo. Leitura do Mundo | Não há |
+| 2| 22/10	| Escolas Transformadoras: Fanon, Freire e  Educação como Prática da Liberdade | Texto 01 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 3| 29/10	|	Gênero, Raça e Identidade  | Texto 02 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 4| 05/11	|	Sexualidade, Diversidade e Educação | Texto 03  [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
 | 5| 12/11	| As Duas Culturas e a Alegria na Escola: transdisciplinaridade no ensino de Ciências e Humanidades | Texto 04 [ ![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf) |
@@ -28,6 +27,3 @@ title: PPGER0034
 ---
 [sobre a Componente Curricular](index.html)  
 [programa](programa.html)
-
-[pdf]: http://itxesco.github.io/pages/icons16/pdf-icon.png
-[duas_culturas]: http://itxesco.github.io/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf "AS DUAS CULTURAS E OS REFLEXOS NO MUNDO ATUAL NAS CIÊNCIAS E NA CIÊNCIA DA INFORMAÇÃO"
