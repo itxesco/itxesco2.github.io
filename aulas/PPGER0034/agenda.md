@@ -4,6 +4,7 @@ title: PPGER0034
 ---
 #### Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades - Agenda do quadrimestre letivo 2020.2
 ---
+[![pdf](/pages/icons16/pdf-icon.png)](/aulas/PPGER0034/textos/PINHEIROEnancib2011b.pdf "clique aqui")
 
 | Encontro | Data  | Tópico | Leitura |
 | :---: | --- | :---: | ---: |
