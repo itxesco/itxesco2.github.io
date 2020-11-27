@@ -3,6 +3,10 @@ layout: page
 title: CAM0172 - Campo das Ciências - Saberes e Práticas (FG)
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
+- [agenda](https://itxesco.github.io/aulas/CAM0172/agenda.html)
+- [programa](https://itxesco.github.io/aulas/CAM0172/programa.html)
+- [roteiros](https://itxesco.github.io/aulas/CAM0172/teste.html)  
+
 
 Apresentação dos campos das Ciências aqui consideradas: Ciências exatas e da terra, Biológicas, Engenharias, Agrárias e Ambientais; seus métodos e práticas. Análise comparativa. História do campo. Visão panorâmica da área. Carreiras e Profissões. Regulação das práticas profissionais. Serão abordados a definição de Ciência e o Método Científico, para se debater a atividade do profissional de Ciências, os saberes e práticas do campo das Ciências na investigação e solução de problemas em nosso território.
 
@@ -23,9 +27,6 @@ Apresentação dos campos das Ciências aqui consideradas: Ciências exatas e da
 deve ser agendado pelo servidor da Componente no Discord e irão ocorrer nas sextas-feiras 13:30-16:30 </p>
 <br/>
 
-Outros links de interesse para esta Componente Curricular:  <br/>
-
-  <a href="agenda.html">agenda do quadrimestre</a><br/>
 </div>
             <div class="span2">
                      <a href="https://youtu.be/5qap5aO4i9A" target="_blank">
