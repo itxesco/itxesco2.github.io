@@ -40,14 +40,14 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="misc"></a>Componentes da Pós-Graduação
+#### <a name="shortcourses"></a>Componentes da Pós-Graduação
 
 ---
 
 ##### PPGER0034 - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/aulas/PPGER0034/index.html)
 
 ---
-##### <a name="shortcourses"></a> já ministrados em outras Instituições
+##### <a name="misc"></a> já ministrados em outras Instituições
 
 ---
 
