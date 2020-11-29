@@ -16,7 +16,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 </div>
 
 
-#### <a name="current"></a>Componentes Curriculares - Quadrimestre 2020.2
+#### <a name="current"></a>no Quadrimestre 2020.2
 
 ---
 
@@ -26,7 +26,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="old"></a>outros quadrimestres
+#### <a name="old"></a>em outros quadrimestres
 
 ---
 | Ensino | Física Básica |
@@ -34,7 +34,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 | **ISC0222** - [Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html) | **ISC0204** - [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html) |
 | **ISC0213** - [Cálculo Univariado - Funções e Variações](https://itxesco.github.io/aulas/ISC0213/index.html) |  **ISC0313** - [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html) |  
 |**ISC0302** - [Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html) | **ISC0528** - [Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html) |
-|**ISC0528** - [Cálculo Multivariado: Funções e Variações](https://itxesco.github.io/aulas/ISC0221/index.html)| **ISC0312** - [Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html) | 
+|**ISC0528** - [Cálculo Multivariado: Funções e Variações](https://itxesco.github.io/aulas/ISC0221/index.html)| **ISC0312** - [Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html) |
 
 
 ---
@@ -50,7 +50,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
+##### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
 
 Física Teórica (EM integrado) |  Física Experimental (EM integrado)
 ---|---:
@@ -60,7 +60,7 @@ Mecânica dos Sólidos e Fluídos | Política e Estrutura de Ensino no Brasil
 Oficinas de Projeto de Ensino I |Fundamentos da Física para Estruturas
 
 
-#### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
+##### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
 
 Estatística Aplicada | Algebra Linear e Vetores
@@ -71,7 +71,7 @@ Equações Diferenciais | Mecânica Geral
 Cálculo Diferencial | Cálculo Integral
 
 
-#### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
+##### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
 Laboratório de Física Experimental 1 | Conteúdos e Práticas de Ciências I
 --|--
@@ -81,7 +81,7 @@ Laboratório de Física Experimental 4 | Educação, Saúde e Meio Ambiente II
 
 
 ---  
-#### Ensino Médio (2006 - 2016)
+##### Ensino Médio (2006 - 2016)
 
 Para turmas de ensino médio regular, técnico e EJA das redes pública e particular de São Paulo (SP):
 
@@ -89,7 +89,7 @@ Para turmas de ensino médio regular, técnico e EJA das redes pública e partic
 - Física
 
 
-#### Ensino Fundamental (2004 - 2016)
+##### Ensino Fundamental (2004 - 2016)
 
 Para escolas das redes pública e particular de São Paulo (SP):
 
