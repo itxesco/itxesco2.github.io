@@ -4,12 +4,6 @@ title: sobre
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
 
-<div class="span2">
-<a href="../assets/pics/karl_2014-03-30.jpg">
-    <img src="../assets/fotos/eu_2020-10-03_small.jpg"
-          title="Francisco Nascimento" alt="Francisco Nascimento"/></a>
-</div>
-
 Sou professor adjunto do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB); onde atuo na formação de professores e ensino de ciências. Pesquiso em estudos culturais na educação em ciências, com foco no diálogo entre as relações de gênero/étnico-raciais e a ciência nas Histórias em Quadrinhos, Jogos de RPG e outros elementos da cultura dos super-heróis.
 
 **Formação Acadêmica**
@@ -23,16 +17,15 @@ Licenciado em Física pelo [Instituto de Física](http://portal.if.usp.br/ifusp/
 Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Humanidades da USP (EACH)](http://www5.each.usp.br/) e do projeto Banca da Ciência.
 
 
-[lattes![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/lattes_pdf.pdf) [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184)
-|[orcid](https://orcid.org): [0000-0003-0587-8392](https://orcid.org/0000-0003-0587-8392) |  
-|:---:|:---:|  
-| [google scholar](https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en) |  [academia.edu](https://ufsb.academia.edu/FranciscoNascimento) |   
-[researchgate](https://www.researchgate.net/profile/Francisco_Nascimento24) | | [sigaA](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938)|  
+[lattes![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/lattes_pdf.pdf) [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184)<br/>
+[orcid](https://orcid.org): [0000-0003-0587-8392](https://orcid.org/0000-0003-0587-8392)<br/>
+[google scholar](https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en)<br/>
+[academia.edu](https://ufsb.academia.edu/FranciscoNascimento)<br/>
+[researchgate](https://www.researchgate.net/profile/Francisco_Nascimento24)<br/>
 <!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
-
-
-[instagram](https://www.instagram.com/itxesco)
-[twitter](https://twitter.com/itxesco)
+[sigaA](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938) <br/>
+[instagram](https://www.instagram.com/itxesco) <br/>
+[twitter](https://twitter.com/itxesco)  
 [goodreads](https://www.goodreads.com/user/show/51497119-francisco-nascimento)  
 homem cisgênero  
 ele/dele
@@ -58,6 +51,10 @@ ele/dele
             </div>
         </div>
 
-
+        <div class="span2">
+        <a href="../assets/pics/karl_2014-03-30.jpg">
+            <img src="../assets/fotos/eu_2020-10-03_small.jpg"
+                  title="Francisco Nascimento" alt="Francisco Nascimento"/></a>
+        </div>
     </div>
 </div>
