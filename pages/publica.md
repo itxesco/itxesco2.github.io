@@ -19,7 +19,7 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 #### 2017
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis?. CULTURAS MIDIÁTICAS, v. 10, p. 239-255, 2017. [![doi](icons16/doi-icon.png)](http://dx.doi.org/10.22478/ufpb.1983-5930.2017v10n2.37669)
-[![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/articles/37669-Textodoartigo-88393-1-10-20171226.pdf)
+[![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/articles/artigo_supermen_of_america.pdf)
 
 
 BARROS, N. R. ; **NASCIMENTO JUNIOR, F. A.** ; PIASSI, L. P. C. . O Funk e o Rock nas estrelas: uma oficina para o ensino de astronomia. REVISTA INTERFACES, v. 5, p. 247-256, 2017. [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/articles/20170705174923.pdf)
@@ -40,7 +40,7 @@ Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores:
 
 ---
 
-**NASCIMENTO, F.**; PIASSI, L. P. C. . Questões de Gênero: dos Quadrinhos de Super-Heróis para as aulas de Física. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/anais/QuestesdeGnero-dosquadrinhosdesuper-herisparaasaulasdefsica)
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Questões de Gênero: dos Quadrinhos de Super-Heróis para as aulas de Física. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/anais/snef2017.pdf)
 
 Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . FÍSICA E CINEMA: UMA OFICINA SOBRE
 SEMICONDUTORES COM O USO DO FILME BATMAN, O CAVALEIRO DAS TREVAS. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/anais/oficinabatman.pdf)

@@ -16,7 +16,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 </div>
 
 
-#### <a name="current"></a>Componentes Curriculares - Quadrimestre 2020.2
+#### <a name="current"></a>no Quadrimestre 2020.2
 
 ---
 
@@ -26,7 +26,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="old"></a>outros quadrimestres
+#### <a name="old"></a>em outros quadrimestres
 
 ---
 
@@ -51,7 +51,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
+##### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
 
 Física Teórica (EM integrado) |  Física Experimental (EM integrado)
 ---|---:
@@ -61,7 +61,7 @@ Mecânica dos Sólidos e Fluídos | Política e Estrutura de Ensino no Brasil
 Oficinas de Projeto de Ensino I |Fundamentos da Física para Estruturas
 
 
-#### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
+##### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
 
 Estatística Aplicada | Algebra Linear e Vetores
@@ -72,7 +72,7 @@ Equações Diferenciais | Mecânica Geral
 Cálculo Diferencial | Cálculo Integral
 
 
-#### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
+##### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
 Laboratório de Física Experimental 1 | Conteúdos e Práticas de Ciências I
 --|--
@@ -82,7 +82,7 @@ Laboratório de Física Experimental 4 | Educação, Saúde e Meio Ambiente II
 
 
 ---  
-#### Ensino Médio (2006 - 2016)
+##### Ensino Médio (2006 - 2016)
 
 Para turmas de ensino médio regular, técnico e EJA das redes pública e particular de São Paulo (SP):
 
@@ -90,7 +90,7 @@ Para turmas de ensino médio regular, técnico e EJA das redes pública e partic
 - Física
 
 
-#### Ensino Fundamental (2004 - 2016)
+##### Ensino Fundamental (2004 - 2016)
 
 Para escolas das redes pública e particular de São Paulo (SP):
 
