@@ -6,7 +6,6 @@ title: ISC0462
 ---
 #### Agenda do quadrimestre letivo 2020.2  
 
-[![texto][pdf]][2]
 
 | Encontro  |  Data  | Tópico |  Leitura  |
 |:---: | :--- | :---:| :---:|
