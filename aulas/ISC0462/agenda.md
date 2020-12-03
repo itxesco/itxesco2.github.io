@@ -14,7 +14,7 @@ title: ISC0462
 |4|04/11	|	 desastres radiológicos e alternativas: o desastre radiológico de goiânia, o acidente de Three mile Island em 1979, Fukushima | [![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/2.Morte_invisvel-_a_tragdia_de_Chernobyl_.pdf "A tragédia de Chernobyl") [![pdf](/pages/icons16/pdf-icon.png)](/aulas/ISC0180/recursos/3._O_que_ocorreria_se_houvesse_um_acidente_nuclear_nas_usinas_de_Angra.pdf "o que ocorreria se houvesse um acidente nuclear nas usinas de Angra?") |  
 |5|11/11	|	A Física de Partículas e as grandes Energias: do que somos feitos? O que são as partículas elementares? Como funciona um acelerador de partículas? O Brasil e a física de partículas O CERN e sua importância para a sociedade tecnológica (descobertas) | ----- |  
 |6|18/11	|	Energia e História da Sociedade | -----|
-|7|25/11	|	  É possível obter energia Ilimitada? | -----|
+|7|25/11	|	  É possível obter energia Ilimitada? | [![pdf](/pages/icons16/pdf-icon.png)](aulas/ISC0462/recursos/DICAS_SOBRE_COMO_ESCREVER_UM_ENSAIO.pdf "dicas sobre como escrever um ensaio acadêmico") [![pdf](/pages/icons16/pdf-icon.png)](aulas/ISC0462/recursos/Orientações_para_o_Ensaio_Acadêmico.pdf "Orientações para o ensaio acadêmico")|
 |8|02/12	|	  Calor e Energia | -----|
 |9|09/12	|	apresentação de seminários | -----|
 |10|16/12	|	 apresentação de seminários | -----|
