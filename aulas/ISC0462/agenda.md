@@ -31,9 +31,9 @@ title: ISC0462
 
 [pdf]: [pdf]: https://itxesco.github.io/pages/icons16/pdf-icon.png  
 [1]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "Plano de Aula"  
-[2]: https://itxesco.github.io/aulas/ISC0462/recursos/texto_1_-_O_que__energia.pdf "O que é Energia")  
-[3]: https://itxesco.github.io/aulas/ISC0180/recursos/6._O_que__um_reator_nuclear.pdf "O que é um reator nuclear")  
-[4]: https://itxesco.github.io/aulas/ISC0180/recursos/2.Morte_invisvel-_a_tragdia_de_Chernobyl_.pdf "A tragédia de Chernobyl")  
-[5]: https://itxesco.github.io/aulas/ISC0180/recursos/3._O_que_ocorreria_se_houvesse_um_acidente_nuclear_nas_usinas_de_Angra.pdf "o que ocorreria se houvesse um acidente nuclear nas usinas de Angra?"  
-[6]: https://itxesco.github.io/aulas/ISC0462/recursos/DICAS_SOBRE_COMO_ESCREVER_UM_ENSAIO.pdf "dicas sobre como escrever um ensaio acadêmico"  
-[7]: https://itxesco.github.io/aulas/ISC0462/recursos/Orientações_para_o_Ensaio_Acadêmico.pdf "Orientações para o ensaio acadêmico"  
+[2]: https://itxesco.github.io/aulas/ISC0462/recursos/01.pdf "O que é Energia")  
+[3]: https://itxesco.github.io/aulas/ISC0180/recursos/02.pdf "O que é um reator nuclear")  
+[4]: https://itxesco.github.io/aulas/ISC0180/recursos/03.pdf "A tragédia de Chernobyl")  
+[5]: https://itxesco.github.io/aulas/ISC0180/recursos/04.pdf "o que ocorreria se houvesse um acidente nuclear nas usinas de Angra?"  
+[6]: https://itxesco.github.io/aulas/ISC0462/recursos/05.pdf "dicas sobre como escrever um ensaio acadêmico"  
+[7]: https://itxesco.github.io/aulas/ISC0462/recursos/06.pdf "Orientações para o ensaio acadêmico"  
