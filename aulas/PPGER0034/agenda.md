@@ -9,18 +9,18 @@ title: PPGER0034
 | Encontro | Data  | Tópico | Leitura |
 | :---: | --- | :---: | :---: |
 | 1| 15/10	| Apresentação do professor, Plano de Ensino, metodologia e sistema avaliativo. Leitura do Mundo | Não há |
-| 2| 22/10	| Escolas Transformadoras: Fanon, Freire e  Educação como Prática da Liberdade | [![pdf](/pages/icons16/pdf-icon.png)][1] [![texto][pdf]][2] |
-| 3| 29/10	|	Gênero, Raça e Identidade  | [![pdf](/pages/icons16/pdf-icon.png)][3] |
+| 2| 22/10	| Escolas Transformadoras: Fanon, Freire e  Educação como Prática da Liberdade | [![texto][pdf]][1] [![texto][pdf]][2] |
+| 3| 29/10	|	Gênero, Raça e Identidade  | [![texto][pdf]][3] |
 | 4| 05/11	|	Sexualidade, Diversidade e Educação | [![pdf](/pages/icons16/pdf-icon.png)][4] |
-| 5| 12/11	| As Duas Culturas e a Alegria na Escola: transdisciplinaridade no ensino de Ciências e Humanidades | [![pdf](/pages/icons16/pdf-icon.png)][5] |
-| 6| 19/11	|	A Ficção Científica e a Pedagogia da Mídia | [![pdf](/pages/icons16/pdf-icon.png)][6] |
-| 7| 26/11	|	A Cultura dos Super-Heróis | [![pdf](/pages/icons16/pdf-icon.png)][7] |
-| 8| 03/12	|	para assistir aos desenhos da Disney  | [![pdf](/pages/icons16/pdf-icon.png)][8] [![pdf](/pages/icons16/pdf-icon.png)][9] [![pdf](/pages/icons16/pdf-icon.png)][10] |
-| 9| 10/12	|	O mundo dominado pelos Robôs | [![pdf](/pages/icons16/pdf-icon.png)][11] [![pdf](/pages/icons16/pdf-icon.png)][12] [![pdf](/pages/icons16/pdf-icon.png)][13] |
-| 10|17/12	|	 Histórias em Quadrinhos e Comunicação de massa| [![pdf](/pages/icons16/pdf-icon.png)][14] [![pdf](/pages/icons16/pdf-icon.png)][15] [![pdf](/pages/icons16/pdf-icon.png)][16] [![pdf](/pages/icons16/pdf-icon.png)][17] [![pdf](/pages/icons16/pdf-icon.png)][18] |
+| 5| 12/11	| As Duas Culturas e a Alegria na Escola: transdisciplinaridade no ensino de Ciências e Humanidades | [![texto][pdf]][5] |
+| 6| 19/11	|	A Ficção Científica e a Pedagogia da Mídia | [![texto][pdf]][6] |
+| 7| 26/11	|	A Cultura dos Super-Heróis | [![texto][pdf]][7] |
+| 8| 03/12	|	para assistir aos desenhos da Disney  | [![texto][pdf]][8] [![texto][pdf]][9] [![texto][pdf]][10] |
+| 9| 10/12	|	O mundo dominado pelos Robôs | [![texto][pdf]][11] [![texto][pdf]][12] [![texto][pdf]][13] |
+| 10|17/12	|	 Histórias em Quadrinhos e Comunicação de massa| [![texto][pdf]][14] [![texto][pdf]][15] [![texto][pdf]][16] [![texto][pdf]][17] [![texto][pdf]][18] |
 | 0 |21/12	| **início do recesso de fim de ano - interrupção do curso (2020)** | ----- |
 | 0 |25/01 | **fim do recesso - retorno  (2021)** | ----- |
-| 11|28/01	|	 Educação Científica: raça, cultura e identidade| [![pdf](/pages/icons16/pdf-icon.png)][19] [![pdf](/pages/icons16/pdf-icon.png)][20] |
+| 11|28/01	|	 Educação Científica: raça, cultura e identidade| [![texto][pdf]][19] [![texto][pdf]][20] |
 | 12|04/02	|	 entrega do artigo  final e devolutivas. Confraternização  | ---- |
 
 #####  06/02		Fim do Quadrimestre letivo 2020.2 - Encerramento do Curso.
