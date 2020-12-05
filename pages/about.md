@@ -16,10 +16,8 @@ Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Hum
 ---
 **Formação Acadêmica**
 
-Doutor em Educação - [Faculdade de Educação da USP](http://www4.fe.usp.br/) (2017)
-
+> Doutor em Educação - [Faculdade de Educação da USP](http://www4.fe.usp.br/) (2017)
 Mestre em Ensino de Ciências (modalidade Física) - [Instituto de Física da USP](http://portal.if.usp.br/cpgi/) (2013)
-
 Licenciado em Física - [Instituto de Física](http://portal.if.usp.br/ifusp/) da [USP](https://www5.usp.br/)	(2009)
 
   ---
