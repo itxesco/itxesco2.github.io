@@ -3,9 +3,8 @@ layout: page
 title: Estágio Supervisionado IV para LICNT
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
-- [agenda](https://itxesco.github.io/aulas/ISC0332/agenda.html)
+>- [agenda](https://itxesco.github.io/aulas/ISC0332/agenda.html)
 - [programa](https://itxesco.github.io/aulas/ISC0332/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0332/teste.html)  
 
 
 Este curso dá prosseguimento as experiências de ensino/aprendizagem iniciadas no [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0204/index.html).

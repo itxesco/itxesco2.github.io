@@ -3,9 +3,8 @@ layout: page
 title: ISC0462 - Sociedade Tecnológica e Matrizes Energéticas
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
-- [agenda](https://itxesco.github.io/aulas/ISC0462/agenda.html)
+>- [agenda](https://itxesco.github.io/aulas/ISC0462/agenda.html)
 - [programa](https://itxesco.github.io/aulas/ISC0462/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/ISC0462/teste.html)  
 
 
 Somos a geração com maior ânsia por energia que já existiu e, neste curso, tentaremos entender um pouco mais a este respeito: abordaremos as bases físicas da sociedade tecnológica: eletromagnéticas, quânticas e relativísticas. Dispositivos eletrônicos. Óptica moderna e fotônica. Geração e transmissão de energia elétrica. Usinas termoelétricas, hidroelétricas e nucleares. Geração de energia por combustíveis fósseis. Gases: Variáveis de estado, Leis de Boyle, Charles e Gay-Lussac, Lei do gás ideal. Leis das Transformações Químicas: Lei de Lavoisier, Lei de Proust, Leis de Dalton. O conceito de energia limpa. Geração de energia elétrica por fontes renováveis: eólicas, oceânicas e solares. Aspectos históricos, econômicos e sociais associados à geração e ao uso de energia no planeta, bem como as implicações destes aspectos para o ensino de Ciências da Natureza e suas tecnologias.

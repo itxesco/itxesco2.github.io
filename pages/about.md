@@ -5,7 +5,7 @@ description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus
 ---
 
 <div class="span2">
-<a href="../assets/pics/karl_2014-03-30.jpg">
+<a href="../assets/fotos/eu.jpg">
     <img src="../assets/fotos/eu_2020-10-03_small.jpg"
           title="Francisco Nascimento" alt="Francisco Nascimento"/></a>
 </div>

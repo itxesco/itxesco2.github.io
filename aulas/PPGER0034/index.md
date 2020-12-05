@@ -1,11 +1,10 @@
 ---
 layout: page
-title: PPGER0034 - EDUCAÇÃO CIENTÍFICA, CULTURA E SOCIEDADE: IMPLICAÇÕES PARA O ENSINO DE CIÊNCIAS E HUMANIDADES
+title: PPGER0034 - EDUCAÇÃO CIENTÍFICA, CULTURA E SOCIEDADE: IMPLICAÇÕES PARA O ENSINO DE CIÊNCIAS E HUMANIDADES  
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
-- [agenda](https://itxesco.github.io/aulas/PPGER0034/agenda.html)
+>- [agenda](https://itxesco.github.io/aulas/PPGER0034/agenda.html)
 - [programa](https://itxesco.github.io/aulas/PPGER0034/programa.html)
-- [roteiros](https://itxesco.github.io/aulas/PPGER0034/teste.html)  
 
 
 Esta componente mobiliza de forma interdisciplinar diversas áreas do conhecimento em torno do diálogo entre a questão étnico-racial e o conhecimento científico. Com o objetivo de proporcionar aos estudantes uma formação crítico-analítica, promove um debate acerca das diversas representações dialógicas presentes na mídia de massa destinada ao público jovem (cinema, séries televisivas, animações e histórias em quadrinhos), notadamente aquelas relacionadas à cultura de super-heróis. Seu propósito é discutir os principais elementos desta cultura, sob a ótica das relações étnico-raciais, através de uma análise semiótico-discursiva da indústria cultural, focando na  influência que exerce na formação da identidade do sujeito através das representações dialógicas raça/Ciência presente em seus produtos, cuja consequência para as práticas de ensino/aprendizagem de Ciências e Humanidades é  um ponto de estudo fundamental na formação de educadores.
