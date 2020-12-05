@@ -23,16 +23,15 @@ Licenciado em Física pelo [Instituto de Física](http://portal.if.usp.br/ifusp/
 Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Humanidades da USP (EACH)](http://www5.each.usp.br/) e do projeto Banca da Ciência.
 
 
-[lattes![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/lattes_pdf.pdf) [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184)
-|[orcid](https://orcid.org): [0000-0003-0587-8392](https://orcid.org/0000-0003-0587-8392) |  
-|:---:|:---:|  
+| [lattes![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184)
+|  ![orcid](icons16/orcid-icon.png) [0000-0003-0587-8392](https://orcid.org/0000-0003-0587-8392) |      
 | [google scholar](https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en) |  [academia.edu](https://ufsb.academia.edu/FranciscoNascimento) |   
-[researchgate](https://www.researchgate.net/profile/Francisco_Nascimento24) | | [sigaA](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938)|  
+| [researchgate](https://www.researchgate.net/profile/Francisco_Nascimento24) | [sigaA](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938)|  
 <!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
 
 
-[instagram](https://www.instagram.com/itxesco)
-[twitter](https://twitter.com/itxesco)
+[instagram](https://www.instagram.com/itxesco) |
+[twitter](https://twitter.com/itxesco) |
 [goodreads](https://www.goodreads.com/user/show/51497119-francisco-nascimento)  
 homem cisgênero  
 ele/dele
