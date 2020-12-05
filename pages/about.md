@@ -11,16 +11,19 @@ description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus
 </div>
 
 Sou professor adjunto do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB); onde atuo na formação de professores e ensino de ciências. Pesquiso em estudos culturais na educação em ciências, com foco no diálogo entre as relações de gênero/étnico-raciais e a ciência nas Histórias em Quadrinhos, Jogos de RPG e outros elementos da cultura dos super-heróis.
+Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Humanidades da USP (EACH)](http://www5.each.usp.br/) e do projeto Banca da Ciência.
 
+---
 **Formação Acadêmica**
 
-Doutor em Educação pela [Faculdade de Educação da USP](http://www4.fe.usp.br/) (2017)
+Doutor em Educação - [Faculdade de Educação da USP](http://www4.fe.usp.br/) (2017)
 
-Mestre em Ensino de Ciências (modalidade Física) pelo [Instituto de Física da USP](http://portal.if.usp.br/cpgi/) (2013)
+Mestre em Ensino de Ciências (modalidade Física) - [Instituto de Física da USP](http://portal.if.usp.br/cpgi/) (2013)
 
-Licenciado em Física pelo [Instituto de Física](http://portal.if.usp.br/ifusp/) da [USP](https://www5.usp.br/)	(2009)
+Licenciado em Física - [Instituto de Física](http://portal.if.usp.br/ifusp/) da [USP](https://www5.usp.br/)	(2009)
 
-Sou membro do grupo de pesquisas INTERFACES da [Escola de Artes, Ciências e Humanidades da USP (EACH)](http://www5.each.usp.br/) e do projeto Banca da Ciência.
+  ---
+
 
 
 | [lattes![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184)
