@@ -23,7 +23,7 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/) atuo na linha **I. Relações ét
 
 ![rpg](icons16/rpg-icon.png)[ Jogos RPG e Educação](/pages/rpg.html)
 
-##### [Relações de Gênero](/pages/genero.html) e [étnico-raciais](/pages/etnicoraciais.html) na educação em Ciências
+![gênero](icons16/gender-icon.png)[ Relações de Gênero](/pages/genero.html) e [étnico-raciais](/pages/etnicoraciais.html) na educação em Ciências
 
 ![afrofuturismo](icons16/afrofuturismo-icon.png)[ Afrofuturismo](/pages/afrofuturism.html)
 
