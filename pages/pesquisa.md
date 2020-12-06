@@ -21,11 +21,11 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/) atuo na linha **I. Relações ét
 
 ##### [Histórias em Quadrinhos de Super-Heróis](/pages/hq.html)
 
-##### [Jogos RPG e Educação](/pages/rpg.html)
+![rpg](icons16/rpg-icon.png)[ Jogos RPG e Educação](/pages/rpg.html)
 
 ##### [Relações de Gênero](/pages/genero.html) e [étnico-raciais](/pages/etnicoraciais.html) na educação em Ciências
 
-##### [Afrofuturismo](/pages/afrofuturism.html)
+![afrofuturismo](icons16/afrofuturismo-icon.png)[ Afrofuturismo](/pages/afrofuturism.html)
 
 ---
 #### [Orientações](https://itxesco.github.io/pages/alunos.html)
