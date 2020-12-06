@@ -17,14 +17,12 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/) atuo na linha **I. Relações ét
 
 ---
 
-**Principais Tópicos de Interesse**
+**Principais Tópicos de Interesse na Educação em Ciências**
 
-##### [Histórias em Quadrinhos de Super-Heróis](/pages/hq.html)
-
-![rpg](icons16/rpg-icon.png)[ Jogos RPG e Educação](/pages/rpg.html)
-
-![gênero](icons16/gender-icon.png)[ Relações de Gênero](/pages/genero.html) e [étnico-raciais](/pages/etnicoraciais.html) na educação em Ciências
-
+![Hq](icons16/comics-icon.png)[ Histórias em Quadrinhos de Super-Heróis](/pages/hq.html)  
+![rpg](icons16/rpg-icon.png)[ Jogos RPG e Educação](/pages/rpg.html)  
+![gênero](icons16/gender-icon.png)[ Relações de Gênero](/pages/genero.html)  
+![étnico-raciais](icons16/etnicoraciais-icon.png)[ Relações Étnico-Raciais](/pages/etnicoraciais.html)  
 ![afrofuturismo](icons16/afrofuturismo-icon.png)[ Afrofuturismo](/pages/afrofuturism.html)
 
 ---
@@ -44,10 +42,10 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/) atuo na linha **I. Relações ét
 
 **Iniciação Científica**:
 
-[![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") Vitor Correa Bomfim
+![lattes](icons16/lattes-icon.png) Vitor Correa Bomfim (2019-2020)
 
-[![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/0441717524768073) Vitória Guimarães Dantas  
+[![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/0441717524768073) Vitória Guimarães Dantas (2019-2020)  
 
-[![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/5977115182619808) Carleane Nunes Borges
+[![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/5977115182619808) Carleane Nunes Borges (2020)
 
-[![lattes](icons16/lattes-icon.png)]("{{ BASE_PATH }}/assets/articles/5872-19839-2-PB_1.pdf") Bruna Bonfim Caldas   
+[![lattes](icons16/lattes-icon.png) Bruna Bonfim Caldas (2020)   
