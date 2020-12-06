@@ -43,18 +43,18 @@ Licenciado em Física - [Instituto de Física](http://portal.if.usp.br/ifusp/)	(
 
 ---
 
-![correio](icons16/correio-icon.png)[ **Endereço Profissional**]  
+![correio](icons16/correio-icon.png) **Endereço Profissional**  
 
 
-            ![UFSB](icons16/ufsb-icon.jpg)[ Universidade Federal do Sul da Bahia - Campus Sosígenes Costa](https://ufsb.edu.br)  
-            [Instituto de Humanidades, Artes e Ciências - IHAC](https://www.ufsb.edu.br/ihac/ihac-csc)  
-            A/C  Prof. Dr. Francisco Nascimento  
-            S/n Rodovia BR-367 Km 10 Zona Rural  
-            Porto Seguro - BA, 45810-000  
-            BR  
+  ![UFSB](icons16/ufsb-icon.jpg)[ Universidade Federal do Sul da Bahia - Campus Sosígenes Costa](https://ufsb.edu.br)  
+  [Instituto de Humanidades, Artes e Ciências - IHAC](https://www.ufsb.edu.br/ihac/ihac-csc)  
+  A/C  Prof. Dr. Francisco Nascimento  
+  S/n Rodovia BR-367 Km 10 Zona Rural  
+  Porto Seguro - BA, 45810-000  
+  BR  
 
 
-           <div id="hide_email">
+  <div id="hide_email">
             <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;">&#102;&#114;&#97;&#110;&#99;&#105;&#115;&#99;&#111;&#46;&#97;&#115;&#115;&#105;&#115;&#64;&#103;&#102;&#101;&#46;&#117;&#102;&#115;&#98;&#46;&#101;&#100;&#117;&#46;&#98;&#114;</a>
-          <p>  Fone: (73) 3288-8400 (Secretaria Executiva do IHAC - CSC) </p>
             </div>
+          <p>  ![Fone:](icons16/phone-icon.png)[(73) 3288-8400] (Secretaria Executiva do IHAC - CSC) </p>
