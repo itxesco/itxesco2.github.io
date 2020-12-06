@@ -24,16 +24,17 @@ Licenciado em Física - [Instituto de Física](http://portal.if.usp.br/ifusp/)	(
 
 
 
-| [![lattes](icons16/lattes-icon.png)][lattes](http://lattes.cnpq.br/1942359141745184)
-|  ![orcid](icons16/orcid-icon.png) [0000-0003-0587-8392](https://orcid.org/0000-0003-0587-8392) |      
-|  ![google scholar](icons16/google-scholar-icon.png)[google acadêmico](https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en) |  ![academia.edu](icons16/academia-edu-icon.png)[academia.edu](https://ufsb.academia.edu/FranciscoNascimento) |   
-| ![researchgate](icons16/researchgate-icon.png)[researchgate](https://www.researchgate.net/profile/Francisco_Nascimento24) | [sigaA](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938)|  
+
+| ![lattes](icons16/lattes-icon.png)[ lattes](http://lattes.cnpq.br/1942359141745184)
+|  ![orcid](icons16/orcid-icon.png) [0000-0003-0587-8392](https://orcid.org/0000-0003-0587-8392) |  
+|  ![google scholar](icons16/google-scholar-icon.png)[ google acadêmico](https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en) |  ![academia.edu](icons16/academia-edu-icon.png)[ academia.edu](https://ufsb.academia.edu/FranciscoNascimento) |   
+| ![researchgate](icons16/researchgate-icon.png)[ researchgate](https://www.researchgate.net/profile/Francisco_Nascimento24) | ![sigaA](icons16/ufsb-icon.jpg)[ SigaA](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938)|  
 <!-- [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/> -->
 
 
-![instagram](icons16/instagram-icon.png)[instagram](https://www.instagram.com/itxesco) |
-![twitter](icons16/twitter-icon.png)[twitter](https://twitter.com/itxesco) |
-![goodreads](icons16/goodreads-icon.png)[goodreads](https://www.goodreads.com/user/show/51497119-francisco-nascimento)  
+![instagram](icons16/instagram-icon.png)[ instagram](https://www.instagram.com/itxesco) |
+![twitter](icons16/twitter-icon.png)[ twitter](https://twitter.com/itxesco) |
+![goodreads](icons16/goodreads-icon.png)[ goodreads](https://www.goodreads.com/user/show/51497119-francisco-nascimento)  
 homem cisgênero  
 ele/dele
 
