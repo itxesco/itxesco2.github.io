@@ -20,7 +20,7 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 [scienceitworks]: https://itxesco.github.io/assets/index_pics/scienceitworks.jpg
 [link_ensino]: https://itxesco.github.io/pages/ensino.html "atividades de ensino"
 [oca_ufsb]: https://itxesco.github.io/assets/index_pics/oca_ufsb.jpg
-[link_oca]: https://itxesco.github.io/pages/extensao.html " Atividades de Extensão"
+[link_oca]: https://itxesco.github.io/pages/extensao.html " atividades de extensão"
 [rpg]: https://itxesco.github.io/assets/index_pics/dragon_feynman.jpg
 [link_rpg]: https://itxesco.github.io/pages/about.html "sobre"
 
