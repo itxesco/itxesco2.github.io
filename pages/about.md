@@ -16,7 +16,7 @@ homem cisgênero
 ele/dele  
 
 ---
-[![usp](icons16/usp-icon.png)](https://www5.usp.br/) **Formação Acadêmica**
+ **Formação Acadêmica** [![usp](icons16/usp-icon.png)](https://www5.usp.br/)
 
 > Doutor em Educação - [Faculdade de Educação](http://www4.fe.usp.br/)  (2017)  
 Mestre em Ensino de Ciências (modalidade Física) - [Instituto de Física](http://portal.if.usp.br/cpgi/) (2013)  
