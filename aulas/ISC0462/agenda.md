@@ -9,7 +9,7 @@ title: ISC0462
 
 | Encontro  |  Data  | Tópico |  Leitura  |
 |:---: | :--- | :---:| :---:|
-|1|14/10	| Apresentação do docente, curso e sistema avaliativo.  As bases físicas da sociedade tecnológica | [![texto][pdf]][1] |
+|1|14/10	| Apresentação do docente, curso e sistema de avaliação.  As bases físicas da sociedade tecnológica | [![texto][pdf]][1] |
 |2|21/10	| Energia e a Matéria no Universo: Big Bang, Evidências científicas do Big Bang (afastamento das galáxias, radiação de fundo, abundância de elementos leves), o universo como um sistema fechado e a conservação de Energia. A primeira Lei da Termodinâmica | [![texto][pdf]][2] |  
 |3|28/10	|	 Energia Nuclear e a sociedade tecnológica: O que é Energia Nuclear? Como funciona um reator nuclear? Avanços tecnológicos pelo domínio da energia nuclear e o desastre de Chernobyl | [![texto][pdf]][3] |  
 |4|04/11	|	 desastres radiológicos e alternativas: o desastre radiológico de goiânia, o acidente de Three mile Island em 1979, Fukushima | [![texto][pdf]][4] [![texto][pdf]][5] |  
