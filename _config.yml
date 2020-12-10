@@ -9,12 +9,12 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Prof. Dr. Francisco Nascimento
-author : Francisco de Assis Nascimento Junior
-  name : Francisco de Assis Nascimento Junior
-  email : francisco.assis@gfe.ufsb.edu.br
-  github : itxesco
-  twitter : itxesco
-  feedburner : nil
+author : Prof. Dr. Francisco Nascimento
+name : Prof. Dr. Francisco Nascimento
+email : francisco.assis@gfe.ufsb.edu.br
+github : itxesco
+twitter : itxesco
+feedburner : nil
 
 production_url : https://itxesco.github.io
 

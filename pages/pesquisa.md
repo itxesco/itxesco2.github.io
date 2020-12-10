@@ -49,4 +49,4 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/) atuo na linha
 
 [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/5977115182619808) Carleane Nunes Borges (2020)
 
-[![lattes](icons16/lattes-icon.png) Bruna Bonfim Caldas (2020)   
+![lattes](icons16/lattes-icon.png) Bruna Bonfim Caldas (2020)   
