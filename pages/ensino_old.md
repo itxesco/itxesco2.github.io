@@ -4,7 +4,19 @@ title:
 description: aulas de Francisco de Assis Nascimento Junior
 ---
 
-#### <a name="current"></a>Quadrimestre 2020.2
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#current">atual</a></li>
+            <li><a href="#old">anteriores</a></li>
+            <li><a href="#shortcourses">pós-graduação</a></li>
+            <li><a href="#misc">outras instituições</a></li>
+        </ul>
+    </div>
+</div>
+
+
+#### <a name="current"></a>no Quadrimestre 2020.2
 
 ---
 
@@ -14,7 +26,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="old"></a>outros quadrimestres
+#### <a name="old"></a>em outros quadrimestres
 
 ---
 
