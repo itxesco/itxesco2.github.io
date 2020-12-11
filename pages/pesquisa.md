@@ -12,8 +12,8 @@ Estes personagens evoluíram,  convergindo entre as muitas plataformas de comuni
 
 - Quais os efeitos do consumo da cultura de super-heróis na construção da identidade (racial e de gênero) de seus leitores? E qual o impacto  gerado na relação desenvolvida com a escola,  com o aprender e  fazer  Ciência?
 
-No [PPGER da UFSB](https://ufsb.edu.br/ppger/) atuo na linha  
-**I. Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem**
+No [PPGER da UFSB](https://ufsb.edu.br/ppger/), [Campus Sosígenes Costa](https://www.facebook.com/ufsbcsc), atuo na linha I:
+**Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem**
 
 
 ---
