@@ -4,7 +4,7 @@ title: Afrofuturismo
 description: pesquisa sobre Afrofuturismo
 ---
 
-[![o filme do Pantera Negra][blackpanther]][link_trailer_bp]
+![o livro de Ytasha L. Womack][ytasha1]
 
 
 Em 1993 o filme [Flame Wars: The Discourse of Cyberculture](https://www.wired.com/1995/01/flame-wars/), do crítico cultural [Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery), apresentou o termo **Afrofuturismo**  ao se referir a "ficção especulativa de assuntos afro-americanos, referente às preocupações afro-americanas no contexto da tecnocultura do século XX e, de um modo mais geral, à resignificação afro-americana das imagens de tecnologia e aprimorações protéticas futurísticas"[(DERY, 1994 pg. 136)](https://www.jstor.org/stable/20719430?seq=1).   
@@ -22,7 +22,7 @@ Em seu artigo sobre a definição do **Afrofuturismo**, [Adriano Elia](https://h
 
 O **Afrofuturismo** seria, então, uma forma de arte prática e metodológica, que permite à pessoa negra se ver representada em uma visão de futuro, apesar de seu passado e presente angustiantes,  apelando para a estética e ideias da ficção científica para refletir o processo de marginalização do povo Africano em diáspora, que em sua história de 500 anos de colonialismo, racismo e segregação, desenvolveu uma relação disjunctiva do conceito de "lar".
 
-[![o livro de Ytasha L. Womack][ytasha1]]
+[![o filme do Pantera Negra][blackpanther]][link_trailer_bp]
 
 
 O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realmente imitar a arte, o futuro pertencerá à Africa e a seus contadores de histórias.
