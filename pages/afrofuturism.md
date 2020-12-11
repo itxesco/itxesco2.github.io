@@ -31,4 +31,4 @@ O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realme
 [link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"  
 [milestone]: https://itxesco.github.io/assets/figuras/afro/milestone.jpg "conheça os super-heróis da milestone"  
 [link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
-[ytasha1]: https://itxesco.github.io/assets/figuras/afro/afrofuturism.jpeg "capa do livro de Ytasha L. Womack: _Afrofuturism: The World of Black Sci-Fi and Fantasy Culture_"  
+[ytasha1]: https://itxesco.github.io/assets/figuras/afro/afrofuturism.jpg "capa do livro de Ytasha L. Womack: _Afrofuturism: The World of Black Sci-Fi and Fantasy Culture_"  
