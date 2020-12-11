@@ -22,7 +22,7 @@ Em seu artigo sobre a definição do **Afrofuturismo**, [Adriano Elia](https://h
 
 O **Afrofuturismo** seria, então, uma forma de arte prática e metodológica, que permite à pessoa negra se ver representada em uma visão de futuro, apesar de seu passado e presente angustiantes,  apelando para a estética e ideias da ficção científica para refletir o processo de marginalização do povo Africano em diáspora, que em sua história de 500 anos de colonialismo, racismo e segregação, desenvolveu uma relação disjunctiva do conceito de "lar".
 
-[![o vampiro blade][blade]][link_trailer_blade]  
+[![o livro de Ytasha L. Womack][ytasha1]]
 
 
 O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realmente imitar a arte, o futuro pertencerá à Africa e a seus contadores de histórias.
@@ -31,5 +31,4 @@ O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realme
 [link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"  
 [milestone]: https://itxesco.github.io/assets/figuras/afro/milestone.jpg "conheça os super-heróis da milestone"  
 [link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
-[blade]: https://itxesco.github.io/assets/figuras/afro/blade.jpeg "o vampiro Blade, da Marvel"  
-[link_trailer_blade]: https://www.youtube.com/watch?v=kaU2A7KyOu4 "trailer do filme de 1998"  
+[ytasha1]: https://itxesco.github.io/assets/figuras/afro/afrofuturism.jpeg "capa do livro de Ytasha L. Womack: _Afrofuturism: The World of Black Sci-Fi and Fantasy Culture_"  
