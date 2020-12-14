@@ -4,7 +4,7 @@ title: Histórias em Quadrinhos
 description: pesquisa sobre Histórias em Quadrinhos
 ---
 
-![Quadrinhos?][calvin_tirinha]
+ ![Quadrinhos][calvin_1]
 
 
 Histórias em Quadrinhos são uma forma de contar histórias a partir de uma ideia simples: posicionar uma imagem ao lado da outra, ilustrando a passagem do tempo.
@@ -33,7 +33,7 @@ O **Afrofuturismo** seria, então, uma forma de arte prática e metodológica, q
 
 O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realmente imitar a arte, o futuro pertencerá à Africa e a seus contadores de histórias.
 
-[calvin_tirinha]: https://itxesco.github.io/assets/figuras/hq/calvin.jpg
+[calvin_1]: https://itxesco.github.io/assets/figuras/hq/calvin.jpg
 
 [link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"
 
@@ -43,7 +43,7 @@ O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realme
 
 [link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
 
-[yellow]: https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg "o que é Afrofuturismo?"
+[yellow]: https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg
 
 [link_afro_revolt]:https://www.revolt.tv/2018/2/27/20824357/from-octavia-butler-to-black-panther-afrofuturism-now-then-and-tomorrow "From Octavia Butler to 'Black Panther:' Afrofuturism Now, Then and Tomorrow"  
 
