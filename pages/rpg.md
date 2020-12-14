@@ -4,7 +4,7 @@ title: RPG & Educação
 description: pesquisa sobre RPG
 ---
 
-![o que é RPG?][RPG_o_que_e]
+![ RPG_na_USP][jcampus]
 
 Nascido oficialmente em 1974, com a série “Dungeons & Dragons”, o **RPG** é um jogo que admite diversas _modalidades_, envolvendo cartas, dados e livros. No chamado _**RPG de mesa**_, os participantes interpretam oralmente os personagens de uma história e tomam as decisões necessárias para definir seu rumo.
 
@@ -22,8 +22,8 @@ O **RPG** é essencialmente cooperativo, pois é fundamental a cooperação entr
 
 Já faz alguns anos que os **R**ole**p**laying **G**ames vem sendo usados na Educação, e no Brasil, quem primeiro chamou atenção para seu enorme potencial foi o psicólogo [Alfeu Marcatto](http://www.alfmarc.psc.br), em o seu livro “Saindo do Quadro”.
 
-![ RPG_na_USP][jcampus]
 
+![o que é RPG?][RPG_o_que_e]
 
  Com suas características discursivas e lúdicas, o **RPG** estimula seus participantes a desenvolverem a imaginação, o raciocínio e a interpretação de fatos e a resolução de situações-problema, resgatando o gosto pela leitura em uma postura ativa.
 
