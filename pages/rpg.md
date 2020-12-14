@@ -23,7 +23,7 @@ O **RPG** é essencialmente cooperativo, pois é fundamental a cooperação entr
 Já faz alguns anos que os **R**ole**p**laying **G**ames vem sendo usados na Educação, e no Brasil, quem primeiro chamou atenção para seu enorme potencial foi o psicólogo [Alfeu Marcatto](http://www.alfmarc.psc.br), em o seu livro “Saindo do Quadro”.
 
 
-![o que é RPG?][RPG_o_que_e]
+![d&d][RPG_o_que_e]
 
  Com suas características discursivas e lúdicas, o **RPG** estimula seus participantes a desenvolverem a imaginação, o raciocínio e a interpretação de fatos e a resolução de situações-problema, resgatando o gosto pela leitura em uma postura ativa.
 
@@ -59,7 +59,7 @@ FREITAS, Leandro Carlos Lima; SITKO, Camila Maria; DAS CHAGAS, Maria Liduína. *
 
 
 
-[RPG_o_que_e]: https://itxesco.github.io/assets/index_pics/dragon_feynman.jpg   
+[RPG_o_que_e]: https://itxesco.github.io/assets/figuras/rpg/ice_dragon.jpg   
 
 [jcampus]: https://itxesco.github.io/assets/figuras/rpg/JC_RPG.jpg
 
