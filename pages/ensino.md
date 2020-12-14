@@ -4,7 +4,7 @@ title:
 description: aulas de Francisco de Assis Nascimento Junior
 ---
 
-#### <a name="current"></a>Quadrimestre 2020.2
+#### <a name="current"></a> ![UFSB](icons16/ufsb-icon.jpg)[ Quadrimestre 2020.2](https://ufsb.edu.br)
 
 ---
 
@@ -14,7 +14,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="old"></a>outros quadrimestres
+#### <a name="old"></a> ![UFSB](icons16/ufsb-icon.jpg)[ outros quadrimestres](https://ufsb.edu.br)
 
 ---
 
@@ -28,7 +28,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-#### <a name="shortcourses"></a>Componentes da Pós-Graduação
+#### <a name="shortcourses"></a> ![UFSB](icons16/ufsb-icon.jpg)[ Pós-Graduação](https://ufsb.edu.br/ppger)  
 
 ---
 
@@ -39,7 +39,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 
 ---
 
-##### [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
+##### ![IFSP](icons16/ifsp-icon.ico)[ Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)
 
 Física Teórica (EM integrado) |  Física Experimental (EM integrado)
 ---|---:
@@ -49,7 +49,7 @@ Mecânica dos Sólidos e Fluídos | Política e Estrutura de Ensino no Brasil
 Oficinas de Projeto de Ensino I |Fundamentos da Física para Estruturas
 
 
-##### [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
+##### ![IFSP](icons16/uam-icon.ico)[ Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
 
 Estatística Aplicada | Algebra Linear e Vetores
@@ -60,7 +60,7 @@ Equações Diferenciais | Mecânica Geral
 Cálculo Diferencial | Cálculo Integral
 
 
-##### [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
+##### ![FAC-FITO](icons16/fac_fito-icon.ico)[ Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
 Laboratório de Física Experimental 1 | Conteúdos e Práticas de Ciências I
 --|--
