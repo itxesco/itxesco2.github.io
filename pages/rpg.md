@@ -61,6 +61,6 @@ FREITAS, Leandro Carlos Lima; SITKO, Camila Maria; DAS CHAGAS, Maria Liduína. *
 
 [jcampus]: https://itxesco.github.io/assets/figuras/rpg/JC_RPG.jpg
 
-[dices]: https://itxesco.github.io/assets/figuras/rpg/dados.jpg
+[dices]: https://itxesco.github.io/assets/figuras/rpg/dados2.jpg
 
 [einstein]: https://itxesco.github.io/assets/figuras/rpg/einstein.jpg
