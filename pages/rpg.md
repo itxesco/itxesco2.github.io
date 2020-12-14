@@ -27,6 +27,8 @@ Já faz alguns anos que os **R**ole**p**laying **G**ames vem sendo usados na Edu
 
  Com suas características discursivas e lúdicas, o **RPG** estimula seus participantes a desenvolverem a imaginação, o raciocínio e a interpretação de fatos e a resolução de situações-problema, resgatando o gosto pela leitura em uma postura ativa.
 
+---
+
 Algumas competências que o uso do **RPG** pode contribuir para desenvolver:
 
 | Resolução de situações-problema | Aplicação de conceitos em situações práticas |
@@ -34,7 +36,7 @@ Algumas competências que o uso do **RPG** pode contribuir para desenvolver:
 | Interdisciplinaridade | Expressão oral |  
 | Empatia   | respeito ao diferente |  
 
-
+---
 
 Logo após a vinda do **RPG** em larga escala para o Brasil, por volta de 1993, alguns jogadores  vieram a se tornar professores nos anos seguintes e passaram a buscar utilizar o jogo como uma  estratégia de Ensino, em um movimento que culminou com o a realização do **1o Simpósio de RPG e Educação** (maio de 2002) organizado pela ONG educativa [_Ludus Culturalis_](www.rpgeducacao.com.br).  
 
