@@ -4,7 +4,7 @@ title: Afrofuturismo
 description: pesquisa sobre Afrofuturismo
 ---
 
-![o livro de Ytasha L. Womack][ytasha1]
+[![o que é afrofuturismo?][afro_revolt]][link_afro_revolt]
 
 
 Em 1993 o filme [Flame Wars: The Discourse of Cyberculture](https://www.wired.com/1995/01/flame-wars/), do crítico cultural [Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery), apresentou o termo **Afrofuturismo**  ao se referir a "ficção especulativa de assuntos afro-americanos, referente às preocupações afro-americanas no contexto da tecnocultura do século XX e, de um modo mais geral, à resignificação afro-americana das imagens de tecnologia e aprimorações protéticas futurísticas"[(DERY, 1994 pg. 136)](https://www.jstor.org/stable/20719430?seq=1).   
@@ -31,4 +31,5 @@ O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realme
 [link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"  
 [milestone]: https://itxesco.github.io/assets/figuras/afro/milestone.jpg "conheça os super-heróis da milestone"  
 [link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
-[ytasha1]: https://itxesco.github.io/assets/figuras/afro/revolt_afro.jpg "o que é Afrofuturismo?"  
+[afro_revolt]: https://itxesco.github.io/assets/figuras/afro/afro_revolt.jpg "o que é Afrofuturismo?" 
+[link_afro_revolt]:https://www.revolt.tv/2018/2/27/20824357/from-octavia-butler-to-black-panther-afrofuturism-now-then-and-tomorrow "From Octavia Butler to 'Black Panther:' Afrofuturism Now, Then and Tomorrow"  
