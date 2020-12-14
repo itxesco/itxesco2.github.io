@@ -20,12 +20,12 @@ O **RPG** é essencialmente cooperativo, pois é fundamental a cooperação entr
 
 Já faz alguns anos que os **R**ole**p**laying **G**ames vem sendo usados na Educação, e no Brasil, quem primeiro chamou atenção para seu enorme potencial foi o psicólogo [Alfeu Marcatto](http://www.alfmarc.psc.br), em o seu livro “Saindo do Quadro”.
 
-![RPG no Campus da USP][jcampus]
+![ RPG_na_USP][jcampus]
 
 
  Com suas características discursivas e lúdicas, o **RPG** estimula seus participantes a desenvolverem a imaginação, o raciocínio e a interpretação de fatos e a resolução de situações-problema, resgatando o gosto pela leitura em uma postura ativa.
 
-**RPG** contribui para o desenvolvimento:
+**RPG** pode contribuir para desenvolvimer:
 
 **Resolução de situações-problema**: ocorre o tempo todo, pois durante todo o jogo os personagens dos alunos se defrontam com situações que precisam resolver para continuar vivendo, e os alunos, continuar jogando. Realizado de maneira lúdica, essa competência é a base do RPG. Portanto, durante o jogo, essa competência é exercitada durante praticamente todo o tempo.
 
