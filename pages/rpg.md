@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Afrofuturismo
+title: RPG & Educação
 description: pesquisa sobre RPG
 ---
 
