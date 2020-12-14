@@ -29,25 +29,23 @@ Já faz alguns anos que os **R**ole**p**laying **G**ames vem sendo usados na Edu
 
 Algumas competências que o uso do **RPG** pode contribuir para desenvolver:
 
-**Resolução de situações-problema** | **Aplicação de conceitos em situações práticas**
+| Resolução de situações-problema | Aplicação de conceitos em situações práticas |
 |---|---|
-| **Interdisciplinaridade** | **Expressão oral** |  
-| **Empatia**   | **respeito ao diferente** |  
+| Interdisciplinaridade | Expressão oral |  
+| Empatia   | respeito ao diferente |  
 
 
 
-![albert][einstein]
+Logo após a vinda do **RPG** em larga escala para o Brasil, por volta de 1993, alguns jogadores  vieram a se tornar professores nos anos seguintes e passaram a buscar utilizar o jogo como uma  estratégia de Ensino, em um movimento que culminou com o a realização do **1o Simpósio de RPG e Educação** (maio de 2002) organizado pela ONG educativa [_Ludus Culturalis_](www.rpgeducacao.com.br).  
 
-como o jogo se dá em grupo e sempre há uma tarefa a ser solucionada cooperativamente, o RPG está muito próximo das dinâmicas de treinamento empresarial usadas nos dias atuais, o que o torna importante na escola, pois os alunos são inseridos nos conceitos modernos de trabalho e relações pessoais, que valorizam muito a capacidade de trabalho em grupo.  
-
-Logo após a vinda do **RPG** em larga escala para o Brasil, por volta de 1993, alguns jogadores  vieram a se tornar professores nos anos seguintes e passaram a buscar utilizar o jogo como uma  estratégia de Ensino, em um movimento que culminou com o a realização do **1o Simpósio de RPG e Educação** (maio de 2002) organizado pela ONG educativa [_Ludus Culturalis_](www.rpgeducacao.com.br).
+  ![albert][einstein]
 
 Cada vez mais, o RPG vem sendo usado por professores em todo o Brasil. Algumas referências básicas nos estudos sobre esta prática:
 
 
 GRANDO, Anita; TAROUCO, Liane Margarida Rockenbach. **O uso de jogos educacionais do tipo RPG na educação**. RENOTE-Revista Novas Tecnologias na Educação, v. 6, n. 1, 2008. [![pdf](icons16/pdf-icon.png)](https://www.seer.ufrgs.br/renote/article/viewFile/14403/8308)  
 
-VASQUES, Rafael Carneiro. **As potencialidades do RPG (Role Playing Game) na educação escolar**. 2008. [![pdf](icons16/pdf-icon.png)](https://repositorio.unesp.br/handle/11449/90316)  
+VASQUES, Rafael Carneiro.**As potencialidades do RPG (Role Playing Game) na educação escolar**.2008.[![pdf](icons16/pdf-icon.png)](https://repositorio.unesp.br/handle/11449/90316)  
 
 BITTENCOURT, João Ricardo; GIRAFFA, Lucia Maria. **Role-playing games, educação e jogos computadorizados na cibercultura**. I Simpósio de RPG em Educação, p. 14, 2003. [![pdf](icons16/pdf-icon.png)](https://d1wqtxts1xzle7.cloudfront.net/49291500/historiapaper03.pdf?1475417856=&response-content-disposition=inline%3B+filename%3DRole_Playing_Games_Educacao_e_Jogos_Comp.pdf&Expires=1607975730&Signature=CPwz~-sLxvf1hF41gTd0tpJQqQeX2CFYOo-H59GY05AGokUzXKZDjYJzc5nmgo9G1-UNGauCJxb-NmFzU1efebdgbXeGfcbivbHDLyMAlpboign4DO5roW-p2-mkQJKi5ClTA3D1fAVo3EU6cnT3bgUG2u6Nbo3KIUwtIKhKmcVa4u~9LBRlWVuG6zIZfqQjHWhc5jtoXbtY0HIHFYGZhMT3YeppBEH8Y7t6pqqH3Si5kXdsRw3Iag2h6828lH8u6FJzThXiXWlBXEv181spkmUC3Wv9B-ipPu0WZFqixFb1bVTTZQDPMt2wCmC4zIW~SyEpKw5CGTv98zL6kx9~4w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
@@ -55,7 +53,7 @@ CABALERO, S. X.; MATTA, Alfredo Eurico Rodrigues. **O jogo RPG visto como uma co
 
 JUNIOR, Francisco de Assis Nascimento; PIETROCOLA, Maurício. **O papel do RPG no ensino de Física**. 2005. [![pdf](icons16/pdf-icon.png)](https://sites.usp.br/nupic/wp-content/uploads/sites/293/2016/05/Francisco_de_Assis_Nascimento_Junior_O_PAPEL_DO_RPG.pdf)  
 
-FREITAS, Leandro Carlos Lima; SITKO, Camila Maria; DAS CHAGAS, Maria Liduína. **Panorama do RPG (Role-Playing Game) no Ensino de Física no período de 2015-2019**. Ensino & Pesquisa, v. 18, n. 3, 2020. [![pdf](http://periodicos.unespar.edu.br/index.php/ensinoepesquisa/article/view/3693)
+FREITAS, Leandro Carlos Lima; SITKO, Camila Maria; DAS CHAGAS, Maria Liduína. **Panorama do RPG (Role-Playing Game) no Ensino de Física no período de 2015-2019**. Ensino & Pesquisa, v. 18, n. 3, 2020. [![pdf](icons16/pdf-icon.png)](http://periodicos.unespar.edu.br/index.php/ensinoepesquisa/article/view/3693)
 
 
 
