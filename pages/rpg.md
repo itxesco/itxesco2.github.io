@@ -27,19 +27,12 @@ Já faz alguns anos que os **R**ole**p**laying **G**ames vem sendo usados na Edu
 
  Com suas características discursivas e lúdicas, o **RPG** estimula seus participantes a desenvolverem a imaginação, o raciocínio e a interpretação de fatos e a resolução de situações-problema, resgatando o gosto pela leitura em uma postura ativa.
 
-**RPG** pode contribuir para desenvolvimer:
+Algumas competências que o uso do **RPG** pode contribuir para desenvolver:
 
-**Resolução de situações-problema**: ocorre o tempo todo, pois durante todo o jogo os personagens dos alunos se defrontam com situações que precisam resolver para continuar vivendo, e os alunos, continuar jogando. Realizado de maneira lúdica, essa competência é a base do RPG. Portanto, durante o jogo, essa competência é exercitada durante praticamente todo o tempo.
-
-**Aplicação de conceitos em situações práticas**: as aventuras são preparadas de modo a desenvolver algum componente curricular ou tema transversal. De qualquer modo, essa aventura é uma simulação de situação real, onde os conteúdos são apresentados da mesma maneira que são aplicados na prática. Sendo assim, os conceitos adquiridos antes ou durante o jogo são usados em situações práticas simuladas no RPG.
-
-**Interdisciplinaridade**: as aventuras são interdisciplinares por excelência, pois, como são uma simulação da vida e a vida é interdisciplinar, a aventura também o é. O jogo, então, estimula essa relação de conteúdos normalmente separados artificialmente.
-
-**Expressão oral** (principalmente no jogo tradicional): o jogo de RPG tradicional se baseia na descrição oral das ações dos personagens. Daí se tem que a expressão oral é fundamental para o jogo e é desenvolvida e estimulada durante todo o tempo.
-
-**Empatia e respeito ao outro**: como todos os personagens são interdependentes, os alunos se sentem “obrigados” a ajudarem os companheiros, desenvolvendo uma consciência de que o outro é importante também. Houve casos em que as ações positivas dos personagens durante o jogo causaram melhora significativa nas relações interpessoais dos jogadores.
-
-Cooperação – vitória somente através da solução coletiva: como o RPG é um jogo onde, para se vencer é preciso que o outro jogador também vença, a consciência de esse outro tipo de vitória é mostrado aos alunos, que são estimulados a agir dessa forma. Quem aplica esses jogos costuma dizer que sem união não há solução, e essa máxima está sempre presente nos jogos, ressaltando nos jogadores a importância da ação coletiva.
+**Resolução de situações-problema** | **Aplicação de conceitos em situações práticas**
+|---|---|
+| **Interdisciplinaridade** | **Expressão oral** |  
+| **Empatia**   | **respeito ao diferente** |
 
 ![albert][einstein]
 
