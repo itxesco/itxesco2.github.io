@@ -41,6 +41,8 @@ Já faz alguns anos que os **R**ole**p**laying **G**ames vem sendo usados na Edu
 
 Cooperação – vitória somente através da solução coletiva: como o RPG é um jogo onde, para se vencer é preciso que o outro jogador também vença, a consciência de esse outro tipo de vitória é mostrado aos alunos, que são estimulados a agir dessa forma. Quem aplica esses jogos costuma dizer que sem união não há solução, e essa máxima está sempre presente nos jogos, ressaltando nos jogadores a importância da ação coletiva.
 
+![albert][einstein]
+
 como o jogo se dá em grupo e sempre há uma tarefa a ser solucionada cooperativamente, o RPG está muito próximo das dinâmicas de treinamento empresarial usadas nos dias atuais, o que o torna importante na escola, pois os alunos são inseridos nos conceitos modernos de trabalho e relações pessoais, que valorizam muito a capacidade de trabalho em grupo.  
 
 Logo após a vinda do **RPG** em larga escala para o Brasil, por volta de 1993, alguns jogadores  vieram a se tornar professores nos anos seguintes e passaram a buscar utilizar o jogo como uma  estratégia de Ensino, em um movimento que culminou com o a realização do **1o Simpósio de RPG e Educação** (maio de 2002) organizado pela ONG educativa [_Ludus Culturalis_](www.rpgeducacao.com.br).
@@ -53,3 +55,5 @@ Cada vez mais, o RPG vem sendo usado por professores em todo o Brasil. As refer�
 [jcampus]: https://itxesco.github.io/assets/figuras/rpg/JC_RPG.jpg
 
 [dices]: https://itxesco.github.io/assets/figuras/rpg/dados.jpg
+
+[einstein]: https://itxesco.github.io/assets/figuras/rpg/einstein.jpg
