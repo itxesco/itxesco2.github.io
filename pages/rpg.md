@@ -12,7 +12,7 @@ No mundo virtual, o **RPG** mais famoso é _World of Warcraft_, que reúne milh�
 
 Mas, o que é **RPG**?
 
-![kit][dices]  
+![ kit][kitdice]  
 
 A sigla remete à interpretação de papéis em histórias com temas que podem ir desde conflitos medievais até sociedades futuristas. Em resumo,  **RPG** é um jogo onde cada participante constrói a _ficha_ de seu personagem e o interpreta, exceto um, que assumo o papel de _narrador_ e se torna  responsável pela descrição do ambiente e a interpretação dos NPCs (sigla em inglês para designar personagens não-jogadores). Os jogadores, após descrição do ambiente e da situação pelo _narrador_, descrevem oralmente as ações de seus personagens, obedecendo as características que constam em suas _fichas_.
 
@@ -65,6 +65,6 @@ Logo após a vinda do **RPG** em larga escala para o Brasil, por volta de 1993, 
 
 [jcampus]: https://itxesco.github.io/assets/figuras/rpg/JC_RPG.jpg
 
-[dices]: https://itxesco.github.io/assets/figuras/rpg/lots-of-dice.jpg
+[kitdice]: https://itxesco.github.io/assets/figuras/rpg/lots-of-dice.jpg
 
 [einstein]: https://itxesco.github.io/assets/figuras/rpg/einstein.jpg
