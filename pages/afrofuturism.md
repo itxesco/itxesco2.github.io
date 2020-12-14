@@ -8,7 +8,7 @@ description: pesquisa sobre Afrofuturismo
 
 
 Em 1993 o filme [Flame Wars: The Discourse of Cyberculture](https://www.wired.com/1995/01/flame-wars/), do crítico cultural [Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery), apresentou o termo **Afrofuturismo**  ao se referir a "ficção especulativa de assuntos afro-americanos, referente às preocupações afro-americanas no contexto da tecnocultura do século XX e, de um modo mais geral, à resignificação afro-americana das imagens de tecnologia e aprimorações protéticas futurísticas"[(DERY, 1994 pg. 136)](https://www.jstor.org/stable/20719430?seq=1).   
-Esta é uma definição que deve ser interpretada em duas partes, de acordo com [Lisa Yaszek](https://www.iac.gatech.edu/people/faculty/yaszek)::  
+Esta é uma definição que deve ser interpretada em duas partes, de acordo com [Lisa Yaszek](https://www.iac.gatech.edu/people/faculty/yaszek):  
 
  - Em sua relação com a ficção científica como gênero estético, o **Afrofuturismo** não deve ser pensado como um simples gênero de ficção cientifica.
  - O **Afrofuturismo** representa um modo estético capaz de abranger diferentes artistas e seus trabalhos, em diferentes gêneros e plataformas de mídia, unidos pelo  interesse comum de projetar um _futuro negro_ à partir de experiências diaspóricas (YASZEK, 2006 [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/afrofuturismo/Afrofuturism_science_fiction_and_the_his.pdf))
@@ -31,5 +31,5 @@ O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realme
 [link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"  
 [milestone]: https://itxesco.github.io/assets/figuras/afro/milestone.jpg "conheça os super-heróis da milestone"  
 [link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
-[afro_revolt]: https://itxesco.github.io/assets/figuras/afro/afro_revolt.jpg "o que é Afrofuturismo?" 
+[afro_revolt]: https://itxesco.github.io/assets/figuras/afro/afro_revolt.jpg "o que é Afrofuturismo?"
 [link_afro_revolt]:https://www.revolt.tv/2018/2/27/20824357/from-octavia-butler-to-black-panther-afrofuturism-now-then-and-tomorrow "From Octavia Butler to 'Black Panther:' Afrofuturism Now, Then and Tomorrow"  
