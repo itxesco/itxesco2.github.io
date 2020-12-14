@@ -32,7 +32,9 @@ Algumas competências que o uso do **RPG** pode contribuir para desenvolver:
 **Resolução de situações-problema** | **Aplicação de conceitos em situações práticas**
 |---|---|
 | **Interdisciplinaridade** | **Expressão oral** |  
-| **Empatia**   | **respeito ao diferente** |
+| **Empatia**   | **respeito ao diferente** |  
+
+  
 
 ![albert][einstein]
 
