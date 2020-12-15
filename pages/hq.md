@@ -70,6 +70,23 @@ A "Era de Bronze" compreende as publicações lançadas entre o fim da "Era de P
 O escritor Grant Morrison, entretanto, sugere em seu livro _Supergods_ que 1970 marcou o início não da "Era de Bronze", mas sim de uma "Era Sombria", que se estendeu além de 1985 e foi marcada pela tentativa de "levar o mundo real para as histórias em quadrinhos".
 
 
+>Cada vez mais, os estudos sobre Histórias em Quadrinhos vem conquistando espaço no campo de pesquisas em educação. Algumas referências básicas podem ser consideradas:
+
+>DORFMAN, Ariel; MATTELART, Armand; DE MOYA, Álvaro. **Para ler o Pato Donald: comunicação de massa e colonialismo**. 2002.  
+
+>JÚNIOR, Gonçalo. **A guerra dos gibis: a formação do mercado editorial brasileiro e a censura aos quadrinhos, 1933-1964**. Editora Companhia das Letras, 2004.  
+
+>RAMOS, Paulo; VERGUEIRO, Waldomiro. **Quadrinhos na educação**. Editora Contexto, 2013.  
+
+>EISNER, Will. Narrativas gráficas. São Paulo: Devir, v. 168, 2005.  
+
+>MCLOUD, Scott. Desvendando os quadrinhos 2ª ed. 2005.  
+
+>DANTON, Gian. **A divulgação científica nos quadrinhos: análise do caso Watchmen**. 1997. Tese de Doutorado. Tese de Mestrado. Curso de Pós-graduação da Universidade Metodista de São Paulo. Em http://watchmencaos.blogspot.com/2014/.	
+
+>DANTON, Gian. **Ciência e quadrinhos**. João Pessoa: Marca de Fantasia, 2005.
+
+
 
 
 [calvin_1]: https://itxesco.github.io/assets/figuras/hq/calvin.jpg
