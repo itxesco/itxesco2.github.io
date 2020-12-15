@@ -50,27 +50,14 @@ Enquanto as tirinhas de humor continuavam a ser publicadas nos jornais (o que ex
 
 Em 1933, o conto Armageddon 2419 A.D., de Phillip Francis Nowlan, que havia sido publicado na edição de agosto de 1928 da revista _Amazing Stories_, editada por Hugo Gernsback, foi também adaptado para os quadrinhos tornando "As aventuras de Buck Rogers" a primeira tirinha de ficção científica.
 
-O sucesso trouxe em 21 de agosto de 1993 a estréia de Brick Bradford, de William Ritt, seguido pelo avassalador sucesso de Flash Gordon em 1934.  
+O sucesso trouxe em 21 de agosto de 1993 a estréia de Brick Bradford, de William Ritt, seguido pelo avassalador sucesso de Flash Gordon em 1934. em 17 de fevereiro de 1936, Lee Falk lança "O Fantasma", primeiro herói dos quadrinhos a vestir um uniforme e uma máscara sem pupilas visíveis, que oculta sua identidade.
 
-
- definição que deve ser interpretada em duas partes, de acordo com [Lisa Yaszek](https://www.iac.gatech.edu/people/faculty/yaszek):  
-
-
-
- - Em sua relação com a ficção científica como gênero estético, o **Afrofuturismo** não deve ser pensado como um simples gênero de ficção cientifica.
- - O **Afrofuturismo** representa um modo estético capaz de abranger diferentes artistas e seus trabalhos, em diferentes gêneros e plataformas de mídia, unidos pelo  interesse comum de projetar um _futuro negro_ à partir de experiências diaspóricas (YASZEK, 2006 [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/afrofuturismo/Afrofuturism_science_fiction_and_the_his.pdf))
+Com o sucesso das vendas dos jornais nos dias em que as tirinhas de _comics_ eram publicadas, os editores passaram a compilar esse material no formato de revistas, as _comic books_, vendidas separadamente nas bancas de jornal. Em junho de 1938, o primeiro super-herói surgiu nas páginas de estréia da revista _Action Comics_  
 
 
 
-Ytasha Womack apresenta uma outra definição para o **Afrofuturismo**  como uma "intersecção entre a imaginação, a tecnologia, o futuro e a libertação" [Womack 2013 pg. 9](https://www.chicagoreviewpress.com/afrofuturism-products-9781613747964.php). Trata-se, portanto, de "um  movimento cultural transdisciplinar, baseado na incomum conexão  entre a marginalidade dos supostamente “primitivos” povos da diáspora africana e a tecnologia “moderna” e a ficção científica"(ELIA, 2014 [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/afrofuturismo/The_Languages_of_Afrofuturism.pdf)).  
-Em seu artigo sobre a definição do **Afrofuturismo**, [Adriano Elia](https://host.uniroma3.it/docenti/elia/) considera suas diferentes linguagens, como a arte de [Basquiat](https://www.guiadasartes.com.br/jean-michel-basquiat/biografia), a música de [Sun Ra](http://www.sunraarkestra.com) e a literatura de [WEB Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois), [Ralph Ellison](https://en.wikipedia.org/wiki/Ralph_Ellison) e [Octavia Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler).   
-
-**Afrofuturismo** é um termo capaz de suscitar diferentes definições enlaçadas por um elo em comum: os temas de recuperação, libertação negra,  revisão do passado e previsões de um futuro através de uma lente cultural negra.
-
-O **Afrofuturismo** seria, então, uma forma de arte prática e metodológica, que permite à pessoa negra se ver representada em uma visão de futuro, apesar de seu passado e presente angustiantes,  apelando para a estética e ideias da ficção científica para refletir o processo de marginalização do povo Africano em diáspora, que em sua história de 500 anos de colonialismo, racismo e segregação, desenvolveu uma relação disjunctiva do conceito de "lar".
 
 
-O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realmente imitar a arte, o futuro pertencerá à Africa e a seus contadores de histórias.
 
 [calvin_1]: https://itxesco.github.io/assets/figuras/hq/calvin.jpg
 
