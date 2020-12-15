@@ -52,9 +52,22 @@ Em 1933, o conto Armageddon 2419 A.D., de Phillip Francis Nowlan, que havia sido
 
 O sucesso trouxe em 21 de agosto de 1993 a estréia de Brick Bradford, de William Ritt, seguido pelo avassalador sucesso de Flash Gordon em 1934. em 17 de fevereiro de 1936, Lee Falk lança "O Fantasma", primeiro herói dos quadrinhos a vestir um uniforme e uma máscara sem pupilas visíveis, que oculta sua identidade.
 
-Com o sucesso das vendas dos jornais nos dias em que as tirinhas de _comics_ eram publicadas, os editores passaram a compilar esse material no formato de revistas, as _comic books_, vendidas separadamente nas bancas de jornal. Em junho de 1938, o primeiro super-herói surgiu nas páginas de estréia da revista _Action Comics_  
+Com o sucesso das vendas dos jornais nos dias em que as tirinhas de _comics_ eram publicadas, os editores passaram a compilar esse material no formato de revistas, as _comic books_, vendidas separadamente nas bancas de jornal. Em junho de 1938, o primeiro super-herói surgiu nas páginas de estréia da revista _Action Comics_.  
 
+Teve início uma tempestade de criadores e editores de revistas de Histórias em Quadrinhos nos EUA, quer tornaram a "Era de Ouro" uma época prolífica para os Super-Heróis, em que aproximadamente 85% da população jovem dos EUA lia suas histórias (JONES, 2005).
 
+Em 1954, a publicação do livro _Seduction of the innocent_ pelo psiquiatra Fredric Wertham trouxe o fim da "Era de Ouro", a perseguição a autores e o fechamento de editoras como consequência do Macartismo, e o nascimento do _Comics Code Authority_.
+
+Em 1956, as editoras sobreviventes viram o surgimento da "Era de Prata" com a publicação do número 4 da revista _Showcase_, trazendo a versão modernizada do super-herói _Flash_, da editora DC Comics. Em 1960, a editora MArvel Comics inicia a publicação de seus personagens.
+
+Não há uma data comumente aceita para o fim da "Era de Prata" e existem diversas possibilidades tanto para seu término:
+* O ano de 1969, quando foram publicadas as últimas revistas com preço de capa de 12 _cents_;  
+* Abril de 1970, quando Julius Schwartz, responsável por iniciar a "Era de Prata", abandonou o cargo de editor da revista _Green Lantern_ em favor de Denny O'Neil e Neal Adams;  
+* Junho-julho de 1973, quando foi publicada a história _The Night Gwen Stacy Died_. Nela, Gwen Stacy, a então namorada do super-herói Homem-Aranha, é morta. A morte de Stacy representaria o fim da inocência dos leitores e das histórias mais leves que haviam marcado o período.
+
+A "Era de Bronze" compreende as publicações lançadas entre o fim da "Era de Prata" (década de 1970) e o início da década de 1980, estendendo-se até aproximadamente o ano de 1985, quando foi substituída pela "Era do Ferro", até o fim da década de 1980 e a chamada "Era Moderna", em vigor até hoje.  
+
+O escritor Grant Morrison, entretanto, sugere em seu livro _Supergods_ que 1970 marcou o início não da "Era de Bronze", mas sim de uma "Era Sombria", que se estendeu além de 1985 e foi marcada pela tentativa de "levar o mundo real para as histórias em quadrinhos".
 
 
 
