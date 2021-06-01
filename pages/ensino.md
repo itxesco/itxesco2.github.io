@@ -10,7 +10,8 @@ description: aulas de Francisco de Assis Nascimento Junior
 ---
 
 
-| **ISC0204** - [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html) | **ISC0390** - [Estágio Supervisionado V](https://itxesco.github.io/aulas/ISC0390/index.html) |
+ **ISC0204** - [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html)  
+ **ISC0390** - [Estágio Supervisionado V](https://itxesco.github.io/aulas/ISC0390/index.html) 
 
 ---
 
