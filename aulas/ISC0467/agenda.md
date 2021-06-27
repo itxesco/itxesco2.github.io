@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ISC0468
+title: ISC0467
 ---
-#### Estágio Supervisionado VI para Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias -  Agenda do quadrimestre letivo 2021.1  
+#### Práticas Laboratoriais Interdisciplinares em Ciências da Natureza -  Agenda do quadrimestre letivo 2021.1  
 
 ---
 
