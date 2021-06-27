@@ -39,6 +39,11 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/), [Campus Sosígenes Costa](https:
 
  [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho
 
+ [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639) Martha Matos Lucas Teixeira
+
+ [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/8121344743580077) Ubiratam Gomes dos Santos Junior
+
+[![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/7545687911475904) Ericka Cristian Santana Carneiro
  ---
 
 **Iniciação Científica**:
@@ -47,6 +52,6 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/), [Campus Sosígenes Costa](https:
 
 [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/0441717524768073) Vitória Guimarães Dantas (2019-2020)  
 
-[![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/5977115182619808) Carleane Nunes Borges (2020)
+[![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/5977115182619808) Carleane Nunes Borges (2020-2021)
 
-![lattes](icons16/lattes-icon.png) Bruna Bonfim Caldas (2020)   
+![lattes](icons16/lattes-icon.png) Bruna Bonfim Caldas (2020-2021)   
