@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Estágio Supervisionado III para LICNT
+title: Estágio Supervisionado VI para LICNT
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
->- [agenda](https://itxesco.github.io/aulas/ISC0180/agenda.html)
-- [programa](https://itxesco.github.io/aulas/ISC0180/programa.html)
+>- [agenda](https://itxesco.github.io/aulas/ISC0468/agenda.html)
+
 
 
 Os objetivos desta Componente Curricular são:
@@ -12,7 +12,7 @@ Os objetivos desta Componente Curricular são:
 - 2. Vivência e compartilhamento de saberes/práticas frente às situações reais vivenciadas no contexto da escola;
 - 3. Desenvolvimento de atitudes crítico-reflexivas que contribuam para uma postura profissional solidária e responsável aos objetivos e desafios enfrentados pelas escolas das redes públicas da educação básica do Sul da Bahia.
 
-No decorrer deste curso (e na sua sequência, [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC0332/index.html),  discentes da graduação em Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias do Campus Sosígenes Costa irão aprimorar sua capacidade em:
+No decorrer deste curso (e na sua sequência, [Estágio Supervisionado VII](https://itxesco.github.io/aulas/ISC0469/index.html),  discentes da graduação em Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias do Campus Sosígenes Costa irão aprimorar sua capacidade em:
 - Caracterizar e organizar  espaços escolares e o trabalho pedagógico.
 - Observar, sistematizar, interagir de modo crítico e solidário em práticas pedagógicas capazes de contribuir para a compreensão e realização dos processos de ensino e aprendizagem.
 
@@ -26,10 +26,10 @@ No decorrer deste curso (e na sua sequência, [Estágio Supervisionado IV](https
 
     <div class="row-fluid">
         <div class="span5">
-          <p>  presencialmente,  terças-feiras 18:30-22:30, sala 11 no CIEPS (devido a pandemia COVID-19, serão substituídas por encontros síncronos. O link para o servidor  é disponibilizado na área da componente no sigaA e também pelo e-mail ao início do quadrimestre.</p>
+          <p>  presencialmente,  sábados as 8:00, sala 11 no CIEPS (devido a pandemia COVID-19, serão substituídas por encontros síncronos. O link para o servidor  é disponibilizado na área da componente no sigaA e também pelo e-mail ao início do quadrimestre.</p>
             <br>
 <p> <b>atendimento</b>
-deve ser agendado pelo servidor da Componente no Discord e  ocorrem nas terças e quartas-feiras no horário entre 13:30 e 16:30 </p>
+deve ser agendado pelo servidor da Componente no Discord e  ocorrem nas quintas e sextas-feiras no horário entre 13:30 e 16:30 </p>
 <br/>
 
 
