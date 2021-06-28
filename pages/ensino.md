@@ -10,6 +10,7 @@ description: aulas de Francisco de Assis Nascimento Junior
 ---
 
 **ISC0313** - [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html) |
+**ISC0467** - [Práticas Laboratoriais Interdisciplinares em Ciências da Natureza]((https://itxesco.github.io/aulas/ISC0467/index.html) |
 **ISC0468** - [Estágio Supervisionado VI](https://itxesco.github.io/aulas/ISC0468/index.html) |    
 
 ---
