@@ -8,13 +8,13 @@ description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus
 
 
 Os objetivos desta Componente Curricular são:
-- 1. Integração da/o estagiária/o ao contexto de trabalho remoto das escolas da rede pública, em especial, aos Colégios Universitários e/ou Complexos Integrados de Educação;
+- 1. Integração  ao contexto de trabalho experimental nas escolas da rede pública, nos niveis fundamental e médio;
 - 2. Vivência e compartilhamento de saberes/práticas frente às situações reais vivenciadas no contexto da escola;
-- 3. Desenvolvimento de atitudes crítico-reflexivas que contribuam para uma postura profissional solidária e responsável aos objetivos e desafios enfrentados pelas escolas das redes públicas da educação básica do Sul da Bahia.
+- 3. Desenvolvimento de atitudes crítico-reflexivas que contribuam para uma postura profissional solidária e responsável.
 
-No decorrer deste curso (e na sua sequência, [Estágio Supervisionado VII](https://itxesco.github.io/aulas/ISC0469/index.html),  discentes da graduação em Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias do Campus Sosígenes Costa irão aprimorar sua capacidade em:
-- Caracterizar e organizar  espaços escolares e o trabalho pedagógico.
-- Observar, sistematizar, interagir de modo crítico e solidário em práticas pedagógicas capazes de contribuir para a compreensão e realização dos processos de ensino e aprendizagem.
+No decorrer deste curso,  discentes da graduação em Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias do Campus Sosígenes Costa irão aprimorar sua capacidade em:
+- Caracterizar e organizar espaços para praticas Interdisciplinares e o trabalho pedagógico.
+- Observar, sistematizar, interagir de modo crítico e solidário em práticas de experimentação capazes de contribuir para uma leitura crítica do mundo.
 
 
 **Professor:** [Dr. Francisco Nascimento](https://itxesco.github.io/pages/about.html)
@@ -26,10 +26,10 @@ No decorrer deste curso (e na sua sequência, [Estágio Supervisionado VII](http
 
     <div class="row-fluid">
         <div class="span5">
-          <p>  presencialmente,  sábados as 8:00, sala 11 no CIEPS (devido a pandemia COVID-19, serão substituídas por encontros síncronos. O link para o servidor  é disponibilizado na área da componente no sigaA e também pelo e-mail ao início do quadrimestre.</p>
+          <p>  presencialmente,  sextas-feiras as 19:00, sala 11 no CIEPS (devido a pandemia COVID-19, serão substituídas por encontros síncronos. O link para o servidor  é disponibilizado na área da componente no sigaA e também pelo e-mail ao início do quadrimestre.</p>
             <br>
 <p> <b>atendimento</b>
-deve ser agendado pelo servidor da Componente no Discord e  ocorrem nas quintas e sextas-feiras no horário entre 13:30 e 16:30 </p>
+deve ser agendado pelo servidor da Componente no Discord e  ocorrem nas segundas-feiras no horário entre 13:30 e 16:30 </p>
 <br/>
 
 
