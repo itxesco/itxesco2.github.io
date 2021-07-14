@@ -33,8 +33,6 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/), [Campus Sosígenes Costa](https:
 
 **Mestrado**:
 
- [![lattes](icons16/lattes-icon.png)]("http://lattes.cnpq.br/7551985613163404") Fabrício da Silva Santos  
-
  [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde
 
  [![lattes](icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho
